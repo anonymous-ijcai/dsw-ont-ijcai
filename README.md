@@ -52,9 +52,9 @@ The files related to `WikiTaxonomy` are in [dswont/resources/wikitaxonomy](./dsw
 #### Nodes and relations extracted from ACM CCS
 
 - [ACMCCS.xml](./dswont/resources/ACMCCS.xml) -- `ACM CCS` itself,
-- [acm-concepts.txt](./dswont/acm-concepts.txt) -- mapping from `ACM` ids to concept names,
-- [acm-relations.txt](./dswont/acm-relations.txt) -- pairs of parent-child concepts in `ACM`,
-- [acm-wiki-mapping.txt](./dswont/acm-wiki-mapping.txt) -- partial mapping between `ACMCCS` and `Wikipedia` categories.
+- [acm-concepts.txt](./dswont/resources/acm-concepts.txt) -- mapping from `ACM` ids to concept names,
+- [acm-relations.txt](./dswont/resources/acm-relations.txt) -- pairs of parent-child concepts in `ACM`,
+- [acm-wiki-mapping.txt](./dswont/resources/acm-wiki-mapping.txt) -- partial mapping between `ACMCCS` and `Wikipedia` categories.
 
 
 #### Cache files
