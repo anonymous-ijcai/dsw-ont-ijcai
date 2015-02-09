@@ -1,0 +1,1000 @@
+Computing -> Computing_and_society r
+Computing_and_society -> Computing_culture p
+Computing_culture -> Video_game_culture p
+Video_game_culture -> Video_gaming_by_country -
+Video_gaming_by_country -> Video_gaming_in_Thailand -
+Computing -> Information_technology ?
+Information_technology -> Information_science ?
+Information_science -> Library_science p
+Library_science -> Reference_works r
+Reference_works -> Directories s
+Computing -> Software p
+Computing_by_company -> Software_by_company -
+Software_by_company -> Video_games_by_company -
+Electronic_Arts -> Electronic_Arts_games r
+Electronic_Arts_games -> Works_based_on_Electronic_Arts_video_games r
+Works_based_on_Electronic_Arts_video_games -> Novels_based_on_Dragon_Age s
+Computing -> Computer_science p
+Computer_science -> Areas_of_computer_science -
+Areas_of_computer_science -> Theory_of_computation -
+Computability_theory -> Hypercomputation p
+Computer_engineering -> Computer_systems ?
+Classes_of_computers -> Embedded_systems -
+Applications_of_computer_vision -> Robots -
+Robots -> Unmanned_vehicles s
+Unmanned_vehicles -> Missile_guidance r
+Software -> Software_development r
+Areas_of_computer_science -> Software_engineering -
+Computing -> Computer_programming p
+Computer_languages -> Programming_languages s
+Programming_languages -> Dynamic_programming_languages s
+Dynamic_programming_languages -> Dynamically_typed_programming_languages s
+Computing_and_society -> Personal_computing ?
+Personal_computing -> Electronic_games p
+Application_software -> Video_games s
+Video_games -> Video_game_distribution r
+Online_services -> Online_gaming_services s
+Internet_Protocol_based_network_software -> Tunneling_software s
+Computer_industry -> Software_industry p
+Computer_companies -> Software_companies s
+Video_games_by_company -> Bottom_Up_games -
+Software_design -> Software_architecture p
+Software_architecture -> Component-based_software_engineering ?
+Software -> Application_software s
+Computer_graphics -> Video_games_by_graphical_style -
+Video_games_by_graphical_style -> Video_games_with_2.5D_graphics -
+Video_games_by_graphical_style -> Video_games_with_isometric_graphics -
+Video_games_with_isometric_graphics -> Pharaoh_and_Cleopatra i
+Information_technology -> Information_technology_by_region -
+Information_technology_by_region -> Information_technology_companies_by_country -
+Information_technology_companies_by_country -> Information_technology_companies_of_Lithuania -
+Information_technology_companies_of_Lithuania -> Telecommunications_companies_of_Lithuania -
+Areas_of_computer_science -> Theoretical_computer_science -
+Mathematics_of_computing -> Logic_in_computer_science p
+Logic_in_computer_science -> Categorical_logic p
+Software -> Screenshots_of_software -
+Screenshots_of_software -> Screenshots_of_video_games -
+Screenshots_of_video_games -> Screenshots_of_Sega_Saturn_games -
+Information_science -> Human–machine_interaction p
+Human–machine_interaction -> Hand_tools r
+Hand_tools -> Ladders -
+Computing -> Internet ?
+Information_technology_by_country -> Internet_by_country -
+Internet_by_country -> Internet_in_Finland -
+Internet_in_Finland -> Finnish_webcomics p
+Areas_of_computer_science -> Human–computer_interaction -
+Computing -> Natural_language_and_computing r
+Natural_language_and_computing -> Computing_by_natural_language -
+Computing_by_natural_language -> Mongolian-language_computing -
+Application_software -> Entertainment_software s
+Entertainment_software -> Free_entertainment_software s
+Free_application_software -> Open-source_video_games s
+Open-source_video_games -> Commercial_video_games_with_freely_available_source_code s
+Video_games -> Video_games_by_theme -
+Action-adventure_games -> Stealth_video_games s
+Eidos_Interactive_games -> Hitman_(series) i
+Software_development -> Video_game_development p
+Graphics_libraries -> Video_game_engines s
+Video_game_engines -> Video_games_by_game_engine -
+Computing -> Computer_engineering p
+Computer_systems -> Centralized_computing r
+Centralized_computing -> Web_2.0 r
+Social_information_processing -> Collective_intelligence ?
+Collective_intelligence -> Social_information_processing ?
+Video_games -> Video_game_franchises r
+Dynasty_Warriors -> Samurai_Warriors s
+Computing -> World_Wide_Web p
+World_Wide_Web -> Internet-based_works r
+Internet-based_works -> Websites s
+Websites -> Websites_by_topic -
+Websites_by_topic -> Marine_websites -
+History_of_computing -> History_of_software p
+Computer_science -> History_of_computer_science r
+History_of_computer_science -> 20th_century_in_computer_science p
+20th_century_in_computer_science -> 20th-century_software p
+20th-century_software -> 20th-century_video_games s
+20th-century_video_games -> 1970s_in_video_gaming r
+Databases -> Database_management_systems r
+Access_control_software -> Directory_services s
+Directory_services -> Active_Directory i
+Computing -> History_of_computing r
+History_of_computing -> History_of_the_Internet p
+History_of_the_Internet -> Internet_properties_by_year_of_establishment -
+Internet_properties_by_year_of_establishment -> Internet_properties_established_in_1994 -
+Information_technology -> Information_technology_companies r
+Information_technology_companies_by_country -> Information_technology_companies_of_Estonia -
+Information_technology_companies_of_Estonia -> Telecommunications_companies_of_Estonia s
+Telecommunications_companies_of_Estonia -> Mobile_phone_companies_of_Estonia s
+Computing -> Computer_industry ?
+Computer_industry -> Computer_companies
+Computer_companies -> Computer_companies_by_country -
+Computer_companies_by_country -> Computer_companies_of_Finland -
+Library_science -> Library_science_journals r
+Video_game_culture -> Video_game_culture_stubs -
+Video_game_culture_stubs -> Videogame_magazine_stubs -
+Computing -> Computers p
+Artificial_intelligence -> Robotics p
+Robotics -> Robotics_by_country -
+Robotics_by_country -> Robots_by_country -
+Robots_by_country -> Robots_of_Iran -
+Areas_of_computer_science -> Artificial_intelligence -
+Robot_sports -> Sports_robots ?
+Sports_robots -> Chess_automatons s
+Computer_systems -> Satellite_navigation_systems s
+Satellite_navigation_systems -> GLONASS i
+Computer_engineering -> Computer_hardware r
+Computer_architecture -> Central_processing_unit p
+Central_processing_unit -> CPU_sockets p
+Advanced_Micro_Devices_products -> Advanced_Micro_Devices_sockets s
+Video_game_franchises -> Might_and_Magic i
+Information_technology -> Information_technology_by_country -
+Information_technology_by_country -> Information_technology_in_India -
+E-commerce -> E-commerce_in_India -
+Computer_companies -> Computer_hardware_companies s
+Computer_hardware -> Computer_hardware_by_company -
+Computer_hardware_by_company -> Sun_Microsystems_hardware -
+Computer_workstations -> Sun_workstations s
+Video_games -> Video_games_by_genre -
+Music_software -> Music_video_games s
+Music_video_games -> Hand-controlled_rhythm_games s
+Algorithms_and_data_structures -> Algorithms p
+Algorithms -> Computational_statistics r
+Computational_statistics -> Statistical_software ?
+Free_mathematics_software -> Free_statistical_software s
+Free_statistical_software -> Free_Bayesian_statistics_software s
+Software -> WikiProject_Software s
+WikiProject_Software -> WikiProject_Software_articles ?
+WikiProject_Software_articles -> Software_articles_by_quality ?
+Software_articles_by_quality -> File-Class_software_articles ?
+World_Wide_Web -> Web_fiction r
+Entertainment_websites -> Webcomics s
+Webcomics -> Webcomics_by_genre -
+Video_game_franchises -> Zone_of_the_Enders i
+Computational_science -> Computational_linguistics p
+Artificial_intelligence_applications -> Natural_language_processing i
+Computational_linguistics -> Machine_translation p
+Machine_translation -> Evaluation_of_machine_translation r
+Computer_hardware -> Computer_peripherals s
+Computer_peripherals -> Computer_storage_devices s
+Computer_storage_devices -> Optical_computer_storage i
+Optical_computer_storage -> Optical_disc_authoring r
+DVD -> Optical_disc_authoring_software r
+Areas_of_computer_science -> Computer_architecture -
+Computer_architecture -> Operating_systems p
+Operating_systems -> Software_by_operating_system -
+Microcomputer_software -> Windows_software r
+Single-platform_software -> Windows-only_software s
+Windows-only_software -> Windows-only_instant_messaging_clients s
+Areas_of_computer_science -> Computer_graphics -
+Computer_graphics -> Procedural_generation ?
+Computing_culture -> Demoscene ?
+Demoscene -> Demoscene_images ?
+Electronic_Arts_games -> Harry_Potter_game_series ?
+Computing -> Data r
+Computer_data -> Data_management r
+Computer_data -> Databases r
+Databases -> Databases_by_genre -
+Databases_by_genre -> Person_databases -
+Person_databases -> Voter_databases ?
+Computing_culture -> Computer-related_organizations p
+Computer-related_organizations -> Free_and_open-source_software_organizations s
+Free_and_open-source_software_organizations -> Free_software_project_foundations s
+Free_software_project_foundations -> Free_Software_Foundation i
+Free_Software_Foundation -> Members_of_the_Free_Software_Foundation_board_of_directors r
+Hand-controlled_rhythm_games -> Tap_Tap ?
+20th_century_in_computer_science -> 1990s_in_computer_science p
+1990s_in_computer_science -> 1990s_software ?
+1990s_software -> 1999_software s
+Telltale_Games_games -> Video_games_based_on_Bone_(comics) ?
+Software_by_company -> SRI_International_software -
+Computing -> Computing_infrastructure p
+Centralized_computing -> Mainframe_computers r
+IBM_computers -> IBM_mainframe_computers s
+IBM_mainframe_computers -> IBM_mainframe_technology r
+Computing -> Information_systems p
+Information_systems -> Digital_systems s
+Digital_systems -> Digital_electronics r
+Computer_hardware_by_company -> Sony_hardware -
+Digital_cameras -> Sony_cameras s
+20th_century_in_computer_science -> 1970s_in_computer_science p
+1970s_in_computer_science -> 1972_in_computer_science p
+Hand_tools -> Metalworking_hand_tools s
+Computing_and_society -> Computer_law p
+Computer_law -> Computing-related_controversies_and_disputes r
+Computer_law -> Computer_case_law p
+Computer_case_law -> United_States_computer_case_law p
+Internet_case_law -> United_States_Internet_case_law p
+File_sharing -> United_States_file_sharing_case_law p
+Areas_of_computer_science -> Computer_security -
+Computer_security -> Cryptography p
+Cryptography -> Applications_of_cryptography r
+Applications_of_cryptography -> Authentication_methods s
+Authentication_methods -> Seals_(insignia) ?
+Data_management -> Document-oriented_databases ?
+Video_games -> Video_games_by_platform -
+Games_on_fourth-generation_consoles -> TurboGrafx-CD_games s
+Information_science -> Health_informatics p
+Health_informatics -> Health_standards r
+Health_informatics -> Medical_classification p
+Medical_classification -> Clinical_procedure_classification p
+Computer_architecture -> Classes_of_computers -
+Collective_intelligence -> Open_innovation_intermediaries ?
+20th-century_video_games -> 1960s_in_video_gaming r
+History_of_computer_companies -> Works_about_computer_and_internet_entrepreneurs p
+Books_about_computer_and_internet_companies -> Books_about_computer_and_internet_entrepreneurs s
+Books_about_computer_and_internet_entrepreneurs -> Books_by_computer_and_internet_entrepreneurs r
+Information_science -> Information_storage p
+Data_management -> Recording r
+Recording -> Sound_recording p
+Recording_devices -> Sound_recording_technology r
+Sound_recording_technology -> Audio_enhancement p
+Computer_architecture -> Operating_system_kernels ?
+Operating_system_kernels -> Microkernels s
+Microkernels -> Microkernel-based_operating_systems r
+Video_gaming_by_country -> Video_gaming_in_Turkey -
+Cryptography -> Cryptography_organizations r
+Cryptography_organizations -> National_Security_Agency i
+National_Security_Agency -> National_Security_Agency_images r
+Information_technology -> Information_technology_management r
+Computing -> Computer_data r
+Computer_data -> Input/output r
+Input/output -> Computing_output_devices r
+Computing_output_devices -> Display_technology r
+Display_technology -> Electronic_paper_technology p
+Video_games_by_company -> 3D_Realms_games -
+3D_Realms_games -> Duke_Nukem i
+Social_information_processing -> Blogging p
+Blogging -> Bloggers r
+Bloggers -> Bloggers_by_nationality -
+Computing -> Computer_standards ?
+Computer_networking -> Networking_standards ?
+Communications_protocols -> Network_protocols s
+Network_protocols -> OSI_protocols s
+OSI_protocols -> Presentation_layer_protocols s
+Computer_data -> Data_serialization_formats r
+Data_modeling_languages -> XML i
+Compatibility_layers -> Emulation_software r
+DOS_software -> DOS_emulation_software s
+Recording -> Digital_audio_recording p
+Audio_software -> Audio_recording_software s
+Audio_editors -> Digital_audio_workstation_software r
+Application_software -> Graphics_software s
+Graphics_software -> Image_viewers s
+Image_viewers -> Panorama_viewers s
+Software -> System_software s
+Operating_systems -> Operating_system_technology ?
+Operating_system_technology -> Live_USB p
+Live_USB -> SLAX-based_distributions r
+Geometric_algorithms -> Geographic_information_systems r
+Geographic_information_systems -> Geocodes r
+Geocodes -> Nomenclature_of_Territorial_Units_for_Statistics r
+Nomenclature_of_Territorial_Units_for_Statistics -> NUTS_1_statistical_regions_of_the_European_Union p
+NUTS_1_statistical_regions_of_the_European_Union -> Canary_Islands i
+Computing_and_society -> Information_society r
+Internet_culture -> Virtual_communities p
+Computer-mediated_communication -> Social_networking_services p
+Blog_hosting_services -> Twitter i
+Twitter -> Twitter_services_and_applications r
+Information_technology_companies_by_country -> Internet_service_providers_by_country -
+Internet_in_Norway -> Internet_service_providers_of_Norway -
+Defunct_computer_companies -> Defunct_software_companies s
+Defunct_software_companies -> Defunct_software_companies_of_Canada s
+Human–computer_interaction -> User_interfaces ?
+User_interfaces -> Hypertext r
+E-commerce -> Online_companies ?
+Cryptography -> Theory_of_cryptography ?
+Computational_complexity_theory -> Computational_hardness_assumptions p
+Computer_law -> Works_about_computer_law r
+Computer_law -> Software_licenses p
+Software -> Software_by_license -
+Software_by_license -> Software_using_the_Artistic_license -
+Computer_hardware -> Video_game_hardware s
+Computing_platforms -> Video_game_platforms s
+Video_game_platforms -> Video_game_consoles ?
+History_of_video_games -> Video_game_consoles_by_generation -
+Computer_graphics -> Video_game_graphics p
+Video_games_by_graphical_style -> Video_games_with_rotoscoped_graphics -
+Video_games_by_company -> Warner_Bros._Interactive_Entertainment_games -
+Warner_Bros._Interactive_Entertainment_games -> Works_based_on_Warner_Bros._Interactive_Entertainment r
+Computer_data -> Data_transmission r
+Computing -> Computer_networking p
+Computer_networking -> Computer_networks ?
+Computer_networks -> Computer_networks_by_scale -
+System_software -> Utility_software s
+Utility_software -> Utility_software_by_type -
+Computer_storage -> Storage_software r
+Computer_storage -> Computer_file_systems r
+Computer_data -> Files r
+Computer_architecture -> Network_architecture p
+Network_architecture -> Interfaces p
+Text_mode -> Text_user_interface r
+Software -> Console_applications s
+Information_technology -> Information_technology_organisations r
+Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -
+Wikipedia_categories_named_after_information_technology_companies -> Sinclair_Research -
+Computer_hardware_by_company -> Sinclair_computers_and_derivatives -
+Home_computer_software -> ZX81_games s
+Software_development -> Web_development p
+Computer_accessibility -> Web_accessibility p
+Embedded_systems -> Digital_cameras ?
+Digital_cameras -> Kodak_EasyShare_cameras s
+Online_politics -> Political_websites ?
+Ensemble_Studios_games -> Age_of_Empires i
+Computer_hardware_by_company -> Intel_products -
+Computer_architecture -> X86_architecture ? 
+Computer_architecture -> IBM_PC_compatibles r
+Computer_buses -> AT_Attachment ?
+Information_technology_by_country -> Information_technology_in_Pakistan -
+Information_technology_in_Pakistan -> Internet_in_Pakistan p
+Internet_in_Pakistan -> Pakistani_websites -
+Pakistani_websites -> Pakistani_news_websites -
+Accessible_information -> Computer_accessibility ?
+Web_accessibility -> Wikipedia_accessibility p
+Wikipedia_accessibility -> Wikipedia_multilingual_support ?
+Software_by_operating_system -> Single-platform_software -
+Single-platform_software -> Single-platform_video_games s
+Single-platform_video_games -> Game_Boy_Advance-only_games s
+IEEE_802.11 -> Wi-Fi r
+Wi-Fi -> Wi-Fi_providers r
+Computer_law -> Data_privacy r
+Data_privacy -> Privacy_law r
+Privacy_law -> Privacy_case_law p
+Privacy_case_law -> United_Kingdom_privacy_case_law p
+United_Kingdom_privacy_case_law -> English_privacy_case_law p
+Information_technology -> Information_technology_education r
+Computer_science -> Computer_science_education r
+Computer_science_education -> Computer_science_departments r
+Computer_science_departments -> Computer_science_departments_in_the_United_Kingdom s
+Computer_science_departments_in_the_United_Kingdom -> School_of_Computer_Science,_University_of_Manchester i
+Video_game_franchises -> Shining_(series) i
+Library_science -> Bibliography p
+Bibliography -> Bibliographic_indexes r
+Applications_of_cryptography -> E-commerce i
+E-commerce -> Online_content_distribution ?
+Computer_graphics -> Computer_graphics_data_structures ?
+Operating_systems -> Wikipedia_categories_named_after_operating_systems -
+Unix_variants -> Berkeley_Software_Distribution i
+Apple_Inc._operating_systems -> OS_X i
+Central_processing_unit -> Microprocessors r
+Microprocessors -> Open_microprocessors s
+Computer_languages -> Programming_language_topics r
+Programming_language_topics -> Programming_language_classification i
+Domain-specific_programming_languages -> Scripting_languages r
+Scripting_languages -> PHP i
+Robotics -> Robotics_by_company -
+Robotics_by_company -> Robotics_at_Boston_Dynamics -
+Bibliography -> Bibliographies_of_wars_and_conflicts p
+Information_science -> Information_retrieval p
+Databases_by_genre -> Law_databases -
+Computer_networks_by_scale -> Wide_area_networks -
+Internet -> Internet_by_continent -
+Internet_by_continent -> Internet_in_South_America -
+Information_technology_companies_by_country -> Information_technology_companies_of_the_United_States -
+Information_technology_companies_of_the_United_States -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -
+Software -> Microsoft r
+Microsoft -> Windows_Live r
+Software -> Software_distribution r
+Software_by_license -> Free_software -
+Free_software -> WikiProject_Open_Access -
+WikiProject_Open_Access -> WikiProject_Open_Access_articles -
+Algorithms -> Digital_signal_processing r
+Computer_graphics -> Image_processing ?
+Artificial_intelligence -> Computer_vision p
+Computer_vision -> Applications_of_computer_vision p
+Application_software -> Educational_software s
+Educational_software -> Educational_math_software s
+Educational_math_software -> Mathematical_education_video_games s
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Apple_Inc. -
+20th-century_video_games -> Years_of_the_20th_century_in_video_gaming -
+1990s_in_video_gaming -> 1990_in_video_gaming p
+Application_software -> Business_software s
+Business_software -> Project_management_software s
+Diagramming_software -> Mind-mapping_software s
+Computing_input_devices -> Video_game_controllers s
+Pointing_devices -> Light_guns ?
+Free_software -> Free_software_projects r
+Free_software_projects -> Mozilla ?
+Mozilla -> Netscape ?
+Netscape -> Open_Directory_Project ?
+Internet_by_country -> Internet_in_Estonia -
+Information_technology_by_country -> Information_technology_in_France -
+Computer_programmers_by_nationality -> French_computer_programmers -
+Programming_languages -> Software_by_programming_language -
+Fortran -> Fortran_software r
+Social_networking_services -> Facebook i
+Community_websites -> Facebook_groups s
+Information_storage -> Video_storage p
+Computer_storage_media -> DVD i
+DVD -> Software_DVD_players r
+Linux_media_players -> Linux_DVD_players s
+Application_software -> Industrial_software s
+Industrial_software -> Production_and_manufacturing_software s
+Production_and_manufacturing_software -> Film_production_software s
+Websites -> Websites_by_company -
+Video_game_news_websites -> IGN ?
+IGN -> GameSpy ?
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Go_Daddy -
+Free_software -> Free_software_by_programming_language -
+Fortran_software -> Free_software_programmed_in_Fortran s
+Algorithms -> Search_algorithms s
+Internet_search_engines -> Internet_search_algorithms r
+Video_games -> Images_by_video_game -
+Images_by_video_game -> Call_of_Duty:_Black_Ops_images -
+History_of_computing -> History_of_video_games p
+History_of_video_games -> Years_in_video_gaming -
+20th-century_video_games -> 1990s_in_video_gaming ?
+1990_in_video_gaming -> 1990_video_games ?
+Computer_security -> Computer_security_software ?
+Computer_network_security -> Antivirus_software ?
+Antivirus_software -> Free_antivirus_software s
+Free_software -> Free_mobile_software s
+Embedded_Linux -> Linux-based_devices r
+Android_(operating_system) -> Android_(operating_system)_devices r
+Android_(operating_system)_devices -> Android_cameras_with_optical_zoom s
+Business_software -> Health_software ?
+Business_software -> Healthcare_software ?
+Healthcare_software -> Electronic_health_record_software s
+Computing -> Computing_platforms r
+Microcomputers -> Home_computers r
+Computing_by_computer_model -> Texas_Instruments_TI-99/4A -
+Home_computer_software -> Texas_Instruments_TI-99/4A_games s
+Texas_Instruments_TI-99/4A_games -> Texas_Instruments_TI-99/4A_game_covers r
+Video_games_by_company -> Cave_(company)_games -
+System_software -> Graphical_user_interfaces ?
+Graphical_user_interfaces -> Mobile_software ?
+Mobile_software -> Mobile_software_development r
+Mobile_software -> Mobile_software_distribution_platforms r
+Information_storage -> Museums ?
+Museums -> Wikipedia_categories_named_after_museums -
+Wikipedia_categories_named_after_museums -> Museu_Picasso -
+Computer_data -> Cache_(computing) r
+Cache_(computing) -> Database_caching r
+Computer_libraries -> Widget_toolkits s
+Web_application_frameworks -> Rich_Internet_application_frameworks s
+Video_game_culture -> Works_based_on_video_games p
+Works_based_on_video_games -> Anime_based_on_video_games s
+Computer_standards -> Digital_rights_management_standards s
+Compact_Disc_and_DVD_copy_protection -> Advanced_Access_Content_System ?
+Websites_by_topic -> Entertainment_websites -
+Entertainment_websites -> Gaming_websites s
+Gaming_websites -> Nintendo_websites s
+Data_management -> Data_collection p
+Data_collection -> Intelligence_(information_gathering) ?
+Intelligence_(information_gathering) -> Intelligence_treaties ?
+History_of_computer_companies -> History_of_Microsoft p
+Authentication_methods -> Computer_access_control_protocols s
+Computer_standards -> IEC_standards sx
+IEC_standards -> IEC_61131 s
+IEC_61131 -> IEC_61131-3 i
+20th_century_in_computer_science -> 1980s_in_computer_science p
+1980s_in_computer_science -> 1987_in_computer_science p
+Video_games -> Video_game_types -
+Video_game_types -> Casual_games -
+Casual_games -> Social_casual_gaming ?
+Computer_companies -> Computing_by_company -
+Arcade_games_by_company -> SNK_games -
+SNK_Playmore_games -> Metal_Slug i
+Video_games_by_company -> Namco_Bandai_games -
+Namco_Bandai_games -> Namco_games s
+Namco_games -> Galaxian i
+Application_software -> Editing_software s
+Editing_software -> Formula_editors s
+Wikipedia_categories_named_after_museums -> Frans_Hals_Museum ?
+Video_game_development -> Video_game_mods ?
+Video_game_mods -> Battlefield_1942_mods ?
+Information_technology_companies_by_country -> Telecommunications_companies_by_country ?
+Telecommunications_companies_by_country -> Telecommunications_companies_of_the_United_States ?
+Information_technology -> People_in_information_technology r
+Operating_systems -> Operating_System_people r
+Free_software_programmers -> GNOME_developers s
+Political_websites -> Political_websites_by_country -
+Political_websites_by_country -> Israeli_political_websites -
+Video_games_by_company -> Pax_Softnica_games -
+Information_technology -> Information_technology_places r
+Computer_science_departments_in_the_United_Kingdom -> University_of_Cambridge_Computer_Laboratory i
+Bullfrog_Productions_games -> Populous i
+Action-adventure_games -> Assassin's_Creed i
+Computing_by_natural_language -> Chinese-language_computing -
+Chinese-language_computing -> Chinese-language-only_video_games p
+Graphics_software -> Photo_software s
+Photo_software -> HDR_tone_mapping_software
+Computer_data -> Computer_storage
+Computer_storage -> Computer_storage_media
+DVD -> DVD_interactive_technology
+Information_technology_in_the_United_Kingdom -> Internet_in_the_United_Kingdom
+Government_services_portals -> Government_services_web_portals_in_the_United_Kingdom
+Computer_hardware_by_company -> Nintendo_hardware
+Hypertext -> Hypermedia
+Hypermedia -> HyperCard_products
+Computer_programming_tools -> Text_editors
+Software_stubs -> Text_editor_stubs
+1980s_in_video_gaming -> 1982_in_video_gaming
+Id_Software_games -> Doom_(series)
+Video_games_by_company -> Rareware_games
+Platform_games -> Conker
+Robotics -> Robotics_events
+Internet -> Internet_architecture
+Communications_protocols -> Internet_protocols
+Internet_protocols -> Physical_layer_protocols
+Network_management -> Radio_resource_management
+Radio_modulation_modes -> Software-defined_radio
+Computer_hardware_by_company -> Pakistan_Aeronautical_Complex_products
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Wolfram_Research
+Single-platform_free_software -> Windows-only_free_software
+Telecommunications_companies_by_country -> Telecommunications_companies_of_Angola
+Information_technology_places -> Silicon_Valley
+Silicon_Valley -> Companies_based_in_Silicon_Valley
+Companies_based_in_Silicon_Valley -> Companies_based_in_Cupertino,_California
+3D_computer_graphics -> Video_games_with_3D_graphics
+Video_games_by_game_engine -> Source_engine_games
+Source_engine_games -> Source_engine_mods
+Computers -> Information_appliances
+Classes_of_computers -> Mobile_computers
+Mobile_computers -> Dedicated_application_electronic_devices
+Dedicated_application_electronic_devices -> Dedicated_e-book_devices
+Cryptography -> Randomness
+Algorithms -> Randomized_algorithms
+Algorithms -> Stochastic_algorithms
+Mathematical_optimization -> Stochastic_optimization
+Stochastic_optimization -> Sequential_experiments
+Namco_Bandai_games -> Bandai_games
+Video_game_types -> Advergaming
+Software_companies -> Software_companies_by_category
+Software_companies_by_category -> Video_game_companies
+Video_game_companies -> Datam_Polystar
+Information_science -> Academic_literature
+Academic_literature -> Science_writing
+Computer_companies -> Networking_companies
+Networking_companies -> Internet_companies
+Internet_companies -> Internet_services_supporting_OpenID
+Community_websites -> Stack_Exchange_network
+Commodore_International -> Games_on_Commodore_platforms
+Commodore_64_software -> Commodore_64_games
+Computing -> Computer_magazines
+Computer_magazines -> Computer_magazine_publishing_companies
+Academic_literature -> Social_sciences_literature
+Social_sciences_literature -> Cognitive_science_literature
+Information_technology_by_country -> Information_technology_in_the_United_Kingdom
+Computer_specialists_by_nationality -> British_computer_specialists
+British_computer_specialists -> British_computer_programmers
+British_Computer_Society -> Members_of_the_British_Computer_Society
+Members_of_the_British_Computer_Society -> Chairs_of_the_British_Computer_Society_Young_Professionals_Group
+Editing_software -> Spell_checkers
+Free_editing_software -> Free_spelling_checking_programs
+Information_technology_companies -> Information_technology_consulting_firms
+Information_technology_consulting_firms -> Information_technology_consulting_firms_by_country
+Information_technology_consulting_firms_by_country -> Information_technology_consulting_firms_of_Germany
+Hand_tools -> Mechanical_hand_tools
+Mechanical_hand_tools -> Axes
+Educational_software -> Distance_education_software
+Embedded_systems -> Onboard_computers
+Video_games_by_genre -> Platform_games
+Platform_games -> Mario_platform_games
+Video_games_by_company -> SOFEL_games
+Computer_companies_by_country -> Computer_companies_of_Serbia
+Computer_companies_of_Serbia -> Software_companies_of_Serbia
+Computer_companies_of_Serbia -> Mihajlo_Pupin_Institute
+Information_technology_companies -> Telecommunications_companies
+Telecommunications_companies -> Wikipedia_categories_named_after_telecommunications_companies
+Wikipedia_categories_named_after_telecommunications_companies -> Ericsson
+Ericsson -> Sony_Ericsson
+Screenshots_of_video_games -> Screenshots_of_WonderSwan_games
+Video_games_by_company -> Nippon_Ichi_Software_games
+Nippon_Ichi_Software_games -> Disgaea
+Video_gaming_by_country -> Video_gaming_in_South_Africa
+Internet_culture -> Virtual_avatars
+Virtual_avatars -> Fictional_avatars
+1980s_in_computer_science -> 1980_in_computer_science
+History_of_software -> Disk_operating_systems
+Disk_operating_systems -> CP/M
+CP/M -> CP/M_technology
+Software -> Web_software
+Centralized_computing -> Web_applications
+Web_fiction -> Interactive_fiction
+Interactive_fiction -> Text_adventure_game_engines
+Video_games_by_company -> Video_game_characters_by_company
+Sega -> Sega_characters
+Video_games -> Video_games_by_country
+Computer_hardware -> Computer_hardware_standards
+Computer_hardware_standards -> Computer_display_standards
+Computer_display_standards -> VESA
+Software_by_operating_system -> TI-83&4_series_Zilog_Z80_software
+TI-83&4_series_Zilog_Z80_software -> TI-83&4_series_Zilog_Z80_games
+Video_game_companies -> Video_game_development_companies
+Video_game_development_companies -> HAL_Laboratory
+Booting -> Boot_loaders
+Boot_loaders -> Free_boot_loaders
+Video_game_consoles_by_generation -> Eighth-generation_video_game_consoles
+Eighth-generation_video_game_consoles -> Xbox_One
+Games_on_Microsoft_platforms -> Xbox_One_games
+Xbox_One_games -> Xbox_One_game_covers
+Application_software -> Communication_software
+Communication_software -> Mailing_list_software
+Free_email_server_software -> Free_mailing_list_software
+World_Wide_Web -> Internet_marketing
+Internet_marketing -> Internet_marketing_terminology
+Wikipedia_categories_named_after_museums -> J._Paul_Getty_Trust
+Software -> Software_templates
+Software_templates -> Video_game_templates
+Video_game_templates -> Video_game_typing-aid_templates
+Video_game_templates -> Video_game_external_link_templates
+Handheld_video_games -> Mobile_games
+Electronic_Arts_games -> BioWare_games
+Software_templates -> Software_development_templates
+Software_development_templates -> Programming_language_templates
+Simulation_software -> Simulation_video_games
+Simulation_video_games -> Vehicle_simulation_games
+Vehicle_simulation_games -> Vehicular_combat_games
+Video_games_by_genre -> Strategy_video_games
+Massively_multiplayer_online_games -> Massively_multiplayer_online_real-time_strategy_games
+Computer-related_organizations -> Video_game_organizations
+Video_game_companies -> Works_based_on_video_games_by_company
+SNK_Playmore -> Works_based_on_SNK_video_games
+Cryptography_organizations -> Government_Communications_Headquarters
+Government_Communications_Headquarters -> Government_Communications_Headquarters_buildings_and_structures
+Computer_science -> Computer_scientists
+Computer_scientists -> Computer_scientists_by_nationality
+Computer_scientists_by_nationality -> Belgian_computer_scientists
+Nintendo_screenshots -> Screenshots_of_Virtual_Boy_games
+Video_games_by_company -> Id_Software_games
+DOS_games -> Wolfenstein_series
+Video_games_by_genre -> Action-adventure_games
+Action-adventure_games -> The_Legend_of_Zelda_video_games
+Computer_programming -> Computer_libraries
+Computer_libraries -> Graphics_libraries
+Video_game_engines -> Visual_novel_engines
+Indie_video_games -> Ren'Py_games_and_visual_novels
+Areas_of_computer_science -> Algorithms_and_data_structures
+Algorithms_and_data_structures -> Data_structures
+Data_structures -> Graph_data_structures
+Internet_by_country -> Internet_in_Cambodia
+Video_games_by_company -> Climax_Group_games
+Internet-related_lists -> Lists_of_websites
+Video_game_templates -> Video_game_user_templates
+Blogging -> Blogs
+Blogs -> Blikis
+Wikipedia_categories_named_after_telecommunications_companies -> Dialog_Axiata
+Cryptography -> Cryptographic_hardware
+Cryptographic_hardware -> Encryption_devices
+Encryption_devices -> National_Security_Agency_encryption_devices
+Video_game_mods -> Doom_3_mods
+Telefónica_Europe -> O2_(United_Kingdom)
+Application_software -> Religious_software
+Religious_software -> Islamic_software
+Islamic_software -> Quran_software
+Information_technology_organisations -> Information_technology_institutes
+Information_technology_institutes -> Information_technology_schools
+Information_technology_schools -> Information_technology_schools_in_Malaysia
+Application_software -> Multimedia_software
+Multimedia_software -> Multimedia_software_by_platform
+Mac_OS_software -> Mac_OS_multimedia_software
+Adobe_software -> Adobe_Flash
+Adobe_Flash -> Flash_cartoons
+Files -> File_managers
+File_managers -> Orthodox_file_managers
+Algorithms -> Geometric_algorithms
+Mobile_software -> Mobile_social_software
+Theoretical_computer_science -> Quantum_information_science
+Computational_complexity_theory -> Quantum_complexity_theory
+Programming_languages -> Set_theoretic_programming_languages
+Computer_networking -> Network_service
+Computer_file_systems -> Network_file_systems
+Internet_protocols -> WAN_optimization
+Programming_languages -> Programming_language_families
+Extensible_syntax_programming_languages -> Lisp_programming_language_family
+Lisp_programming_language_family -> Lisp_programming_language
+Free_software_by_programming_language -> Free_software_programmed_in_Lisp
+Video_games_by_country -> Video_games_developed_in_Germany
+Automotive_software -> Driver_training_simulators
+Video_game_franchises -> Wikipedia_categories_named_after_video_game_franchises
+Visual_novels -> Ace_Attorney
+IEC_standards -> IEC_60169
+Internet_properties_by_year_of_establishment -> Internet_properties_established_in_2008
+Internet_properties_established_in_2008 -> 2008_web_series_debuts
+Internet_by_country -> Internet_in_Slovenia
+Internet_in_Slovenia -> Slovenian_websites
+20th-century_video_games -> 1980s_in_video_gaming
+Microcomputers -> Microcomputer_software
+Mac_OS -> Mac_OS_software
+Instant_messaging_clients -> Mac_OS_instant_messaging_clients
+Computer_file_systems -> File_system_management
+Computer_optimization -> Computer_system_optimization_software
+Video_game_franchises -> ToCA
+WikiProject_Software_articles -> All_Software_articles
+All_Software_articles -> All_Plan_9_articles
+All_Plan_9_articles -> C-Class_Plan_9_articles
+Privacy_law -> Privacy_law_in_the_United_States
+Privacy_law_in_the_United_States -> United_States_Foreign_Intelligence_Surveillance_Court
+History_of_computer_science -> 21st_century_in_computer_science
+21st_century_in_computer_science -> 21st-century_software
+21st-century_software -> 21st-century_video_games
+21st-century_video_games -> 2000s_in_video_gaming
+2000s_in_video_gaming -> 2009_in_video_gaming
+Digital_cameras -> Olympus_cameras
+Olympus_cameras -> Olympus_lenses
+Computing_input_devices -> Touchscreens
+Touchscreens -> Touchscreen_mobile_phones
+Robots -> Biomorphic_robots
+Biomorphic_robots -> Humanoid_robots
+Humanoid_robots -> Bipedal_humanoid_robots
+All_Plan_9_articles -> Stub-Class_Plan_9_articles
+Artificial_intelligence -> Machine_learning
+Machine_learning -> Bayesian_networks
+Information_technology_companies_of_China -> Telecommunications_companies_of_China
+Telecommunications_companies_of_China -> Telecommunication_equipment_companies_of_China
+Video_games_by_company -> A-Max_games
+Operating_systems -> Unix
+Software_by_operating_system -> Unix_software
+Unix_software -> Unix_games
+Games_on_Apple_Inc._platforms -> OS_X_games
+Educational_software -> Educational_software_companies
+Educational_software_companies -> Defunct_educational_software_companies
+Computer_data -> Data_retention
+Video_games_by_company -> Ubisoft_Entertainment_games
+Ubisoft_Entertainment_games -> Far_Cry
+Formal_methods -> Models_of_computation
+Educational_software -> Educational_abstract_machines
+Computability_theory -> Turing_machine
+Computer_systems -> Legacy_systems
+Legacy_systems -> Videotex
+Application_software -> Free_application_software
+Business_software -> Free_business_software
+Areas_of_computer_science -> Concurrency_(computer_science)
+Concurrency_(computer_science) -> Concurrency_control
+Concurrency_control -> Concurrency_control_algorithms
+Application_software -> Digital_typography
+Digital_typography -> Typefaces
+Typefaces -> Typefaces_by_foundry
+Typefaces_by_foundry -> American_Type_Founders_typefaces
+Video_game_distribution -> Episodic_video_games
+Bandai_games -> .hack_video_games
+Information_technology_management -> Knowledge_management
+Knowledge_management -> Evidence-based_practices
+Evidence-based_practices -> Epidemiology
+Data_collection -> Observational_study
+Observational_study -> Cross-sectional_analysis
+Video_games_by_platform -> Games_on_Nintendo_platforms
+1990s_in_video_gaming -> 1994_in_video_gaming
+Computational_complexity_theory -> Probabilistic_complexity_theory
+Complexity_classes -> Probabilistic_complexity_classes
+Algorithms -> Cryptographic_algorithms
+Cryptographic_algorithms -> Cryptanalytic_algorithms
+User_interfaces -> Text_mode
+Text_mode -> Terminfo
+Lists_of_software -> Video_game_lists
+Video_game_lists -> Video_game_lists_by_company
+Video_game_lists_by_company -> Nintendo-related_lists
+Microsoft -> Games_on_Microsoft_platforms
+Games_on_Microsoft_platforms -> Windows_games
+Windows_games -> Eve_Online
+Algorithms -> Evolutionary_algorithms
+Evolutionary_algorithms -> Genetic_programming
+Data_transmission -> Line_codes
+Works_based_on_video_games -> Machinima_works
+Science_fiction_websites -> Science_fiction_webcomics
+Science_fiction_webcomics -> Steampunk_webcomics
+Video_game_consoles -> Video_game_consoles_by_company
+Sega_hardware -> Sega_consoles
+Sega_consoles -> Sega_Saturn
+Computing_by_natural_language -> Urdu_computing
+Pakistani_websites -> Urdu-language_websites
+Video_games_by_company -> ELF_Corporation_games
+Game_design -> Video_game_design
+Video_game_design -> Video_game_gameplay
+Video_game_development -> Video_game_development_software
+Video_game_development -> Video_game_modification_tools
+Video_game_modification_tools -> Video_game_level_editors
+21st_century_in_computer_science -> 2000s_in_computer_science
+2000s_in_computer_science -> 2000_in_computer_science
+1950s_in_computer_science -> 1960s_software
+1960s_software -> Programming_languages_created_in_the_1960s
+Web_syndication -> Podcasting
+Internet_companies -> Podcasting_companies
+Podcasting_companies -> BBC_Radio
+BBC_Radio -> BBC_Radio_4
+BBC_Radio_4 -> BBC_Radio_4_programmes
+Entertainment_software -> Gambling_technology
+Bots -> Computer_poker_players
+Computer-related_organizations -> Computer_network_organizations
+Computer_network_organizations -> Internet-related_organizations
+Internet-related_organizations -> Internet_Standard_organisations
+Internet_Assigned_Numbers_Authority -> Regional_Internet_registries
+Online_content_distribution -> Software_distribution_platforms
+Free_software -> Free_software_distributions
+Free_software_distributions -> Linux_distributions
+Linux_distributions -> Source-based_Linux_distributions
+Computing -> Computer_languages
+Areas_of_computer_science -> Programming_language_theory
+Programming_language_classification -> Domain-specific_programming_languages
+Domain-specific_programming_languages -> Systems_programming_languages
+Systems_programming_languages -> C_programming_language
+Concurrency_(computer_science) -> Petri_nets
+Information_technology_companies_by_country -> Software_companies_by_country
+Information_technology_companies_of_Brazil -> Software_companies_of_Brazil
+Robots_by_country -> Robots_of_Switzerland
+Internet_by_country -> Internet_in_Japan
+Internet_celebrities_by_nationality -> Japanese_Internet_celebrities
+Bloggers_by_nationality -> Japanese_bloggers
+Cryptography -> Cryptologic_education
+Wikipedia_categories_named_after_museums -> Vladimir-Suzdal_Museum_Reserve
+1970s_in_computer_science -> 1970s_software
+1970s_software -> 1972_software
+WikiProject_Software_articles -> Software_articles_by_importance
+Software_articles_by_importance -> High-importance_software_articles
+Computer_hardware_companies -> Defunct_computer_hardware_companies
+Defunct_computer_hardware_companies -> International_Computers_Limited
+International_Computers_Limited -> ICL_mainframe_computers
+Information_technology_companies_of_India -> Infosys
+Infosys -> Recipients_of_the_Infosys_Prize
+WikiProject_Software_articles -> Software_articles_needing_images
+Computing_and_society -> Computer-mediated_communication
+Communication_software -> Electronic_mailing_lists
+Computing_culture -> Internet_culture
+Internet_culture -> Internet_celebrities
+Internet_celebrities -> Internet_celebrities_by_nationality
+Bloggers_by_nationality -> Norwegian_bloggers
+Video_games_by_theme -> Video_games_featuring_non-playable_protagonists
+Educational_video_games -> Quiz_video_games
+Quiz_video_games -> Buzz!
+Artificial_intelligence -> Automated_planning_and_scheduling
+Demoscene -> Demoscene_software
+Online_gaming_services -> Multiplayer_gaming_service
+Multiplayer_gaming_service -> Multiplayer_online_games
+Applications_of_distributed_computing -> Massively_multiplayer_online_games
+Video_games_by_company -> Epoch_Co._games
+Algorithms -> Recursion
+Functional_programming -> Recursion_schemes
+Microsoft -> Microsoft_software
+Internet_celebrities_by_nationality -> Canadian_Internet_celebrities
+Canadian_Internet_celebrities -> Canadian_podcasters
+Digital_electronics -> Electronic_design_automation
+Electronic_design_automation -> Hardware_description_languages
+Hardware_description_languages -> System_description_languages
+Computing_culture -> Cyberpunk
+Cyberpunk -> Cyberpunk_media
+Cyberpunk_media -> Cyberpunk_comics
+Computer_companies_by_country -> Computer_companies_of_India
+Classes_of_computers -> Servers_(computing)
+Microsoft_software -> Microsoft_server_technology
+Microsoft_server_technology -> Microsoft_server_software
+Microsoft_Windows -> Windows_Server
+Wikipedia_categories_named_after_operating_systems -> Windows_Server_2008
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> RCA
+Video_games_by_company -> Gremlin_Interactive_games
+Educational_software -> Authoring_systems
+Console_games_by_platform_generation -> Games_on_eighth-generation_consoles
+Games_on_eighth-generation_consoles -> Wii_U_games
+Data -> Metadata
+Metadata -> Template:Metadata_Population
+Template:Metadata_Population -> Germany_subdivision_population_templates
+Video_games_by_theme -> Video_games_about_revenge
+Cryptography_organizations -> Communications_Security_Establishment_Canada
+Communications_Security_Establishment_Canada -> Communications_Security_Establishment_Canada_people
+Application_software -> Science_software
+Areas_of_computer_science -> Computational_science
+Algorithms -> Computational_physics
+Computational_physics -> Monte_Carlo_methods
+Monte_Carlo_methods -> Monte_Carlo_methodologists
+Customer_relationship_management_software -> CRM_software_companies
+Free_system_software -> Free_software_operating_systems
+ARM_operating_systems -> Linux
+Linux -> Linux_kernel
+Device_drivers -> Linux_drivers
+Video_game_gameplay -> Multiplayer_video_games
+Blizzard_games -> StarCraft
+Cryptography -> Symmetric-key_cryptography
+Cryptographic_algorithms -> Symmetric-key_algorithms
+Symmetric-key_algorithms -> Ciphers
+Classes_of_computers -> Microcomputers
+Microcomputers -> Computer_workstations
+Computer_terminals -> ICL_workstations
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> IBM
+Computer_programming -> Computer_programmers
+Computer_programmers -> Kernel_programmers
+Free_software_programmers -> Linux_kernel_programmers
+Central_processing_unit -> Digital_circuits
+Digital_circuits -> Gate_arrays
+Video_games_by_company -> Tokyo_Shoseki_games
+Logic_in_computer_science -> Computational_complexity_theory
+Computational_complexity_theory -> Strongly_NP-complete_problems
+Video_game_franchises -> Jackie_Chan_video_games
+Data_management -> Data_quality
+Data_quality -> Data_recovery
+Data_recovery -> Free_data_recovery_software
+Information_technology_consulting_firms -> International_information_technology_consulting_firms
+Free_software -> KDE_software
+Free_desktop_environments -> KDE_Software_Compilation
+KDE_Software_Compilation -> Kdepim
+Domain-specific_programming_languages -> Typesetting_programming_languages
+Markup_languages -> Troff
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Autodesk
+Nintendo_games_by_division_or_subsidiary -> AlphaDream_games
+Computing_culture -> Computer-related_events
+Computer-related_events -> Computer_conferences
+Computer-related_events -> Software_development_events
+NEC_personal_computers -> NEC_PC-8801_games
+Computer_programming -> Programming_paradigms
+Programming_paradigms -> Object-oriented_programming
+Graphical_user_interfaces -> Graphical_user_interface_elements
+Graphical_user_interface_elements -> Computer_icons
+Computer_icons -> Favicons
+History_of_software -> Apple_Inc._software
+Apple_Inc._operating_systems -> Mac_OS
+Mac_OS_software -> OS_X_software
+Editing_software -> OS_X_text-related_software
+Video_game_companies -> Wikipedia_categories_named_after_video_game_companies
+First-party_video_game_developers -> Lionhead_Studios
+Software_templates -> Software_table_cell_templates
+Emulation_software -> OS/2_emulation_software
+Internet_in_Switzerland -> Internet_service_providers_of_Switzerland
+Computer-related_events -> Free-software_events
+Computer_conferences -> Free-software_conferences
+WikiProject_Software_articles -> Software_articles_by_quality_and_importance
+Software_articles_by_quality_and_importance -> B-Class_software_articles_of_Mid-importance
+Free_software -> Free_system_software
+Free_system_software -> Free_network-related_software
+Computer_data -> Character_encoding
+Character_encoding -> Braille
+Braille -> Braille_symbols
+Video_game_consoles_by_generation -> Seventh-generation_video_game_consoles
+Handheld_game_consoles -> Gizmondo
+Games_on_seventh-generation_consoles -> Gizmondo_games
+Computing_culture -> Software_cracking
+Cryptanalytic_software -> Digital_rights_management_circumvention_software
+Cryptanalytic_software -> DVD_rippers
+Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Digital_Equipment_Corporation
+Digital_Equipment_Corporation -> PDP-11
+Information_science -> Infographics
+Infographics -> Symbols
+Symbols -> Logic_symbol_templates
+All_Plan_9_articles -> Start-Class_Plan_9_articles
+Information_retrieval -> Vector_space_model
+Wikipedia_categories_named_after_museums -> Derby_Museum_and_Art_Gallery
+Internet_companies_of_Canada -> Internet_service_providers_of_Canada
+Internet_service_providers_of_Canada -> Bell_Canada
+Websites -> Online_magazines
+Online_magazines -> Online_magazine_stubs
+1987_in_video_gaming -> 1987_video_games
+1980s_in_video_gaming -> Video_game_franchises_introduced_in_1987
+All_Plan_9_articles -> High-importance_Plan_9_articles
+Computing_by_company -> Microprocessors_by_company
+Microprocessors_by_company -> QED_microprocessors
+Computer_scientists_by_nationality -> Czech_computer_scientists
+Video_games_by_company -> Digital_Illusions_CE_games
+Digital_Illusions_CE_games -> Mirror's_Edge
+Computing_portals -> Internet_portal
+Computer_standards -> Computer_file_formats
+Computer_file_formats -> Graph_description_languages
+Free_software -> Free_and_open-source_software_licenses
+Mobile_software -> Mobile_operating_systems
+ARM_operating_systems -> Android_(operating_system)
+Android_(operating_system)_devices -> MyTouch
+Medical_classification -> Diagnosis_classification
+Computer_graphics -> Layout_(computing)
+Layout_(computing) -> Layout_engines
+Free_web_software -> Free_layout_engines
+Free_layout_engines -> Software_based_on_WebKit
+Internet_in_Pakistan -> Internet_radio_in_Pakistan
+Mechanical_hand_tools -> Hammers
+Computing_culture -> Software_developer_communities
+Software_developer_communities -> Video_game_development_websites
+Digital_cameras -> DiMAGE_cameras
+Computer_science_stubs -> Cryptography_stubs
+Computer_scientist_stubs -> Cryptographer_stubs
+Video_games_by_genre -> Pachislot_video_games
+Information_technology_companies_by_country -> Information_technology_companies_of_Thailand
+Information_technology_companies_of_Thailand -> Telecommunications_companies_of_Thailand
+Telecommunications_companies_of_Thailand -> Mobile_phone_companies_of_Thailand
+Embedded_systems -> Single-board_computers
+Mobile_computers -> Laptops
+Computer_companies -> NeXT
+NeXT -> NeXTSTEP_software
+Internet_protocols -> Link_protocols
+IEEE_802 -> Media_access_control
+Media_access_control -> Channel_access_methods
+Mobile_software -> Windows_Mobile_software
+Telecommunications_companies_by_country -> Telecommunications_companies_of_Bulgaria
+Programming_languages -> Programming_languages_by_creation_date
+20th-century_software -> Programming_languages_created_in_the_20th_century
+1970s_software -> Programming_languages_created_in_the_1970s
+Programming_languages_created_in_the_1970s -> Programming_languages_created_in_1972

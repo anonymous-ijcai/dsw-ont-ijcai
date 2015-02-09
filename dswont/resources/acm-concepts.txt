@@ -1,0 +1,2299 @@
+10002944	General and reference
+10002945	Surveys and overviews
+10002946	Reference works
+10002947	General conference proceedings
+10002948	Biographies
+10002949	General literature
+10002950	Mathematics of computing
+10002951	Information systems
+10002952	Data management systems
+10002953	Database design and models
+10002955	Relational database model
+10002956	Hierarchical data models
+10002958	Semi-structured data
+10002959	Entity relationship models
+10002971	Data structures
+10002974	Multidimensional range search
+10002975	Data compression
+10002976	Data encryption
+10002978	Security and privacy
+10002979	Cryptography
+10002980	Key management
+10002981	Public key (asymmetric) techniques
+10002982	Symmetric cryptography and hash functions
+10002983	Cryptanalysis and other attacks
+10002984	Information-theoretic techniques
+10002985	Mathematical foundations of cryptography
+10002986	Formal methods and theory of security
+10002987	Trust frameworks
+10002988	Security requirements
+10002989	Formal security models
+10002990	Logic and verification
+10002991	Security services
+10002992	Authentication
+10002993	Access control
+10002994	Pseudonymity, anonymity and untraceability
+10002995	Privacy-preserving protocols
+10002996	Digital rights management
+10002997	Intrusion/anomaly detection and malware mitigation
+10002998	Malware and its mitigation
+10002999	Intrusion detection systems
+10003000	Social engineering attacks
+10003001	Security in hardware
+10003002	Tamper-proof and tamper-resistant designs
+10003003	Embedded systems security
+10003006	Systems security
+10003007	Operating systems security
+10003008	Mobile platform security
+10003009	Trusted computing
+10003010	Virtualization and security
+10003011	Browser security
+10003013	Distributed systems security
+10003014	Network security
+10003015	Security protocols
+10003016	Web protocol security
+10003017	Mobile and wireless security
+10003018	Database and storage security
+10003019	Data anonymization and sanitization
+10003020	Management and querying of encrypted data
+10003021	Information accountability and usage control
+10003022	Software and application security
+10003023	Software security engineering
+10003026	Web application security
+10003027	Social network security and privacy
+10003028	Domain-specific security and privacy architectures
+10003029	Human and societal aspects of security and privacy
+10003031	Economics of security and privacy
+10003032	Social aspects of security and privacy
+10003033	Networks
+10003034	Network architectures
+10003035	Network design principles
+10003036	Layering
+10003037	Naming and addressing
+10003038	Programming interfaces
+10003039	Network protocols
+10003040	Network protocol design
+10003041	Protocol correctness
+10003042	Protocol testing and verification
+10003043	Formal specifications
+10003044	Link-layer protocols
+10003045	Network layer protocols
+10003046	Routing protocols
+10003047	Signaling protocols
+10003048	Transport protocols
+10003049	Session protocols
+10003050	Presentation protocols
+10003051	Application layer protocols
+10003052	Peer-to-peer protocols
+10003053	OAM protocols
+10003054	Time synchronization protocols
+10003055	Network policy
+10003056	Cross-layer protocols
+10003058	Network components
+10003059	Intermediate nodes
+10003060	Routers
+10003061	Bridges and switches
+10003062	Physical links
+10003063	Middle boxes / network appliances
+10003064	End nodes
+10003065	Wireless access points, base stations and infrastructure
+10003066	Logical nodes
+10003067	Network domains
+10003068	Network algorithms
+10003069	Data path algorithms
+10003070	Packet classification
+10003071	Deep packet inspection
+10003072	Packet scheduling
+10003073	Control path algorithms
+10003074	Network resources allocation
+10003075	Network control algorithms
+10003076	Traffic engineering algorithms
+10003077	Network design and planning algorithms
+10003078	Network economics
+10003079	Network performance evaluation
+10003080	Network performance modeling
+10003081	Network simulations
+10003082	Network experimentation
+10003083	Network properties
+10003084	Network range
+10003085	Short-range networks
+10003086	Local area networks
+10003087	Metropolitan area networks
+10003088	Wide area networks
+10003089	Very long-range networks
+10003090	Network structure
+10003091	Topology analysis and generation
+10003092	Physical topologies
+10003093	Logical / virtual topologies
+10003094	Network dynamics
+10003095	Network reliability
+10003097	Network mobility
+10003098	Network manageability
+10003099	Network services
+10003100	Cloud computing
+10003101	Location based services
+10003102	Programmable networks
+10003103	In-network processing
+10003104	Network management
+10003105	Network monitoring
+10003106	Network types
+10003107	Network on chip
+10003108	Home networks
+10003109	Storage area networks
+10003110	Data center networks
+10003111	Wired access networks
+10003112	Cyber-physical networks
+10003113	Mobile networks
+10003114	Overlay and other logical network structures
+10003115	Peer-to-peer networks
+10003116	World Wide Web (network structure)
+10003118	Social media networks
+10003119	Wireless access networks
+10003120	Human-centered computing
+10003121	Human computer interaction (HCI)
+10003122	HCI design and evaluation methods
+10003123	Interaction design
+10003124	Interaction paradigms
+10003125	Interaction devices
+10003126	HCI theory, concepts and models
+10003128	Interaction techniques
+10003129	Interactive systems and tools
+10003130	Collaborative and social computing
+10003131	Collaborative and social computing theory, concepts and paradigms
+10003134	Collaborative and social computing design and evaluation methods
+10003138	Ubiquitous and mobile computing
+10003139	Ubiquitous and mobile computing theory, concepts and paradigms
+10003140	Ubiquitous and mobile computing systems and tools
+10003141	Ubiquitous and mobile devices
+10003142	Ubiquitous and mobile computing design and evaluation methods
+10003145	Visualization
+10003146	Visualization techniques
+10003147	Visualization application domains
+10003151	Visualization systems and tools
+10003152	Information storage systems
+10003153	Information storage technologies
+10003155	Magnetic disks
+10003156	Magnetic tapes
+10003157	Optical / magneto-optical disks
+10003158	Storage class memory
+10003159	Disk arrays
+10003160	Tape libraries
+10003161	Record storage systems
+10003162	Record storage alternatives
+10003163	Directory structures
+10003164	Block / page strategies
+10003165	Record layout alternatives
+10003166	Storage replication
+10003167	Mirroring
+10003168	RAID
+10003171	Point-in-time copies
+10003172	Remote replication
+10003174	Direct attached storage
+10003175	Network attached storage
+10003176	Cloud based storage
+10003180	Hierarchical storage management
+10003181	Storage virtualization
+10003182	Information lifecycle management
+10003183	Deduplication
+10003184	Version management
+10003185	Storage power management
+10003186	Thin provisioning
+10003189	Record and block layout
+10003190	Database management system engines
+10003191	DBMS engine architectures
+10003192	Database query processing
+10003193	Database transaction processing
+10003194	Record and buffer management
+10003195	Parallel and distributed DBMSs
+10003197	Query languages
+10003201	Triggers and rules
+10003202	Abstract data types
+10003205	Database views
+10003206	Integrity checking
+10003208	Data streams
+10003210	Query optimization
+10003212	Database administration
+10003213	Database utilities and tools
+10003214	Database performance evaluation
+10003215	Extraction, transformation and loading
+10003216	Autonomous database administration
+10003217	Data exchange
+10003218	Data cleaning
+10003219	Information integration
+10003221	Wrappers (data mining)
+10003222	Mediators and data integration
+10003223	Entity resolution
+10003224	Data dictionaries
+10003227	Information systems applications
+10003228	Enterprise information systems
+10003229	Intranets
+10003230	Extranets
+10003232	Enterprise resource planning
+10003233	Collaborative and social computing systems and tools
+10003234	Social content sharing
+10003235	Collaborative content creation
+10003236	Spatial-temporal systems
+10003237	Geographic information systems
+10003238	Sensor networks
+10003239	Data streaming
+10003241	Decision support systems
+10003242	Data warehouses
+10003243	Expert systems
+10003244	Data analytics
+10003245	Mobile information processing systems
+10003246	Process control systems
+10003247	Signal processing systems
+10003248	Digital signal processing
+10003249	Beamforming
+10003250	Noise reduction
+10003251	Multimedia information systems
+10003253	Multimedia databases
+10003254	Hypertext / hypermedia
+10003255	Multimedia streaming
+10003256	Multimedia content creation
+10003258	Massively multiplayer online games
+10003259	Supply chain management
+10003260	World Wide Web
+10003261	Web searching and information discovery
+10003262	Web crawling
+10003263	Web search engines
+10003264	Web indexing
+10003265	Page and site ranking
+10003266	Spam detection
+10003267	Content ranking
+10003268	Ranking
+10003269	Collaborative filtering
+10003270	Social recommendation
+10003271	Personalization
+10003272	Online advertising
+10003273	Sponsored search advertising
+10003274	Content match advertising
+10003275	Display advertising
+10003276	Social advertising
+10003277	Web mining
+10003278	Site wrapping
+10003279	Data extraction and integration
+10003280	Web log analysis
+10003281	Traffic analysis
+10003282	Web applications
+10003286	Internet communications tools
+10003287	Email
+10003288	Blogs
+10003289	Texting
+10003290	Chat
+10003291	Web conferencing
+10003292	Social networks
+10003293	Social network analysis
+10003296	Crowdsourcing
+10003297	Answer ranking
+10003298	Trust
+10003299	Incentive schemes
+10003300	Web interfaces
+10003301	Wikis
+10003302	Browsers
+10003303	Mashups
+10003304	Web services
+10003305	Simple Object Access Protocol (SOAP)
+10003306	RESTful web services
+10003307	Web Services Description Language (WSDL)
+10003308	Universal Description Discovery and Integration (UDDI)
+10003309	Web data description languages
+10003310	Extensible Markup Language (XML)
+10003312	XPath
+10003313	XQuery
+10003314	Resource Description Framework (RDF)
+10003315	Semantic web description languages
+10003316	Web Ontology Language (OWL)
+10003317	Information retrieval
+10003318	Document representation
+10003319	Document structure
+10003320	Document topic models
+10003321	Content analysis and feature selection
+10003323	Data encoding and canonicalization
+10003324	Document collection models
+10003325	Information retrieval query processing
+10003326	Query representation
+10003327	Query intent
+10003328	Query log analysis
+10003329	Query suggestion
+10003330	Query reformulation
+10003331	Users and interactive retrieval
+10003332	User models
+10003333	Task models
+10003334	User studies
+10003336	Search interfaces
+10003337	Collaborative search
+10003338	Retrieval models and ranking
+10003339	Rank aggregation
+10003340	Probabilistic retrieval models
+10003341	Language models
+10003342	Similarity measures
+10003343	Learning to rank
+10003344	Combination, fusion and federated search
+10003345	Information retrieval diversity
+10003346	Top-k retrieval in databases
+10003347	Retrieval tasks and goals
+10003348	Question answering
+10003349	Document filtering
+10003350	Recommender systems
+10003351	Data mining
+10003352	Information extraction
+10003353	Sentiment analysis
+10003354	Expert search
+10003355	Near-duplicate and plagiarism detection
+10003356	Clustering and classification
+10003357	Summarization
+10003359	Evaluation of retrieval results
+10003360	Test collections
+10003361	Relevance assessment
+10003362	Retrieval effectiveness
+10003363	Retrieval efficiency
+10003365	Search engine architectures and scalability
+10003366	Search engine indexing
+10003367	Search index compression
+10003368	Distributed retrieval
+10003369	Peer-to-peer retrieval
+10003370	Retrieval on mobile devices
+10003371	Specialized information retrieval
+10003376	Social tagging
+10003381	Structure and multilingual text search
+10003382	Structured text search
+10003383	Mathematics retrieval
+10003384	Chemical and biochemical retrieval
+10003385	Multilingual and cross-lingual retrieval
+10003386	Multimedia and multimodal retrieval
+10003387	Image search
+10003388	Video search
+10003389	Speech / audio search
+10003390	Music retrieval
+10003392	Digital libraries and archives
+10003393	Enterprise search
+10003394	Desktop search
+10003398	Query operators
+10003399	Federated databases
+10003400	Middleware for databases
+10003401	Database web servers
+10003402	Application servers
+10003403	Object-relational mapping facilities
+10003405	Data federation tools
+10003406	Data replication tools
+10003407	Distributed transaction monitors
+10003408	Message queues
+10003409	Service buses
+10003410	Enterprise application integration tools
+10003411	Heap (data structure)
+10003412	Hashed file organization
+10003413	Indexed file organization
+10003414	Linked lists
+10003415	B-trees
+10003416	Vnodes
+10003417	Inodes
+10003418	Extent-based file structures
+10003419	Slotted pages
+10003420	Intrapage space management
+10003421	Interpage free-space management
+10003422	Fixed length attributes
+10003423	Variable length attributes
+10003424	Null values in records
+10003425	Query planning
+10003426	Join algorithms
+10003427	Data locking
+10003428	Transaction logging
+10003429	Database recovery
+10003434	Relational storage
+10003435	Horizontal partitioning
+10003436	Vertical partitioning
+10003437	Column based storage
+10003438	Hybrid storage layouts
+10003439	Compression strategies
+10003442	Enterprise applications
+10003443	Association rules
+10003444	Clustering
+10003445	Nearest-neighbor search
+10003446	Data stream mining
+10003447	Computational advertising
+10003449	Reputation systems
+10003450	Data access methods
+10003451	Data layout
+10003452	Flash memory
+10003453	Phase change memory
+10003456	Social and professional topics
+10003457	Professional topics
+10003458	Computing industry
+10003459	Computing standards, RFCs and guidelines
+10003460	Industry statistics
+10003461	Computer manufacturing
+10003462	Computing / technology policy
+10003463	Intellectual property
+10003464	Copyrights
+10003465	Software reverse engineering
+10003466	Patents
+10003467	Trademarks
+10003469	Internet governance / domain names
+10003470	Licensing
+10003471	Treaties
+10003472	Database protection laws
+10003473	Secondary liability
+10003475	Identity theft
+10003477	Privacy policies
+10003479	Biometrics
+10003480	Censorship
+10003481	Pornography
+10003482	Hate speech
+10003483	Political speech
+10003484	Technology and censorship
+10003486	Censoring filters
+10003487	Surveillance
+10003488	Governmental surveillance
+10003489	Corporate surveillance
+10003490	Management of computing and information systems
+10003491	Project and people management
+10003492	Project management techniques
+10003493	Project staffing
+10003494	Systems planning
+10003495	Systems analysis and design
+10003496	Systems development
+10003497	Computer and information systems training
+10003498	Implementation management
+10003499	Hardware selection
+10003500	Computing equipment management
+10003502	Pricing and resource allocation
+10003503	Software management
+10003505	Software maintenance
+10003506	Software selection and adaptation
+10003507	System management
+10003508	Centralization / decentralization
+10003509	Technology audits
+10003510	Quality assurance
+10003511	Network operations
+10003512	File systems management
+10003514	Information system economics
+10003516	Storage recovery strategies
+10003517	Storage architectures
+10003518	Storage network architectures
+10003519	Distributed storage
+10003520	Storage management
+10003521	History of computing
+10003522	Historical people
+10003523	History of hardware
+10003524	History of software
+10003525	History of programming languages
+10003526	History of computing theory
+10003527	Computing education
+10003528	Computational thinking
+10003529	Accreditation
+10003530	Model curricula
+10003531	Computing education programs
+10003532	Information systems education
+10003533	Computer science education
+10003534	Computer engineering education
+10003535	Information technology education
+10003536	Information science education
+10003537	Computational science and engineering education
+10003538	Informal education
+10003539	Computing literacy
+10003540	Student assessment
+10003541	K-12 education
+10003542	Adult education
+10003543	Codes of ethics
+10003544	Commerce policy
+10003545	Taxation
+10003548	Transborder data flow
+10003549	Antitrust and competition
+10003550	Electronic commerce
+10003551	Digital cash
+10003552	E-commerce infrastructure
+10003553	Electronic data interchange
+10003554	Electronic funds transfer
+10003555	Online shopping
+10003556	Online banking
+10003557	Secure online transactions
+10003558	Consumer products
+10003559	Open source model
+10003560	Broadband access
+10003561	Network access control
+10003562	Net neutrality
+10003563	Network access restrictions
+10003564	Age-based restrictions
+10003565	Acceptable use policy restrictions
+10003566	Universal access
+10003567	Computing and business
+10003568	Employment issues
+10003569	Automation
+10003570	Computer supported cooperative work
+10003571	Economic impact
+10003572	Offshoring
+10003573	Reengineering
+10003574	Computer crime
+10003575	Financial crime
+10003578	Malware / spyware crime
+10003579	Social engineering (social sciences)
+10003580	Computing profession
+10003581	Funding
+10003583	Computing occupations
+10003584	Computing organizations
+10003585	Testing, certification and licensing
+10003587	Assistive technologies
+10003588	Government technology policy
+10003589	Governmental regulations
+10003590	Voting / election technologies
+10003592	Import / export controls
+10003596	Online auctions
+10003597	Open source software
+10003599	Hardware security implementation
+10003600	Cyberwarfare
+10003602	Medical information policy
+10003603	Medical records
+10003604	Personal health records
+10003605	Genetic information
+10003606	Patient privacy
+10003607	Health information exchanges
+10003608	Medical technologies
+10003609	Remote medicine
+10003611	Race and ethnicity
+10003612	Religious orientation
+10003613	Gender
+10003614	Sexual orientation
+10003616	People with disabilities
+10003618	Geographic characteristics
+10003619	Cultural characteristics
+10003623	Data provenance
+10003624	Discrete mathematics
+10003625	Combinatorics
+10003626	Combinatoric problems
+10003627	Permutations and combinations
+10003628	Combinatorial algorithms
+10003629	Generating functions
+10003630	Combinatorial optimization
+10003631	Combinatorics on words
+10003632	Enumeration
+10003633	Graph theory
+10003634	Trees
+10003635	Graph algorithms analysis
+10003636	Approximation algorithms analysis
+10003637	Hypergraphs
+10003638	Random graphs
+10003639	Graph coloring
+10003640	Paths and connectivity problems
+10003641	Graph enumeration
+10003642	Matchings and factors
+10003643	Graphs and surfaces
+10003644	Network flows
+10003645	Spectra of graphs
+10003646	Extremal graph theory
+10003647	Matroids and greedoids
+10003648	Probability and statistics
+10003649	Probabilistic representations
+10003650	Bayesian networks
+10003651	Markov networks
+10003652	Factor graphs
+10003653	Decision diagrams
+10003654	Equational models
+10003655	Causal networks
+10003656	Stochastic differential equations
+10003657	Nonparametric representations
+10003658	Kernel density estimators
+10003659	Spline models
+10003660	Classification and regression trees
+10003661	Bayesian nonparametric models
+10003662	Probabilistic inference problems
+10003663	Maximum likelihood estimation
+10003664	Bayesian computation
+10003665	Computing most probable explanation
+10003666	Hypothesis testing and confidence interval computation
+10003667	Density estimation
+10003668	Quantile regression
+10003669	Max marginal computation
+10003670	Probabilistic reasoning algorithms
+10003671	Probabilistic algorithms
+10003673	Variable elimination
+10003674	Loopy belief propagation
+10003675	Variational methods
+10003676	Expectation maximization
+10003677	Markov-chain Monte Carlo methods
+10003678	Gibbs sampling
+10003679	Metropolis-Hastings algorithm
+10003680	Simulated annealing
+10003681	Markov-chain Monte Carlo convergence measures
+10003682	Sequential Monte Carlo methods
+10003683	Kalman filters and hidden Markov models
+10003684	Resampling methods
+10003685	Bootstrapping
+10003686	Jackknifing
+10003687	Random number generation
+10003688	Statistical paradigms
+10003689	Queueing theory
+10003690	Contingency table analysis
+10003691	Regression analysis
+10003692	Robust regression
+10003693	Time series analysis
+10003694	Survival analysis
+10003695	Renewal theory
+10003696	Dimensionality reduction
+10003697	Cluster analysis
+10003698	Statistical graphics
+10003699	Exploratory data analysis
+10003700	Stochastic processes
+10003701	Markov processes
+10003702	Nonparametric statistics
+10003703	Distribution functions
+10003704	Multivariate statistics
+10003705	Mathematical software
+10003707	Solvers
+10003708	Statistical software
+10003712	Information theory
+10003713	Coding theory
+10003714	Mathematical analysis
+10003715	Numerical analysis
+10003716	Mathematical optimization
+10003717	Computation of transforms
+10003718	Computations in finite fields
+10003719	Computations on matrices
+10003720	Computations on polynomials
+10003721	Number-theoretic computations
+10003722	Interpolation
+10003724	Numerical differentiation
+10003725	Interval arithmetic
+10003726	Arbitrary-precision arithmetic
+10003727	Differential equations
+10003728	Ordinary differential equations
+10003729	Partial differential equations
+10003730	Differential algebraic equations
+10003731	Differential variational inequalities
+10003732	Calculus
+10003733	Lambda calculus
+10003734	Differential calculus
+10003735	Integral calculus
+10003736	Functional analysis
+10003737	Approximation
+10003738	Integral equations
+10003739	Nonlinear equations
+10003740	Quadrature
+10003741	Continuous mathematics
+10003742	Topology
+10003743	Point-set topology
+10003744	Algebraic topology
+10003745	Geometric topology
+10003746	Continuous functions
+10003747	Gröbner bases and other special bases
+10003748	Automatic differentiation
+10003749	Mesh generation
+10003750	Discretization
+10003751	Software engineering education
+10003752	Theory of computation
+10003753	Models of computation
+10003754	Computability
+10003755	Turing machines
+10003756	Recursive functions
+10003757	Probabilistic computation
+10003758	Quantum computation theory
+10003759	Interactive computation
+10003760	Streaming models
+10003761	Concurrency
+10003762	Parallel computing models
+10003763	Distributed computing models
+10003764	Process calculi
+10003765	Timed and hybrid models
+10003766	Formal languages and automata theory
+10003767	Formalisms
+10003768	Algebraic language theory
+10003769	Rewrite systems
+10003770	Automata over infinite objects
+10003771	Grammars and context-free languages
+10003772	Tree languages
+10003773	Automata extensions
+10003774	Transducers
+10003775	Quantitative automata
+10003776	Regular languages
+10003777	Computational complexity and cryptography
+10003778	Complexity classes
+10003779	Problems, reductions and completeness
+10003780	Communication complexity
+10003781	Circuit complexity
+10003782	Oracles and decision trees
+10003783	Algebraic complexity theory
+10003784	Quantum complexity theory
+10003785	Proof complexity
+10003786	Interactive proof systems
+10003787	Complexity theory and logic
+10003788	Cryptographic primitives
+10003789	Cryptographic protocols
+10003790	Logic
+10003791	Model checking
+10003792	Proof theory
+10003793	Modal and temporal logics
+10003794	Automated reasoning
+10003795	Constraint and logic programming
+10003796	Constructive mathematics
+10003797	Description logics
+10003798	Equational logic and rewriting
+10003799	Finite Model Theory
+10003800	Higher order logic
+10003801	Linear logic
+10003806	Programming logic
+10003808	Scheduling algorithms
+10003809	Design and analysis of algorithms
+10003810	Packing and covering problems
+10003811	Routing and network design problems
+10003812	Facility location and clustering
+10003813	Rounding techniques
+10003814	Stochastic approximation
+10003815	Numeric approximation algorithms
+10003817	MapReduce algorithms
+10003824	Self-organization
+10010031	Data structures design and analysis
+10010032	Pattern matching
+10010033	Sorting and searching
+10010034	Predecessor queries
+10010035	Cell probe models and lower bounds
+10010036	Sparsification and spanners
+10010037	Shortest paths
+10010038	Dynamic graph algorithms
+10010040	Submodular optimization and polymatroids
+10010041	Linear programming
+10010042	Semidefinite programming
+10010043	Convex optimization
+10010044	Quasiconvex programming and unimodality
+10010045	Integer programming
+10010046	Stochastic control and optimization
+10010047	Online algorithms
+10010048	Online learning algorithms
+10010049	Caching and paging algorithms
+10010050	K-server algorithms
+10010051	Adversary models
+10010052	Parameterized complexity and exact algorithms
+10010053	Fixed parameter tractability
+10010054	W hierarchy
+10010055	Streaming, sublinear and near linear time algorithms
+10010056	Bloom filters and hashing
+10010057	Sketching and sampling
+10010058	Lower bounds and information complexity
+10010059	Random order and robust communication complexity
+10010060	Nearest neighbor algorithms
+10010061	Randomness, geometry and discrete structures
+10010062	Pseudorandomness and derandomization
+10010063	Computational geometry
+10010064	Generating random combinatorial structures
+10010065	Random walks and Markov chains
+10010066	Expander graphs and randomness extractors
+10010067	Error-correcting codes
+10010068	Random projections and metric embeddings
+10010069	Random network models
+10010070	Theory and algorithms for application domains
+10010071	Machine learning theory
+10010072	Sample complexity and generalization bounds
+10010073	Boolean function learning
+10010074	Unsupervised learning and clustering
+10010075	Kernel methods
+10010076	Boosting
+10010077	Bayesian analysis
+10010078	Inductive inference
+10010079	Online learning theory
+10010082	Multi-agent learning
+10010083	Models of learning
+10010084	Query learning
+10010085	Structured prediction
+10010086	Molecular sequence analysis
+10010087	Computational biology
+10010088	Recognition of genes and regulatory elements
+10010089	Molecular evolution
+10010090	Computational transcriptomics
+10010091	Biological networks
+10010092	Sequencing and genotyping technologies
+10010093	Genomics
+10010094	Population genetics
+10010095	Systems biology
+10010096	Imaging
+10010097	Computational proteomics
+10010098	Molecular structural biology
+10010099	Algorithmic game theory and mechanism design
+10010100	Algorithmic game theory
+10010101	Algorithmic mechanism design
+10010102	Solution concepts in game theory
+10010103	Exact and approximate computation of equilibria
+10010104	Quality of equilibria
+10010105	Convergence and learning in games
+10010106	Market equilibria
+10010107	Computational pricing and auctions
+10010108	Representations of games and their complexity
+10010109	Network games
+10010110	Network formation
+10010111	Database theory
+10010112	Data modeling
+10010113	Database query languages (principles)
+10010114	Database constraints theory
+10010117	Interoperability
+10010120	Incomplete data
+10010124	Semantics and reasoning
+10010125	Program constructs
+10010126	Control primitives
+10010127	Functional constructs
+10010128	Object oriented constructs
+10010129	Program schemes
+10010130	Type structures
+10010131	Program semantics
+10010132	Algebraic semantics
+10010133	Denotational semantics
+10010134	Operational semantics
+10010135	Axiomatic semantics
+10010136	Action semantics
+10010137	Categorical semantics
+10010138	Program reasoning
+10010139	Invariants
+10010140	Program specifications
+10010141	Pre- and post-conditions
+10010142	Program verification
+10010143	Program analysis
+10010144	Assertions
+10010145	Parsing
+10010146	Graph-based database models
+10010147	Computing methodologies
+10010148	Symbolic and algebraic manipulation
+10010149	Symbolic and algebraic algorithms
+10010150	Algebraic algorithms
+10010151	Nonalgebraic algorithms
+10010152	Symbolic calculus algorithms
+10010153	Exact arithmetic algorithms
+10010154	Hybrid symbolic-numeric methods
+10010155	Discrete calculus algorithms
+10010156	Number theory algorithms
+10010157	Equation and inequality solving algorithms
+10010158	Linear algebra algorithms
+10010159	Theorem proving algorithms
+10010160	Boolean algebra algorithms
+10010161	Optimization algorithms
+10010162	Computer algebra systems
+10010163	Special-purpose algebraic systems
+10010164	Representation of mathematical objects
+10010165	Representation of exact numbers
+10010166	Representation of mathematical functions
+10010167	Representation of Boolean functions
+10010168	Representation of polynomials
+10010169	Parallel computing methodologies
+10010170	Parallel algorithms
+10010171	Shared memory algorithms
+10010172	Distributed algorithms
+10010173	Vector / streaming algorithms
+10010174	Massively parallel algorithms
+10010175	Parallel programming languages
+10010177	Distributed programming languages
+10010178	Artificial intelligence
+10010179	Natural language processing
+10010180	Machine translation
+10010181	Discourse, dialogue and pragmatics
+10010182	Natural language generation
+10010183	Speech recognition
+10010184	Lexical semantics
+10010185	Phonology / morphology
+10010186	Language resources
+10010187	Knowledge representation and reasoning
+10010188	Semantic networks
+10010189	Nonmonotonic, default reasoning and belief revision
+10010190	Probabilistic reasoning
+10010191	Vagueness and fuzzy logic
+10010192	Causal reasoning and diagnostics
+10010193	Temporal reasoning
+10010194	Cognitive robotics
+10010195	Ontology engineering
+10010196	Logic programming and answer set programming
+10010197	Spatial and physical reasoning
+10010198	Reasoning about belief and knowledge
+10010199	Planning and scheduling
+10010200	Planning for deterministic actions
+10010201	Planning under uncertainty
+10010202	Multi-agent planning
+10010203	Planning with abstraction and generalization
+10010204	Robotic planning
+10010205	Search methodologies
+10010206	Heuristic function construction
+10010207	Discrete space search
+10010208	Continuous space search
+10010209	Randomized search
+10010210	Game tree search
+10010211	Abstraction and micro-operators
+10010212	Search with partial observations
+10010213	Control methods
+10010214	Computational control theory
+10010215	Motion path planning
+10010216	Philosophical/theoretical foundations of artificial intelligence
+10010217	Cognitive science
+10010218	Theory of mind
+10010219	Distributed artificial intelligence
+10010220	Multi-agent systems
+10010221	Intelligent agents
+10010222	Mobile agents
+10010223	Cooperation and coordination
+10010224	Computer vision
+10010225	Computer vision tasks
+10010226	Image and video acquisition
+10010227	Scene understanding
+10010228	Activity recognition and understanding
+10010229	Anomaly detection
+10010230	Video summarization
+10010231	Visual content-based indexing and retrieval
+10010232	Visual inspection
+10010233	Vision for robotics
+10010234	Camera calibration
+10010235	Epipolar geometry
+10010236	Computational photography
+10010237	Hyperspectral imaging
+10010238	Motion capture
+10010239	3D imaging
+10010240	Computer vision representations
+10010241	Image representations
+10010242	Shape representations
+10010243	Appearance and texture representations
+10010244	Hierarchical representations
+10010245	Computer vision problems
+10010246	Interest point and salient region detections
+10010247	Image segmentation
+10010248	Video segmentation
+10010249	Shape inference
+10010250	Object detection
+10010251	Object recognition
+10010252	Object identification
+10010253	Tracking
+10010254	Reconstruction
+10010255	Matching
+10010256	Active vision
+10010257	Machine learning
+10010258	Learning paradigms
+10010259	Supervised learning
+10010260	Unsupervised learning
+10010261	Reinforcement learning
+10010262	Multi-task learning
+10010263	Supervised learning by classification
+10010264	Supervised learning by regression
+10010265	Structured outputs
+10010266	Cost-sensitive learning
+10010267	Mixture modeling
+10010268	Topic modeling
+10010269	Source separation
+10010270	Motif discovery
+10010271	Dimensionality reduction and manifold learning
+10010272	Sequential decision making
+10010273	Inverse reinforcement learning
+10010274	Apprenticeship learning
+10010275	Multi-agent reinforcement learning
+10010276	Adversarial learning
+10010277	Transfer learning
+10010278	Lifelong machine learning
+10010279	Learning under covariate shift
+10010282	Learning settings
+10010283	Batch learning
+10010284	Online learning settings
+10010286	Active learning
+10010289	Semi-supervised learning
+10010290	Learning from demonstrations
+10010291	Learning from critiques
+10010292	Learning from implicit feedback
+10010293	Machine learning approaches
+10010294	Neural networks
+10010295	Support vector machines
+10010296	Gaussian processes
+10010297	Logical and relational learning
+10010298	Inductive logic learning
+10010299	Statistical relational learning
+10010300	Learning in probabilistic graphical models
+10010301	Maximum likelihood modeling
+10010302	Maximum entropy modeling
+10010303	Maximum a posteriori modeling
+10010304	Mixture models
+10010305	Latent variable models
+10010306	Bayesian network models
+10010307	Learning linear models
+10010308	Perceptron algorithm
+10010309	Factorization methods
+10010310	Non-negative matrix factorization
+10010311	Factor analysis
+10010312	Principal component analysis
+10010313	Canonical correlation analysis
+10010314	Rule learning
+10010315	Instance-based learning
+10010316	Markov decision processes
+10010317	Partially-observable Markov decision processes
+10010318	Stochastic games
+10010319	Learning latent representations
+10010320	Deep belief networks
+10010321	Machine learning algorithms
+10010327	Dynamic programming for Markov decision processes
+10010328	Value iteration
+10010329	Q-learning
+10010330	Policy iteration
+10010331	Temporal difference learning
+10010332	Approximate dynamic programming methods
+10010333	Ensemble methods
+10010334	Bagging
+10010335	Spectral methods
+10010336	Feature selection
+10010337	Regularization
+10010339	Cross-validation
+10010341	Modeling and simulation
+10010342	Model development and analysis
+10010343	Modeling methodologies
+10010344	Model verification and validation
+10010345	Uncertainty quantification
+10010346	Simulation theory
+10010347	Systems theory
+10010348	Network science
+10010349	Simulation types and techniques
+10010350	Quantum mechanic simulation
+10010351	Molecular simulation
+10010352	Animation
+10010353	Rare-event simulation
+10010354	Discrete-event simulation
+10010355	Agent / discrete models
+10010356	Distributed simulation
+10010357	Continuous simulation
+10010358	Continuous models
+10010359	Real-time simulation
+10010360	Interactive simulation
+10010361	Multiscale systems
+10010362	Massively parallel and high-performance simulations
+10010363	Data assimilation
+10010364	Scientific visualization
+10010365	Visual analytics
+10010366	Simulation support systems
+10010367	Simulation environments
+10010368	Simulation languages
+10010369	Simulation tools
+10010370	Simulation evaluation
+10010371	Computer graphics
+10010372	Rendering
+10010373	Rasterization
+10010374	Ray tracing
+10010375	Non-photorealistic rendering
+10010376	Reflectance modeling
+10010377	Visibility
+10010378	Procedural animation
+10010379	Physical simulation
+10010380	Motion processing
+10010381	Collision detection
+10010382	Image manipulation
+10010383	Image processing
+10010384	Texturing
+10010385	Image-based rendering
+10010386	Antialiasing
+10010387	Graphics systems and interfaces
+10010389	Graphics processors
+10010391	Graphics input devices
+10010392	Mixed / augmented reality
+10010393	Perception
+10010394	Graphics file formats
+10010395	Image compression
+10010396	Shape modeling
+10010397	Mesh models
+10010398	Mesh geometry models
+10010399	Parametric curve and surface models
+10010400	Point-based models
+10010401	Volumetric models
+10010402	Shape analysis
+10010403	Novelty in information retrieval
+10010405	Applied computing
+10010406	Enterprise computing
+10010411	Enterprise application integration
+10010412	Business process management
+10010413	Business process modeling
+10010414	Business process management systems
+10010415	Business process monitoring
+10010416	Cross-organizational business processes
+10010417	Enterprise architectures
+10010418	Enterprise architecture management
+10010419	Enterprise architecture frameworks
+10010420	Enterprise architecture modeling
+10010421	Service-oriented architectures
+10010422	Event-driven architectures
+10010423	Business rules
+10010424	Enterprise modeling
+10010425	Enterprise ontologies, taxonomies and vocabularies
+10010426	Enterprise data management
+10010427	Reference models
+10010428	Business-IT alignment
+10010429	IT architectures
+10010430	IT governance
+10010431	Enterprise computing infrastructures
+10010432	Physical sciences and engineering
+10010433	Aerospace
+10010434	Archaeology
+10010435	Astronomy
+10010436	Chemistry
+10010437	Earth and atmospheric sciences
+10010438	Environmental sciences
+10010439	Engineering
+10010440	Computer-aided design
+10010441	Physics
+10010442	Mathematics and statistics
+10010443	Electronics
+10010444	Life and medical sciences
+10010446	Consumer health
+10010447	Health care information systems
+10010449	Health informatics
+10010450	Bioinformatics
+10010451	Proteomics
+10010452	Metabolomics / metabonomics
+10010454	Transcriptomics
+10010455	Law, social and behavioral sciences
+10010456	Anthropology
+10010457	Ethnography
+10010458	Law
+10010459	Psychology
+10010460	Economics
+10010461	Sociology
+10010462	Computer forensics
+10010463	Surveillance mechanisms
+10010464	Investigation techniques
+10010465	Evidence collection, storage and analysis
+10010466	Network forensics
+10010467	System forensics
+10010468	Data recovery
+10010469	Arts and humanities
+10010470	Fine arts
+10010471	Performing arts
+10010472	Architecture (buildings)
+10010473	Language translation
+10010474	Media arts
+10010475	Sound and music computing
+10010476	Computers in other domains
+10010477	Publishing
+10010478	Military
+10010479	Cartography
+10010480	Agriculture
+10010481	Operations research
+10010482	Industry and manufacturing
+10010483	Computer-aided manufacturing
+10010484	Decision analysis
+10010485	Transportation
+10010486	Command and control
+10010487	Forecasting
+10010488	Marketing
+10010489	Education
+10010490	Computer-assisted instruction
+10010491	Interactive learning environments
+10010492	Collaborative learning
+10010493	Learning management systems
+10010494	Distance learning
+10010495	E-learning
+10010496	Computer-managed instruction
+10010497	Document management and text processing
+10010498	Document searching
+10010500	Document management
+10010501	Text editing
+10010502	Version control
+10010503	Document metadata
+10010504	Document capture
+10010505	Document analysis
+10010506	Document scanning
+10010507	Graphics recognition and interpretation
+10010508	Optical character recognition
+10010509	Online handwriting recognition
+10010510	Document preparation
+10010512	Markup languages
+10010513	Annotation
+10010514	Format and notation
+10010515	Multi / mixed media creation
+10010516	Image composition
+10010517	Scripting languages
+10010518	Temporal data
+10010519	Social networking sites
+10010520	Computer systems organization
+10010521	Architectures
+10010522	Serial architectures
+10010523	Reduced instruction set computing
+10010524	Complex instruction set computing
+10010525	Superscalar architectures
+10010526	Pipeline computing
+10010527	Stack machines
+10010528	Parallel architectures
+10010529	Very long instruction word
+10010530	Interconnection architectures
+10010531	Multiple instruction, multiple data
+10010532	Cellular architectures
+10010533	Multiple instruction, single data
+10010534	Single instruction, multiple data
+10010535	Systolic arrays
+10010536	Multicore architectures
+10010537	Distributed architectures
+10010538	Client-server architectures
+10010539	n-tier architectures
+10010540	Peer-to-peer architectures
+10010541	Grid computing
+10010542	Other architectures
+10010543	Reconfigurable computing
+10010544	Analog computers
+10010545	Data flow architectures
+10010546	Heterogeneous (hybrid) systems
+10010548	Self-organizing autonomic computing
+10010549	Optical computing
+10010550	Quantum computing
+10010551	Molecular computing
+10010553	Embedded and cyber-physical systems
+10010554	Robotics
+10010555	Robotic components
+10010556	Robotic control
+10010557	Robotic autonomy
+10010558	External interfaces for robotics
+10010559	Sensors and actuators
+10010560	System on a chip
+10010561	Firmware
+10010562	Embedded systems
+10010563	Embedded hardware
+10010564	Embedded software
+10010570	Real-time systems
+10010571	Real-time operating systems
+10010572	Real-time languages
+10010573	Real-time system specification
+10010574	Real-time system architecture
+10010575	Dependable and fault-tolerant systems and networks
+10010577	Reliability
+10010578	Availability
+10010579	Maintainability and maintenance
+10010580	Processors and memory architectures
+10010581	Secondary storage organization
+10010582	Ad hoc networks
+10010583	Hardware
+10010584	Printed circuit boards
+10010585	Electromagnetic interference and compatibility
+10010586	Thermal issues
+10010587	PCB design and layout
+10010588	Communication hardware, interfaces and storage
+10010590	Buses and high-speed links
+10010591	Displays and imagers
+10010592	External storage
+10010593	Networking hardware
+10010594	Printers
+10010595	Sensor applications and deployments
+10010596	Sensor devices and platforms
+10010597	Sound-based input / output
+10010598	Tactile and hand-based interfaces
+10010600	Integrated circuits
+10010601	3D integrated circuits
+10010602	Interconnect
+10010603	Input / output circuits
+10010604	Metallic interconnect
+10010605	Photonic and optical interconnect
+10010606	Radio frequency and wireless interconnect
+10010607	Semiconductor memory
+10010608	Dynamic memory
+10010609	Static memory
+10010610	Non-volatile memory
+10010611	Read-only memory
+10010612	Digital switches
+10010613	Transistors
+10010614	Logic families
+10010615	Logic circuits
+10010616	Arithmetic and datapath circuits
+10010617	Asynchronous circuits
+10010618	Combinational circuits
+10010619	Design modules and hierarchy
+10010620	Finite state machines
+10010621	Sequential circuits
+10010622	Abstract machines
+10010624	Quantum communication complexity
+10010625	Quantum query complexity
+10010626	Quantum information theory
+10010628	Reconfigurable logic and FPGAs
+10010629	Hardware accelerators
+10010630	High-speed input / output
+10010631	Programmable logic elements
+10010632	Programmable interconnect
+10010633	Very large scale integration design
+10010634	Analog and mixed-signal circuits
+10010635	Data conversion
+10010636	Clock generation and timing
+10010637	Analog and mixed-signal circuit optimization
+10010638	Radio frequency and wireless circuits
+10010639	Wireline communication
+10010640	Application-specific VLSI designs
+10010641	Application specific integrated circuits
+10010642	Application specific instruction set processors
+10010643	Application specific processors
+10010645	Design reuse and communication-based design
+10010646	Soft intellectual property
+10010648	Platform-based design
+10010649	Design rules
+10010650	Economics of chip design and manufacturing
+10010651	Full-custom circuits
+10010652	VLSI design manufacturing considerations
+10010653	On-chip resource management
+10010654	On-chip sensors
+10010655	Standard cell libraries
+10010656	VLSI packaging
+10010657	Die and wafer stacking
+10010658	Input / output styles
+10010659	VLSI system specification and constraints
+10010660	Multi-chip modules
+10010661	Package-level interconnect
+10010662	Power and energy
+10010663	Energy generation and storage
+10010664	Batteries
+10010665	Fuel-based energy
+10010666	Renewable energy
+10010667	Reusable energy storage
+10010668	Energy distribution
+10010669	Energy metering
+10010670	Power conversion
+10010671	Power networks
+10010672	Smart grid
+10010673	Impact on the environment
+10010674	Power estimation and optimization
+10010678	Temperature monitoring
+10010679	Temperature simulation and estimation
+10010680	Temperature control
+10010681	Temperature optimization
+10010682	Electronic design automation
+10010684	High-level and register-transfer level synthesis
+10010685	Datapath optimization
+10010686	Hardware-software codesign
+10010687	Resource binding and sharing
+10010688	Scheduling
+10010689	Hardware description languages and compilation
+10010690	Logic synthesis
+10010691	Combinational synthesis
+10010692	Circuit optimization
+10010693	Sequential synthesis
+10010694	Technology-mapping
+10010695	Transistor-level synthesis
+10010696	Modeling and parameter extraction
+10010697	Physical design (EDA)
+10010698	Clock-network synthesis
+10010699	Packaging
+10010700	Partitioning and floorplanning
+10010701	Placement
+10010702	Physical synthesis
+10010703	Power grid design
+10010704	Wire routing
+10010705	Timing analysis
+10010706	Electrical-level simulation
+10010707	Model-order reduction
+10010708	Compact delay models
+10010709	Static timing analysis
+10010710	Statistical timing analysis
+10010711	Transition-based timing analysis
+10010712	Methodologies for EDA
+10010713	Best practices for EDA
+10010714	Design databases for EDA
+10010715	Software tools for EDA
+10010717	Hardware validation
+10010721	Functional verification
+10010722	Coverage metrics
+10010723	Equivalence checking
+10010724	Semi-formal verification
+10010725	Simulation and emulation
+10010726	Transaction-level verification
+10010727	Theorem proving and SAT solving
+10010728	Physical verification
+10010729	Design rule checking
+10010730	Layout-versus-schematics
+10010731	Power and thermal analysis
+10010732	Timing analysis and sign-off
+10010733	Post-manufacture validation and debug
+10010734	Bug detection, localization and diagnosis
+10010735	Bug fixing (hardware)
+10010736	Design for debug
+10010737	Hardware test
+10010738	Analog, mixed-signal and radio frequency test
+10010739	Board- and system-level test
+10010740	Defect-based test
+10010741	Built-in self-test
+10010742	Online test and diagnostics
+10010743	Test data compression
+10010744	Design for testability
+10010745	Fault models and test metrics
+10010746	Memory test and repair
+10010747	Hardware reliability screening
+10010748	Test-pattern generation and fault simulation
+10010749	Testing with distributed and parallel systems
+10010750	Robustness
+10010751	Fault tolerance
+10010752	Error detection and error correction
+10010753	Failure prediction
+10010754	Failure recovery, maintenance and self-repair
+10010755	Redundancy
+10010756	Self-checking mechanisms
+10010757	System-level fault tolerance
+10010758	Design for manufacturability
+10010759	Process variations
+10010760	Yield and cost modeling
+10010761	Yield and cost optimization
+10010762	Hardware reliability
+10010763	Aging of circuits and systems
+10010764	Circuit hardening
+10010765	Early-life failures and infant mortality
+10010766	Process, voltage and temperature variations
+10010767	Signal integrity and noise analysis
+10010768	Transient errors and upsets
+10010769	Safety critical systems
+10010777	Hardware attacks and countermeasures
+10010779	Malicious design modifications
+10010786	Emerging technologies
+10010787	Analysis and design of emerging devices and systems
+10010788	Emerging architectures
+10010789	Emerging languages and compilers
+10010790	Emerging simulation
+10010791	Emerging tools and methodologies
+10010792	Biology-related information processing
+10010794	Bio-embedded electronics
+10010798	Neural systems
+10010799	Circuit substrates
+10010800	III-V compounds
+10010801	Carbon based electronics
+10010802	Cellular neural networks
+10010803	Flexible and printable circuits
+10010804	Superconducting circuits
+10010805	Electromechanical systems
+10010806	Microelectromechanical systems
+10010807	Nanoelectromechanical systems
+10010808	Emerging interfaces
+10010809	Memory and dense storage
+10010810	Emerging optical and photonic technologies
+10010811	Reversible logic
+10010812	Plasmonics
+10010813	Quantum technologies
+10010815	Single electron devices
+10010816	Tunneling devices
+10010817	Spintronics and magnetic technologies
+10010818	Network data models
+10010819	Physical data models
+10010820	Data model extensions
+10010821	Uncertainty
+10010822	Relational database query languages
+10010823	Structured Query Language
+10010824	XML query languages
+10010825	Query languages for non-relational engines
+10010826	Call level interfaces
+10010827	MapReduce languages
+10010828	Data scans
+10010829	Point lookups
+10010830	Unidimensional range search
+10010831	Proximity search
+10010832	Distributed database transactions
+10010833	Distributed data locking
+10010834	Deadlocks
+10010835	Distributed database recovery
+10010836	Key-value stores
+10010837	MapReduce-based systems
+10010838	Relational parallel and distributed DBMSs
+10010839	Authorization
+10010840	Main memory engines
+10010841	Online analytical processing engines
+10010842	Stream management
+10010843	Online analytical processing
+10010846	Deep web
+10010847	Surfacing
+10010848	Search results deduplication
+10010849	Service discovery and interfaces
+10010850	Adversarial retrieval
+10010851	Link and co-citation analysis
+10010852	Environment-specific retrieval
+10010853	Web and social media search
+10010854	Usability testing
+10010855	Heuristic evaluations
+10010856	Walkthrough evaluations
+10010858	User interface design
+10010859	User centered design
+10010860	Interaction design process and methods
+10010862	Command line interfaces
+10010865	Graphical user interfaces
+10010866	Virtual reality
+10010868	Web-based interaction
+10010869	Auditory feedback
+10010870	Natural language interfaces
+10010872	Keyboards
+10010873	Pointing devices
+10010876	Software prototyping
+10010877	Activity centered design
+10010878	Rapid application development
+10010883	Scenario-based design
+10010885	User interface management systems
+10010887	Geographic visualization
+10010889	Treemaps
+10010890	Hyperbolic trees
+10010891	Heat maps
+10010892	Graph drawings
+10010893	Dendrograms
+10010894	Cladograms
+10010895	Smartphones
+10010896	Interactive whiteboards
+10010897	Mobile phones
+10010898	Mobile devices
+10010899	Portable media players
+10010900	Personal digital assistants
+10010901	Handheld game consoles
+10010902	E-book readers
+10010903	Tablet computers
+10010904	Ubiquitous computing
+10010905	Mobile computing
+10010906	Ambient intelligence
+10010910	Social navigation
+10010911	Participatory design
+10010912	Empirical studies
+10010913	Documentation
+10010914	Assertion checking
+10010915	Inconsistent data
+10010916	Measurement
+10010917	Graph algorithms
+10010918	Approximation algorithms
+10010919	Distributed computing methodologies
+10010920	Hypertext / hypermedia creation
+10010921	Sustainability
+10010922	Social tagging systems
+10010923	Information visualization
+10010924	Public Internet
+10010925	Data centers
+10010926	Computing platforms
+10010927	User characteristics
+10010928	Men
+10010929	Women
+10010930	Age
+10010931	Children
+10010932	Seniors
+10010933	Adolescents
+10010934	Computational genomics
+10010935	Genetics
+10010936	Computing in government
+10010938	E-government
+10010940	Software organization and properties
+10010941	Contextual software domains
+10010942	Software infrastructure
+10010943	Interpreters
+10010944	Middleware
+10010945	Message oriented middleware
+10010946	Reflective middleware
+10010947	Embedded middleware
+10010948	Virtual machines
+10010949	Operating systems
+10010950	Memory management
+10010951	Virtual memory
+10010952	Main memory
+10010953	Allocation / deallocation strategies
+10010954	Garbage collection
+10010955	Distributed memory
+10010956	Secondary storage
+10010957	Process management
+10010958	Multithreading
+10010959	Multiprocessing / multiprogramming / multitasking
+10010960	Monitors
+10010961	Synchronization
+10010962	Mutual exclusion
+10010963	Concurrency control
+10010964	Power management
+10010965	Communications management
+10010966	Buffering
+10010967	Input / output
+10010968	Message passing
+10010969	Virtual worlds software
+10010970	Interactive games
+10010971	Software system structures
+10010972	Software architectures
+10010973	Cooperating communicating processes
+10010974	Layered systems
+10010975	Publish-subscribe / event-based architectures
+10010976	Electronic blackboards
+10010978	Simulator / interpreter
+10010979	Object oriented architectures
+10010980	Software system models
+10010981	Petri nets
+10010982	State systems
+10010983	Entity relationship modeling
+10010984	Model-driven software engineering
+10010985	Feature interaction
+10010986	Massively parallel systems
+10010988	Telecommunications
+10010989	Avionics
+10010990	Socio-technical systems
+10010991	Ultra-large-scale systems
+10010992	Software functional properties
+10010993	Correctness
+10010994	Functionality
+10010995	Real-time schedulability
+10010996	Consistency
+10010997	Completeness
+10010998	Formal methods
+10010999	Software verification
+10011000	Automated static analysis
+10011001	Dynamic analysis
+10011002	Software performance
+10011003	Extra-functional properties
+10011004	Software reliability
+10011005	Software fault tolerance
+10011006	Software notations and tools
+10011007	Software and its engineering
+10011008	General programming languages
+10011009	Language types
+10011010	Imperative languages
+10011011	Object oriented languages
+10011012	Functional languages
+10011014	Concurrent programming languages
+10011015	Constraint and logic languages
+10011016	Data flow languages
+10011017	Domain specific languages
+10011018	Design languages
+10011019	Extensible languages
+10011020	Assembly languages
+10011021	Multiparadigm languages
+10011022	Very high level languages
+10011023	Specialized application languages
+10011024	Language features
+10011025	Polymorphism
+10011026	Inheritance
+10011027	Control structures
+10011028	Data types and structures
+10011029	Classes and objects
+10011031	Modules / packages
+10011032	Constraints
+10011033	Recursion
+10011034	Concurrent programming structures
+10011035	Procedures, functions and subroutines
+10011036	Patterns
+10011037	Coroutines
+10011038	Frameworks
+10011039	Formal language definitions
+10011040	Syntax
+10011041	Compilers
+10011042	Incremental compilers
+10011043	Retargetable compilers
+10011044	Just-in-time compilers
+10011045	Dynamic compilers
+10011046	Translator writing systems and compiler generators
+10011047	Source code generation
+10011048	Runtime environments
+10011049	Preprocessors
+10011050	Context specific languages
+10011051	API languages
+10011052	Graphical user interface languages
+10011053	Window managers
+10011054	Command and control languages
+10011055	Macro languages
+10011056	Programming by example
+10011057	State based definitions
+10011058	Visual languages
+10011059	Interface definition languages
+10011060	System description languages
+10011061	Unified Modeling Language (UML)
+10011062	Architecture description languages
+10011063	System modeling languages
+10011064	Orchestration languages
+10011065	Integration frameworks
+10011066	Development frameworks and environments
+10011067	Object oriented frameworks
+10011068	Software as a service orchestration systems
+10011069	Integrated and visual development environments
+10011070	Application specific development environments
+10011071	Software configuration management and version control systems
+10011072	Software libraries and repositories
+10011073	Software maintenance tools
+10011074	Software creation and management
+10011075	Designing software
+10011076	Requirements analysis
+10011077	Software design engineering
+10011078	Software design tradeoffs
+10011079	Software implementation planning
+10011080	Software design techniques
+10011081	Software development process management
+10011082	Software development methods
+10011083	Agile software development
+10011084	Capability Maturity Model
+10011085	Waterfall model
+10011086	Spiral model
+10011087	V-model
+10011088	Design patterns
+10011091	Risk management
+10011092	Software development techniques
+10011093	Object oriented development
+10011094	Flowcharts
+10011096	Reusability
+10011097	Software product lines
+10011099	Software verification and validation
+10011100	Operational analysis
+10011101	Checkpoint / restart
+10011102	Software defect analysis
+10011103	Software testing and debugging
+10011104	Fault tree analysis
+10011105	Process validation
+10011106	Walkthroughs
+10011107	Pair programming
+10011108	Use cases
+10011109	Acceptance testing
+10011110	Traceability
+10011111	Software post-development issues
+10011112	Backup procedures
+10011113	Software evolution
+10011114	Software safety
+10011116	Tightly coupled architectures
+10011117	Space-based architectures
+10011119	Abstraction
+10011120	Distributed systems organizing principles
+10011121	Contextual design
+10011122	Document types
+10011123	Cross-computing tools and techniques
+10011124	Metrics
+10011130	Evaluation
+10011131	Experimentation
+10011133	Estimation
+10011134	Collaboration in software development
+10011135	Programming teams
+10011136	Discrete optimization
+10011137	Network optimization
+10011138	Continuous optimization
+10011139	Quadratic programming
+10011140	Nonconvex optimization
+10011141	Mixed discrete-continuous optimization
+10011142	Middleware business process managers
+10011143	Hypertext languages
+10011147	Ontologies
+10011148	Dictionaries
+10011149	Thesauri
+10011150	Privacy protections
+10011152	Companies
+10011153	Accenture
+10011154	Adobe Systems Incorporated
+10011155	Macromedia
+10011156	Advanced Information Systems
+10011158	Agere Systems, Inc.
+10011159	Agilent Technologies
+10011160	Alcatel-Lucent
+10011161	AOL, Inc.
+10011162	Apple, Inc.
+10011164	AT&T
+10011165	BAE Systems
+10011166	BEA Systems, Inc.
+10011167	Blizzard Entertainment
+10011168	Blue Sky Studios
+10011169	Borland Software Corporation
+10011170	CA Technologies
+10011171	Cable & Wireless Worldwide
+10011172	Cadence Design Systems
+10011174	China Telecom Corporation Limited
+10011176	Cisco Systems, Inc.
+10011177	Organizations
+10011178	American Mathematical Society
+10011179	Association for Information Systems
+10011181	Citrix Systems, Inc.
+10011182	Commerce One
+10011183	Compaq Computer Corporation
+10011184	Defense Advanced Research Projects Agency
+10011185	Dell Computer Corporation
+10011186	DiamondCluster International, Inc.
+10011187	Personal computers and PC applications
+10011188	Word processors
+10011189	Spreadsheets
+10011190	Computer games
+10011191	Microcomputers
+10011192	Verification by model checking
+10011193	Digital Equipment Corporation
+10011194	Regret bounds
+10011195	EIS, Inc.
+10011196	EMC Corporation
+10011197	Ericsson
+10011198	Ernst & Young
+10011199	Forrester Research
+10011200	Gartner Group
+10011201	General Dynamics
+10011202	General Electric
+10011203	Google Inc.
+10011204	Hewlett-Packard Company
+10011205	Infineon Technologies
+10011206	Infusion
+10011207	Intel Corporation
+10011208	International Business Machines Corporation
+10011209	International Data Corporation (IDC)
+10011211	Internet Corporation for Assigned Names and Numbers
+10011212	Iona Technologies
+10011213	ITSS, Inc.
+10011214	Juniper Networks
+10011215	Lockheed Martin Corporation
+10011216	McKinsey & Company
+10011217	Microsoft Corporation
+10011218	MIT Media Lab
+10011220	National Academy of Sciences
+10011221	National Instruments Corporation
+10011222	National Research Council
+10011223	Nortel Networks Corporation
+10011224	Novell, Inc.
+10011226	Oracle Corporation
+10011227	Sun Microsystems
+10011228	Philips Semiconductors
+10011229	NXP Semiconductors
+10011230	Pixar Animation Studios
+10011231	Quest Software, Inc.
+10011232	Rational Software Corporation
+10011233	Research in Motion Limited
+10011235	RSA
+10011236	SAS Institute, Inc.
+10011237	Sega Corporation
+10011238	Siemens AG
+10011239	Silicon Graphics, Inc.
+10011240	SRI International
+10011242	Standard Performance Evaluation Corporation
+10011243	Taiwan Semiconductor Manufacturing Company, Limited
+10011244	Telcordia Technologies
+10011245	Texas Instruments Inc.
+10011247	Toshiba Corporation
+10011248	Virage Logic
+10011249	Xerox Corporation
+10011250	Yahoo! Inc.
+10011252	Zilog, Inc.
+10011253	Computational advertising theory
+10011254	Algorithm design techniques
+10011255	Backtracking
+10011256	Branch-and-bound
+10011257	Divide and conquer
+10011258	Dynamic programming
+10011259	Preconditioning
+10011260	American Statistical Association
+10011261	Ames Research Center
+10011262	American National Standards Institute
+10011263	Apache Software Foundation
+10011264	Argonne National Laboratory
+10011265	International Software Benchmarking Standards Group Limited
+10011266	Brazilian Computer Society
+10011267	British Computer Society
+10011269	Clay Mathematics Institute
+10011270	Computer History Museum
+10011271	International Computer Music Association
+10011272	Computer Press Association
+10011273	Computing Community Consortium
+10011274	Computing Research Association
+10011275	CSAB
+10011276	Computer Science Teachers Association
+10011277	TDWI
+10011278	Eclipse Foundation
+10011279	Electronic Frontier Foundation
+10011280	European Telecommunications Standards Institute
+10011281	Free Software Foundation
+10011282	International Game Developers Association
+10011283	International Organization for Standardization
+10011284	ITU
+10011285	Isaac Newton Institute for Mathematical Sciences
+10011286	JISC
+10011287	Open Knowledge Society
+10011288	Langley Research Center
+10011289	Lawrence Berkeley National Laboratory
+10011290	Lawrence Livermore National Laboratory
+10011291	Linux Professional Institute
+10011292	London Mathematical Society
+10011293	Los Alamos National Laboratory
+10011294	Max Planck Institutes
+10011295	Scene anomaly detection
+10011296	National Center for Education Statistics
+10011297	National Institute of Standards and Technology
+10011298	National Science Foundation
+10011299	Oak Ridge National Laboratory
+10011300	Open Network Laboratory
+10011301	OSGi Alliance
+10011302	Operational Research Society
+10011303	Open Source Initiative
+10011304	Active learning settings
+10011305	Semi-supervised learning settings
+10011306	Pacific Northwest National Laboratory
+10011307	PARC
+10011308	Joint Photographic Experts Group
+10011309	Moving Picture Experts Group
+10011310	Simulation by animation
+10011311	Semantics
+10011312	Transaction Processing Performance Council
+10011313	Royal Statistical Society
+10011314	San Diego Supercomputer Center
+10011316	Semiconductor Industry Association
+10011317	Software Engineering Institute
+10011318	SLAC National Accelerator Laboratory
+10011319	Trusted Computing Group
+10011320	Computing Technology Industry Association
+10011321	The Open Group
+10011322	Viewpoints Research Institute
+10011323	Wikimedia Foundation, Inc.
+10011324	World Intellectual Property Organization
+10011325	IBM Almaden Research Center
+10011327	Charles Babbage Institute
+10011328	ABET, Inc.
+10011329	Computing Accreditation Commission
+10011330	Courant Institute of Mathematical Sciences
+10011332	Electronic Visualization Laboratory
+10011333	European Network and Information Security Agency
+10011335	Human Factors and Ergonomics Society
+10011336	Jet Propulsion Laboratory
+10011337	Massachusetts Institute of Technology
+10011338	National Academy of Engineering
+10011339	Patent and Trademark Office
+10011340	Personal Robots Group
+10011341	Sandia National Laboratories
+10011342	SANS Institute
+10011343	Systems Research Center
+10011344	IEEE Computer Society
+10011345	Test Technology Technical Council
+10011346	The Standish Group International, Inc.
+10011347	The IBM Toronto Software Lab
+10011348	Virtual University Enterprises
+10011349	World Wide Web Consortium
+10011350	People in computing
+10011351	A. van Wijngaarden
+10011352	Ada Lovelace
+10011353	Alan Cooper
+10011354	Alan J. Perlis
+10011355	Alan Mathison Turing
+10011357	Allen Kent
+10011358	Allen Newell
+10011361	Andrew S. Grove
+10011363	Barbara Liskov
+10011364	Barry W. Boehm
+10011367	Bill Gates
+10011369	Bill Joy
+10011370	Bill Millard
+10011371	Bjarne Stroustrup
+10011373	Association for Computing Machinery
+10011376	Bruce Schneier
+10011377	C. A. R. Hoare
+10011378	Charles Babbage
+10011380	Charles Tandy
+10011381	Claude Elwood Shannon
+10011382	Clive Sinclair
+10011384	David Hilbert
+10011385	Donald Ervin Knuth
+10011386	Edmund Callis Berkeley
+10011387	Elliot Irving Organick
+10011388	Gary McGraw
+10011389	Georg Scheutz
+10011390	Grace Murray Hopper
+10011391	H. D. Goode
+10011392	Herbert A. Simon
+10011393	Herbert R. J. Grosch
+10011394	Herman Hollerith
+10011395	J. Presper Eckert
+10011396	J. H. Wilkinson
+10011397	Jay Wright Forrester
+10011398	John Vincent Atanasoff
+10011400	John Cocke
+10011401	John Sculley
+10011402	John Von Neumann
+10011403	John W. Mauchly
+10011404	Konrad Zuse
+10011405	Marvin Lee Minsky
+10011406	Maurice V. Wilkes
+10011407	Richard M. Karp
+10011408	Robert R. Everett
+10011409	Steve Jobs
+10011410	Thomas J. Watson
+10011411	Thomas Watson, Jr.
+10011412	William C. Norris
+10011413	An'an Wang
+10011414	David Sarnoff
+10011415	Douglas R. Hofstadter
+10011416	Herman H. Goldstine
+10011417	J. Richard Buchi
+10011418	Kazimierz Kuratowski
+10011419	Kurt Godel
+10011420	Marian Smoluchowski
+10011421	Stefan Banach
+10011422	Gordon Bell
+10011423	James Gosling
+10011424	John McCarthy
+10011425	Linus Torvalds
+10011426	Mark D. Weiser
+10011427	Peter J. Denning
+10011428	Peter Norton
+10011429	R. Milner
+10011430	Seymour Papert
+10011431	Alan Curtis Kay
+10011432	David Patterson
+10011433	Harvey M. Deitel
+10011434	Ivar Jacobson
+10011435	Jakob Nielsen
+10011436	Jim Blinn
+10011437	Jim Gray
+10011438	Jon Kleinberg
+10011439	Kent Beck
+10011440	Martin Fowler
+10011441	Vannevar Bush
+10011442	Edvard Scheutz
+10011443	Harry H. Goode
+10011444	John R. Pasta
+10011445	Technologies
+10011446	Blaise Pascal
+10011447	Cyril W. Cleverdon
+10011448	Gene H. Golub
+10011449	ActionScript
+10011450	ActiveX
+10011451	Ada language
+10011452	Photoshop
+10011453	Ajax
+10011454	AppleScript
+10011455	AutoCAD
+10011456	BASIC
+10011457	Bluetooth
+10011458	Cell Broadband Engine
+10011459	CMOS
+10011460	CORBA
+10011461	Corel Corporation
+10011462	Datalog
+10011463	DB2
+10011464	DOS
+10011465	Dreamweaver
+10011466	DVDs
+10011467	eBay Inc.
+10011468	Eclipse
+10011469	Ethernet
+10011470	Excel
+10011471	CD-ROMs
+10011472	Facebook
+10011473	Internet Explorer
+10011474	Chrome
+10011475	Firefox
+10011476	Flickr
+10011477	Fortran
+10011478	Google Earth
+10011479	Google
+10011480	Google Maps
+10011481	Google Scholar
+10011482	GSM
+10011483	HDTV
+10011484	HP-UX
+10011485	InfiniBand
+10011486	iPhone
+10011487	iPod
+10011488	IPTV
+10011489	IPv6
+10011490	JavaScript
+10011491	JPEG
+10011492	JSP
+10011493	LAPACK
+10011494	Linux
+10011495	Lotus Notes
+10011496	Macintosh OS
+10011497	Macintosh
+10011498	Mathematica
+10011499	MATLAB
+10011500	Mobile IP
+10011501	WiMAX
+10011502	MODIS
+10011503	Motorola Solutions, Inc.
+10011504	Motorola Mobility, Inc.
+10011505	Motorola, Inc.
+10011506	Mozilla Foundation
+10011507	Mozilla Corporation
+10011508	MP3
+10011509	MS-DOS
+10011510	MySQL
+10011511	NetWare
+10011512	OpenMP
+10011513	Oracle Database
+10011514	Outlook
+10011515	PDF
+10011516	Pentium
+10011517	PowerPC
+10011518	PowerPoint
+10011519	Prolog
+10011520	QuarkXPress
+10011521	QuickBooks
+10011522	Quicken
+10011523	QuickTime
+10011524	Ruby on Rails
+10011525	RISC processors
+10011526	Samba
+10011527	SharePoint
+10011528	Simulink
+10011529	Smalltalk
+10011530	Short Message Service
+10011531	SNMP
+10011532	Solaris
+10011533	SPARC
+10011534	SQL Server
+10011535	Secure Sockets Layer
+10011536	Transport Layer Security
+10011537	Twitter
+10011538	UMTS
+10011539	Usenet
+10011540	UWB
+10011541	Visual Basic
+10011542	VMware
+10011543	VoiceXML
+10011545	VRML
+10011546	Wifi
+10011547	Wikipedia
+10011548	Windows
+10011549	Windows environment
+10011550	WordNet
+10011551	X-Window
+10011552	X3D
+10011553	XILINX
+10011554	YouTube
+10011555	ZigBee
+10011556	Bell Labs
+10011557	HP Labs
+10011558	FreeBSD
+10011559	Global positioning systems
+10011560	Myspace
+10011561	Nokia Corporation
+10011562	NVIDIA Corporation
+10011563	Office
+10011564	Skype
+10011565	SONET
+10011566	Sony Corporation
+10011567	VHDL
+10011568	Yahoo! (portal)
+10011569	National Institutes of Health
+10011570	Object Management Group
+10011571	Federal Communications Commission
+10011572	Business Process Execution Language
+10011573	ANSI C
+10011574	CDMA systems
+10011575	DNS (Domain Name System)
+10011576	DSL
+10011577	DSM
+10011579	Gmail
+10011581	Internet telephony
+10011582	IP Multimedia Subsystem
+10011583	Haskell
+10011584	JAVA ME
+10011585	MIMO Systems
+10011586	MSN (portal)
+10011587	Novell, Inc
+10011588	OFDM System
+10011589	PlanetLab
+10011590	Pocket PC
+10011591	SELinux
+10011592	SIMD architectures
+10011593	TMS320C
+10011594	Unicode
+10011595	CS1
+10011597	TREC
+10011598	Block and stream ciphers
+10011600	Hash functions and message authentication codes
+10011602	Digital signatures
+10011607	Database activity monitoring
+10011608	Information flow control
+10011610	Denial-of-service attacks
+10011611	Spoofing attacks
+10011612	Phishing
+10011617	Firewalls
+10011618	Graphical / visual passwords
+10011619	Multi-factor authentication
+10011621	Hardware-based security protocols
+10011633	Penetration testing
+10011634	Vulnerability management
+10011635	Vulnerability scanners
+10011641	Proper nouns: People, technologies and companies
+10011642	Cognitive radios
+10011643	Network topology types
+10011644	Point-to-point networks
+10011645	Bus networks
+10011646	Star networks
+10011647	Ring networks
+10011648	Token ring networks
+10011649	Fiber distributed data interface (FDDI)
+10011650	Mesh networks
+10011651	Hybrid networks
+10011655	Network File System (NFS) protocol
+10011657	Network adapters
+10011659	Repeaters
+10011660	Network servers
+10011661	Wireless local area networks
+10011662	Wireless personal area networks
+10011663	Wireless mesh networks
+10011666	Touch screens
+10011667	Scanners
+10011668	Mobile ad hoc networks
+10011669	Wireless devices
+10011670	Wireless integrated network sensors
+10011671	Latent Dirichlet allocation
+10011672	Network performance analysis
+10011673	Design
+10011674	Performance
+10011675	Validation
+10011676	Verification
+10011677	Operations scheduling
+10011678	Process synchronization
+10011679	Real-time systems software
+10011680	Organizing principles for web applications
+10011681	3-tier architectures
+10011682	Abstraction, modeling and modularity
+10011683	Access protection
+10011685	Database interoperability
+10011686	Mathematical software performance
+10011687	Software usability
+10011688	Parsers
+10011689	Document scripting languages
+10011690	Specification languages
+10011691	Error handling and recovery
+10011692	Formal software verification
+10011693	Empirical software validation
+10011694	Interface design prototyping
+10011695	Software version control
+10011696	Maintaining software
+10011697	System administration
+10011698	Online auctions policy
+10011699	Presentation of retrieval results
+10011700	Searching with auxiliary databases
+10011702	Side-channel analysis and countermeasures
+10011703	Usability in security and privacy
+10011704	Network measurement
+10011705	Packet-switching networks
+10011707	Wireframes
+10011709	Consumer products policy
+10011710	Data structures and algorithms for data management
+10011711	Database query processing and optimization (theory)
+10011712	Business intelligence
+10011713	High-level language architectures
+10011714	Special purpose systems
+10011715	Electro-mechanical devices
+10011716	Reconfigurable logic applications
+10011717	Analog and mixed-signal circuit synthesis
+10011718	Hard and soft IP
+10011719	Switching devices power issues
+10011720	Interconnect power issues
+10011721	Circuits power issues
+10011722	Chip-level power issues
+10011723	Platform power issues
+10011724	Enterprise level and data centers power issues
+10011726	Quantum computation
+10011727	Quantum communication and cryptography
+10011728	Quantum error correction and fault tolerance
+10011729	Quantum dots and cellular automata
+10011730	Online social networks
+10011731	Enterprise interoperability
+10011732	Information integration and interoperability
+10011733	Data integration
+10011734	Logic and databases
+10011735	Theory of database privacy and security
+10011736	Incomplete, inconsistent, and uncertain databases
+10011737	iPad
+10011738	Accessibility
+10011739	Network privacy and anonymity
+10011740	Type theory
+10011741	Hoare logic
+10011742	Separation logic
+10011743	Fault-tolerant network topologies
+10011744	Virtual worlds training simulations
+10011745	Public key encryption
+10011746	Hardware reverse engineering
+10011747	File system security
+10011748	Empirical studies in HCI
+10011749	Laboratory experiments
+10011750	Field studies
+10011751	Collaborative interaction
+10011752	Haptic devices
+10011753	Text input
+10011754	Pointing
+10011755	Gestural input
+10011756	User interface programming
+10011757	User interface toolkits
+10011758	Interaction design theory, concepts and paradigms
+10011759	Empirical studies in interaction design
+10011760	Systems and tools for interaction design
+10011761	Social media
+10011762	Empirical studies in collaborative and social computing
+10011763	Ethnographic studies
+10011764	Collaborative and social computing devices
+10011765	Synchronous editors
+10011766	Asynchronous editors
+10011767	Empirical studies in ubiquitous and mobile computing
+10011768	Visualization theory, concepts and paradigms
+10011769	Empirical studies in visualization
+10011770	Visualization design and evaluation methods
+10011771	Visualization toolkits
+10011772	Accessibility theory, concepts and paradigms
+10011773	Empirical studies in accessibility
+10011774	Accessibility design and evaluation methods
+10011775	Accessibility technologies
+10011776	Accessibility systems and tools
+10011777	Concurrent computing methodologies
+10011778	Concurrent algorithms

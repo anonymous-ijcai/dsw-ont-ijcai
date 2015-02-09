@@ -1,0 +1,1999 @@
++ Computing_and_society
+
++ Computing_and_society -> Information_society
+
+- Computing_and_society -> Information_society -> Information_economy
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Wikipedia_categories_named_after_media_companies
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Wikipedia_categories_named_after_media_companies -> Wikipedia_categories_named_after_video_game_companies
+
+Computing_and_society -> Computing_culture
+
+Computing_and_society -> Computing_culture -> Nerd_culture
+
++ Information_technology
+
++ Information_technology -> Information_science
+
++ Information_technology -> Information_science -> Information_storage
+
+- Information_technology -> Information_science -> Information_storage -> Museums
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_the_Republic_of_Ireland
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_the_Republic_of_Ireland -> Museums_in_the_Republic_of_Ireland_by_county
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media
+
++ Computing_and_society -> Personal_computing -> Electronic_games
+
++ Computing_and_society -> Personal_computing -> Electronic_games -> Video_games
+
++ Information_technology -> Information_technology_management -> Computer_data
+
++ Information_technology -> Data -> Data_management
+
++ Data -> Data_management -> Data_collection
+
++ Information_technology -> Information_science -> Information_retrieval -> Data_management -> Data_collection -> Intelligence_(information_gathering)
+
++ Information_technology -> Information_technology_management -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Intelligence_communities
+
++ Information_technology -> Information_technology_management -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Intelligence_communities -> Czech_intelligence_community
+
++ Computer_standards
+
++ Information_technology -> Information_science -> Library_science -> Reference -> Standards -> Standards_by_type -> Computer_standards -> Computer_file_formats
+
++ Software -> Application_software -> Digital_typography -> Character_encoding -> Binary-to-text_encoding_formats
+
+- Information_technology -> Information_science -> Library_science
+
+- Information_technology -> Information_science -> Library_science -> Reference
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Secondary_sources
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Secondary_sources -> Academic_literature
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Primary_sources
+
++ Computer_science
+
++ History_of_computing -> History_of_computer_science
+
++ Computer_science -> History_of_computer_science -> 20th_century_in_computer_science
+
++ Computer_science -> History_of_computer_science -> 20th_century_in_computer_science -> 1950s_in_computer_science
+
++ History_of_computing -> History_of_software -> History_of_computer_science -> 20th_century_in_computer_science -> 1950s_in_computer_science -> 1958_in_computer_science
+
++ History_of_computing -> History_of_software -> History_of_computer_science -> 20th_century_in_computer_science -> 1950s_in_computer_science -> 1958_in_computer_science -> 1958_software
+
++ Software -> History_of_software -> History_of_computer_science -> 20th_century_in_computer_science -> 1950s_in_computer_science -> 1958_in_computer_science -> 1958_software -> Programming_languages_created_in_1958
+
++ Software
+
++ Software -> Application_software
+
++ Software -> Application_software -> Business_software
+
++ Software -> Software_by_operating_system -> Unix_software -> Linux_software -> Business_software_for_Linux
+
++ Software -> Application_software -> Business_software -> Financial_software -> Accounting_software -> Linux_accounting_software
+
++ Information_technology -> Information_technology_management
+
++ Information_technology -> Data -> Metadata
+
++ Information_technology -> Data -> Metadata -> Ontology_(information_science)
+
++ Information_technology -> Information_science -> Knowledge_engineering -> Knowledge_representation -> Ontology_(information_science) -> Ontology_learning_(computer_science)
+
++ Information_technology -> Information_technology_by_region
+
++ Data -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country
+
++ Information_technology -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_Poland
+
++ Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_Poland -> Telecommunications_companies_of_Poland
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_Poland -> Telecommunications_companies_of_Poland -> Mobile_phone_companies_of_Poland
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_transmission -> Computer_networking -> Computer_networks -> Computer_networks_by_scale -> Wide_area_networks -> Internet
+
++ Software -> Application_software -> Digital_typography
+
++ Computer_data -> Character_encoding
+
++ Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources -> Encyclopedias
+
++ Computer_engineering
+
++ Computer_engineering -> Computer_architecture
+
++ Computers -> Computer_hardware -> Classes_of_computers
+
++ Computers -> Computer_architecture -> Classes_of_computers -> Microcomputers
+
++ Computers -> Classes_of_computers -> Microcomputers -> Portable_computers
+
++ Computer_science -> Areas_of_computer_science -> Computer_architecture -> Classes_of_computers -> Mobile_computers
+
++ Computers -> Classes_of_computers -> Mobile_computers -> Mobile_phones
+
++ Computing_and_society -> Personal_computing
+
++ Computers -> Information_appliances
+
++ Computer_engineering -> Computer_hardware -> Classes_of_computers -> Microcomputers -> Portable_computers -> Mobile_computers -> Dedicated_application_electronic_devices
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> E-books -> Dedicated_e-book_devices
+
++ Computer_science -> Areas_of_computer_science
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Learning_methods
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Educational_materials -> Educational_software
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Scientific_modeling -> Computer_graphics
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Scientific_modeling -> Computer_graphics -> Vector_graphics
+
++ Computer_science -> Areas_of_computer_science -> Computer_graphics -> Vector_graphics -> Vector_graphics_editors
+
++ Software -> Wikipedia_categories_named_after_software -> Adobe_Flash
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_the_United_States -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Adobe_Systems -> Adobe_software -> Adobe_Flex
+
++ Software -> Application_software -> Digital_typography -> Typefaces
+
++ Software -> Application_software -> Digital_typography -> Typefaces -> Government_typefaces
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_culture
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Digital_art -> Interactive_art -> Video_games -> Video_game_culture -> Video_gaming_by_country
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_game_culture -> Video_gaming_by_country -> Video_gaming_in_Japan -> Video_games_developed_in_Japan
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Society_museums
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Radio_by_country
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_representation -> Classification_systems
+
+- Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Cyberwarfare
+
++ Information_technology -> Data -> Computer_data -> Data_transmission -> Computer_networking
+
++ Computer_data -> Data_transmission -> Computer_networking -> Network_architecture
+
++ Computer_science -> Areas_of_computer_science -> Computer_architecture -> Network_architecture -> Internet_architecture
+
++ Computer_standards -> Communications_protocols -> Network_protocols -> Internet_protocols
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_transmission -> Computer_networking -> Networking_standards -> Network_protocols -> OSI_protocols -> Network_layer_protocols -> Internet_Protocol
+
++ Software -> System_software -> Utility_software -> Utility_software_by_type -> Internet_Protocol_based_network_software
+
++ Software -> Application_software -> Communication_software
+
++ Computer_science -> Areas_of_computer_science -> Computer_architecture -> Operating_systems
+
++ Software -> Software_by_operating_system
+
++ Software -> System_software -> Operating_systems -> Unix -> Unix_software
+
++ Software -> Software_by_operating_system -> Unix_software -> Unix_network-related_software
+
++ Internet -> Internet_architecture -> Internet_protocols -> Application_layer_protocols -> Unix_Internet_software
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_2017
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Art_museums_and_galleries_by_year -> Art_museums_by_year_of_establishment -> Art_museums_established_in_2017
+
++ Software -> Application_software -> Simulation_software
+
++ Software -> Application_software -> Simulation_software -> Financial_markets_software
+
++ Software -> Custom_software_projects -> Electronic_trading_platforms
+
+- Software -> Software_projects -> Custom_software_projects -> Electronic_trading_platforms -> Stock_exchanges
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Notation -> Computer_languages -> Data_types -> Statistical_data_types -> Official_statistics -> Economic_data -> Economic_indicators -> Stock_market_indices
+
+- Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Cyberwarfare -> Espionage
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Biographical_museums_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Biographical_museums_by_country -> Biographical_museums_in_Russia
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_South_America -> Museums_in_Argentina
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Biographical_museums_by_country -> Biographical_museums_in_Argentina
+
+- Information_technology -> Information_science -> Infographics -> Symbols
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Symbols -> Heraldry
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Symbols -> Heraldry -> Heraldry_by_country
+
++ Data -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Intelligence_gathering_disciplines
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Zorro
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Zorro -> Zorro_by_medium
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling -> Notation
+
++ Computing_commands
+
++ Computing_commands -> MS-DOS/Windows_Command_Prompt_commands
+
++ Computing_commands -> Windows_commands
+
+- Computing_commands -> MS-DOS/Windows_Command_Prompt_commands -> DOS_commands -> CONFIG.SYS_directives
+
+- Computer_networking -> Network_architecture -> Interfaces -> User_interfaces -> Graphical_user_interfaces -> User_interface_techniques -> Game_design -> Video_game_design -> Video_game_gameplay
+
+- Software -> Application_software -> Video_games -> Video_game_gameplay -> Emergent_gameplay
+
+- Software -> User_interfaces -> Graphical_user_interfaces -> User_interface_techniques -> Game_design -> Video_game_design -> Video_game_gameplay -> Emergent_gameplay -> Machinima
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video -> Film -> Film_and_video_technology -> Machinima -> Rooster_Teeth
+
+- Computing_and_society -> Computing_culture -> Video_game_culture -> Video_gaming_by_country -> Video_gaming_in_Japan
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Anime_industry
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Anime_industry -> Anime_by_studio
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Anime_industry -> Anime_by_studio -> Anime_films_by_studio
+
+- Software -> Application_software -> Science_software
+
+- Software -> Application_software -> Science_software -> Artificial_intelligence_applications
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Human–computer_interaction -> Natural_language_and_computing -> Computational_linguistics -> Natural_language_processing
+
++ Information_technology -> Information_science -> Human–machine_interaction -> Human–computer_interaction -> Natural_language_and_computing -> Computational_linguistics -> Natural_language_processing -> Corpus_linguistics
+
++ Information_technology -> Information_science -> Human–machine_interaction -> Human–computer_interaction -> World_Wide_Web -> Internet-based_works -> Websites -> Websites_by_topic -> Commerce_websites -> Online_retailers -> Online_content_distribution -> Digital_libraries -> Corpora
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1915
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1915 -> Art_museums_established_in_1915
+
++ Software -> Software_development
+
++ Software -> Software_development -> Web_development
+
++ Software -> Web_software -> Web_applications -> E-commerce
+
++ Information_technology -> Information_technology_management -> E-commerce -> Payment_systems
+
+- Information_technology -> Information_technology_management -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Espionage -> Espionage_techniques -> Cryptography -> Applications_of_cryptography -> E-commerce -> Payment_systems -> Currency
+
+- Computing_infrastructure -> Centralized_computing -> Web_applications -> E-commerce -> Payment_systems -> Currency -> Coins
+
++ Internet -> World_Wide_Web
+
+- Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> World_Wide_Web -> Internet-based_works
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Scholarly_communication
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Scholarly_communication -> Academic_publishing
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Digital_art
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Digital_art -> Interactive_art
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Game_theory
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Game_theory -> Strategy
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Urban_studies_and_planning
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Urban_studies_and_planning -> Shanty_towns
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Comics
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Comics -> Set_indices_on_comics
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Godzilla
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Godzilla -> Godzilla_films
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_Canada
+
+-Information_technology -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_Canada -> Telecommunications_companies_of_Canada
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Telecommunications_companies_by_ country -> Telecommunications_companies_of_Canada -> Nortel
+
+- Information_technology -> Information_technology_companies -> Telecommunications_companies -> Wikipedia_categories_named_after_telecommunications_companies -> Nortel -> Nortel_products
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_the_Netherlands
+
+- Data -> Computer_data -> Data_processing
+
++ Information_technology -> Information_technology_organisations
+
++ Information_technology -> Information_technology_companies
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Education_museums -> Research_museums
+
++ Information_technology -> People_in_information_technology -> Computer_scientists
+
++ Computer_science -> Computer_scientists -> Computer_scientists_by_nationality
+
++ Information_technology -> People_in_information_technology -> Computer_scientists -> Computer_scientists_by_nationality -> Chilean_computer_scientists
+
++ Software -> Software_development -> Software_documentation
+
++ Software -> Software_by_license -> Free_software -> Free_software_projects -> Linux_documentation_projects
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> History_museums
+
++ Information_technology -> Information_science -> Knowledge_representation
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_representation -> Mereology
+
+- Information_technology -> Information_science -> Knowledge_engineering -> Knowledge_representation -> Mereology -> Holism
+
++ Information_technology -> Information_science -> Knowledge_representation -> Mereology -> Holism -> Systems_thinking
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Mathematical_problem_solving
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Mathematical_problem_solving -> Applied_mathematics
+
++ Data -> Computer_data -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Espionage -> Espionage_techniques -> Cryptography
+
++ Computer_systems -> Classes_of_computers -> Embedded_systems
+
++ Computers -> Computer_systems -> Embedded_systems -> Robotics -> Robots
+
++ Computer_science -> Areas_of_computer_science -> + Artificial_intelligence -> Robotics -> Robotics_projects -> Robots -> Robots_in_fiction
+
++ Computer_systems -> Embedded_systems -> Robotics -> Robots -> Robots_in_fiction -> Fictional_robots
+
+- Computer_science -> Areas_of_computer_science -> Computer_graphics -> Stereoscopy
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video -> Film -> 3D_cinema -> 3D_films
+
+- Information_technology -> Information_technology_management -> Data_management -> Recording -> Imaging -> Video -> Film -> 3D_cinema -> 3D_films -> 3D_films_by_decade
+
+- Information_technology -> Information_science -> Information_retrieval -> Data_management -> Recording -> Imaging -> 3D_imaging -> Stereoscopy -> 3D_cinema -> 3D_films -> 3D_films_by_decade -> 1960s_3D_films
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_stubs
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_stubs -> European_museum_stubs
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_Poland -> Polish_museum_stubs
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> History_museums -> National_museums -> National_museums_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> National_museums -> National_museums_by_country -> National_museums_of_the_United_Arab_Emirates
+
++ Information_technology -> Data -> Data_management -> Computer-aided_software_engineering_tools
+
++ Data -> Computer_data -> Data_management -> Data_modeling
+
++ Computer_science -> Areas_of_computer_science -> Computer_graphics -> Visualization_(graphic)
+
++ Software_engineering
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Notation -> Computer_languages -> Programming_language_topics
+
++ Information_technology -> Information_science -> Infographics -> Notation -> Computer_languages -> Programming_language_topics -> Programming_language_concepts
+
++ Software_engineering -> Programming_language_topics -> Programming_language_concepts -> Type_systems
+
++ Software_engineering -> Programming_language_topics -> Programming_language_concepts -> Type_systems -> Data_types
+
++ Computer_science -> Areas_of_computer_science -> Theoretical_computer_science -> Mathematics_of_computing -> Logic_in_computer_science -> Type_theory -> Type_systems -> Data_types -> String_(computer_science)
+
++ Computer_programming -> Data_structures -> String_data_structures
+
++ Software -> Application_software -> Business_software -> Financial_software
+
+- Information_technology -> Information_science -> Information_retrieval -> Data_management -> Recording
+
+- Information_technology -> Information_science -> Information_storage -> Recording -> Imaging
+
+- Information_technology -> Information_science -> Information_storage -> Recording -> Imaging -> 3D_imaging
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Scientific_modeling -> Infographics
+
++ Computer_science -> Areas_of_computer_science -> Programming_language_theory -> Type_theory -> Type_systems -> Data_types -> Statistical_data_types
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Scientific_method -> Research_methods -> Survey_methodology -> Official_statistics -> Economic_data -> Index_numbers
+
++ Computer_systems -> Embedded_systems -> Robotics
+
++ Computer_systems -> Embedded_systems -> Robotics -> Works_about_robotics
+
+- Computing_and_society -> Computing_culture -> Films_about_computing -> Documentary_films_about_computing -> Documentary_films_about_robotics
+
++ Computer_industry -> Computer_companies -> Computing_by_company -> Software_by_company -> Video_games_by_company
+
++ Computing_stubs
+
++ Computing_stubs -> Computer_network_stubs
+
++ Computer_data -> Data_transmission -> Computer_networking -> Computer_networks -> Computer_networks_by_scale -> Wide_area_networks -> Internet -> Internet_stubs
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_transmission -> Computer_networking -> Networking_standards -> Network_protocols -> OSI_protocols -> Application_layer_protocols -> Internet_Relay_Chat -> Internet_Relay_Chat_stubs
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1661
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1661 -> Art_museums_established_in_1661
+
+- Computer_industry -> Computer_companies -> Software_companies -> Software_companies_by_country
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_the_United_Kingdom -> Software_companies_of_the_United_Kingdom -> Software_companies_of_Scotland
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Pinball
+
++ Information_technology -> Information_technology_places
+
++ Information_technology -> Information_technology_places -> Silicon_Valley
+
++ Information_technology -> People_in_information_technology -> Businesspeople_in_information_technology -> Silicon_Valley_people
+
++ Information_technology -> Information_technology_places -> Silicon_Valley -> Silicon_Valley_people -> Stanford_University_people
+
++ Information_technology -> Information_technology_places -> Silicon_Valley -> Silicon_Valley_people -> Stanford_University_people -> Stanford_University_faculty
+
++ Information_technology -> Information_technology_places -> Silicon_Valley -> Silicon_Valley_people -> Stanford_University_people -> Stanford_University_faculty -> Stanford_University_School_of_Humanities_and_Sciences_faculty
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Computer_vision
+
++ Computer_science -> Areas_of_computer_science -> Computer_graphics -> Image_processing -> Computer_vision -> Applications_of_computer_vision
+
++ Data -> Communications_protocols -> Network_protocols
+
++ Computer_networking -> Networking_standards -> Network_protocols -> OSI_protocols
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_transmission -> Computer_networking -> Network_architecture -> Network_protocols -> OSI_protocols -> Presentation_layer_protocols
+
++ Computer_science -> Areas_of_computer_science -> Computer_architecture -> Network_architecture -> Network_protocols -> OSI_protocols -> Presentation_layer_protocols -> Data_compression
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Standards
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Standards -> Standards_by_type
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_platform
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_platform -> Arcade_games
+
+- Software -> Application_software -> Video_games -> Video_game_media -> Arcade_flyer_images
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_engineering -> Knowledge_representation -> Classification_systems -> Ecoregions
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Ecoregions -> Ecoregions_by_country
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Filmmaking
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video -> Film -> Filmmaking -> Film_and_video_technology
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video -> Film -> Film_and_video_technology -> Films_by_technology
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Museums_in_Scotland_by_type
+
++ Software -> Software_development -> Software_engineering -> Software_quality
+
++ Software_engineering -> Software_quality -> Reliability_engineering
+
++ Software_engineering -> Software_quality -> Reliability_engineering -> Failure
+
++ Information_technology -> Information_technology_management -> Software_engineering -> Software_quality -> Reliability_engineering -> Failure -> Engine_problems
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Strategy -> Tactics
+
+- Information_technology -> Information_science -> Knowledge_representation -> Strategy -> Tactics -> Military_tactics
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Game_theory -> Strategy -> Tactics -> Military_tactics -> Suicide_bombing
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Scientific_method -> Research_methods
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Philosophical_methodology -> Analysis
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Taxonomy
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Geographic_taxonomies
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Notation -> Encodings -> Geocodes
+
++ Computer_science -> Areas_of_computer_science -> Computer_security
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Wikipedia_categories_named_after_museums
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Wikipedia_categories_named_after_museums -> Musée_du_Louvre
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Wikipedia_categories_named_after_museums -> Musée_du_Louvre -> Collections_of_the_Louvre
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Ordering
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Ordering -> Order_theory
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Museums_in_Wales_by_type
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_Belize
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Strategy -> Military_strategy
+
++ Computer_engineering -> Computer_systems
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> Robotics_projects
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Gundam
+
++ Computer_languages -> Markup_languages -> XML -> XML-based_standards
+
++ Computer_science -> Areas_of_computer_science -> Concurrency_(computer_science) -> Concurrent_computing -> Parallel_computing -> Distributed_computing_architecture -> Web_services
+
++ Computer_networking -> Network_service -> Web_services -> Web_service_providers
+
++ Software -> WikiProject_Software
+
++ Software -> WikiProject_Software -> WikiProject_Free_Software
+
++ Software -> WikiProject_Software -> WikiProject_Free_Software -> WikiProject_Free_Software_articles
+
++ Software -> WikiProject_Software -> WikiProject_Free_Software -> WikiProject_Free_Software_articles -> Free_software_articles_by_importance
+
++ Software -> WikiProject_Software -> WikiProject_Free_Software -> WikiProject_Free_Software_articles -> Free_software_articles_by_importance -> High-importance_Free_software_articles
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies
+
+- Information_technology -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country
+
+- Information_technology -> Information_technology_companies -> Information_technology_companies_by_country -> Telecommunications_companies_by_country -> Telecommunications_companies_of_the_United_Arab_Emirates
+
+- Information_technology -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Telecommunications_companies_of_the_United_Arab_Emirates -> Internet_service_providers_of_the_United_Arab_Emirates
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies
+
+- Software -> Application_software -> Video_games -> Video_game_development -> Video_game_companies -> Wikipedia_categories_named_after_video_game_companies -> Wikipedia_categories_named_after_video_game_companies_of_Japan
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Video_game_industry -> People_in_the_video_game_industry -> Video_game_developers -> Video_game_development_companies -> Capcom
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Fictional_content_in_video_games -> Video_game_characters -> Video_game_characters_by_company -> Capcom_characters
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_observation
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_Lithuania
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Telecommunications_companies_of_Lithuania
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1723
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Art_museums_and_galleries_by_year -> Art_museums_by_year_of_establishment -> Art_museums_established_in_1723
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet_culture
+
++ Information_technology -> Information_science -> Information_retrieval -> Data_management -> Data_collection -> Polling
+
+- Information_technology -> Information_technology_management -> Data_management -> Data_collection -> Polling -> Psephology
+
+- Information_technology -> Information_science -> Information_retrieval -> Data_management -> Data_collection -> Polling -> Psephology -> Voting_theorists
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> New_media
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Hertzsprung–Russell_classifications
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_engineering -> Knowledge_representation -> Classification_systems -> Hertzsprung–Russell_classifications -> Supergiants
+
+- Information_technology -> Information_science -> Knowledge_engineering -> Knowledge_representation -> Classification_systems -> Hertzsprung–Russell_classifications -> Supergiants -> M-type_supergiants
+
++ Computers
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robots -> Unmanned_vehicles
+
+- Computing_and_society -> Information_society -> Social_information_processing -> Collaborative_projects -> Research_projects -> Robotics_projects -> Robots -> Unmanned_vehicles -> Unmanned_aerial_vehicles
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> Robots -> Unmanned_vehicles -> Unmanned_aerial_vehicles -> Unmanned_aerial_vehicles_by_country
+
++ Information_technology -> Information_science -> Information_retrieval
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_observation -> Measurement
+
++ Computer_science -> Areas_of_computer_science -> Human–computer_interaction -> World_Wide_Web -> Web_hosting
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Websites -> Free_web_hosting_services
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Interactive_media -> Websites -> Free_web_hosting_services -> Free_webcomic_hosting_services
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1907
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Art_museums_and_galleries -> Art_museums_and_galleries_by_year -> Art_museums_by_year_of_establishment -> Art_museums_established_in_1907
+
++ Software -> WikiProject_Software -> WikiProject_Software_articles
+
++ Software -> WikiProject_Software -> WikiProject_Software_articles -> Software_articles_by_importance
+
++ Software -> WikiProject_Software -> WikiProject_Software_articles -> Software_articles_by_importance -> Mid-importance_software_articles
+
++ Software -> WikiProject_Software -> WikiProject_Software_articles -> Software_articles_by_quality -> Start-Class_software_articles -> Start-Class_software_articles_of_Mid-importance
+
++ Computers -> Computer_systems -> Classes_of_computers -> Embedded_systems -> Robotics -> Entertainment_robotics
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> Entertainment_robotics -> Animatronics
+
++ Computers -> Computer_systems -> Embedded_systems -> Robotics -> Entertainment_robotics -> Entertainment_robots -> Animatronic_robots
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_game_development
+
++ Software -> Software_development -> Video_game_development -> Video_game_development_companies
+
+- Software -> Software_development -> Video_game_development -> Video_game_development_companies -> International_Game_Developers_Association_members
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Telecommunications_companies_of_Canada -> Cable_and_DBS_companies_of_Canada
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_Canada -> Telecommunications_companies_of_Canada -> Cable_and_DBS_companies_of_Canada -> Defunct_cable_and_DBS_companies_of_Canada
+
++ Computer_systems -> Centralized_computing
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Human–computer_interaction -> User_interfaces -> Computer_terminals
+
++ Computer_engineering -> Computer_systems -> Centralized_computing -> Computer_terminals -> Character-oriented_terminal
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Mathematics
+
+- Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Virtual_reality -> Mixed_reality -> Interactive_art -> Video_games -> Fictional_content_in_video_games
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Fictional_content_in_video_games -> Video_game_characters
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Fictional_content_in_video_games -> Video_game_characters -> Video_game_characters_by_genre
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_industry_businesspeople
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_industry_businesspeople -> Media_executives
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_industry_businesspeople -> Media_executives -> Radio_executives
+
++ Information_technology -> Information_science -> Accessible_information
+
+- Information_technology -> Information_science -> Accessible_information -> Sign_language
+
+- Information_technology -> Information_science -> Accessible_information -> Sign_language -> Sign_languages
+
+- Information_technology -> Information_science -> Accessible_information -> Sign_language -> Sign_languages -> Swedish_Sign_Language_family
+
+- Computer_data -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Military_intelligence
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Asia
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_Vietnam
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1883
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Art_museums_by_year_of_establishment -> Art_museums_established_in_1883
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_Germany
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Television_franchises
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Law_&_Order_(franchise)
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Scientific_modeling -> Infographics -> Cartography
+
+- Information_technology -> Information_science -> Infographics -> Cartography -> Geographic_images
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling -> Infographics -> Cartography -> Geographic_images -> Images_by_country
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling -> Infographics -> Cartography -> Geographic_images -> Images_by_country -> Images_of_France
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1839
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1839 -> Art_museums_established_in_1839
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_techniques
+
+- Information_technology -> Data -> Computer_data -> Data_management -> Data_collection -> Scientific_observation -> Observational_astronomy -> Spectroscopy
+
+- Computers -> Computer_systems -> Classes_of_computers -> Embedded_systems -> Avionics
+
+- Computers -> Computer_systems -> Embedded_systems -> Avionics -> Avionics_companies
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Art_museums_and_galleries -> Art_museums_and_galleries_by_year -> Art_museums_by_year_of_establishment
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1890 -> Art_museums_established_in_1890
+
++ History_of_computing
+
++ History_of_computing -> History_of_video_games
+
++ Computing_and_society -> Computing_culture -> Video_game_culture -> History_of_video_games -> Timelines_of_video_games -> Years_in_video_gaming
+
++ History_of_computing -> History_of_computer_science -> 20th_century_in_computer_science -> 20th-century_software -> 20th-century_video_games -> Years_of_the_20th_century_in_video_gaming
+
++ History_of_computing -> History_of_video_games -> Years_in_video_gaming -> 1980s_in_video_gaming -> 1983_in_video_gaming
+
++ Computing_and_society -> Computing_culture -> Video_game_culture -> History_of_video_games -> Timelines_of_video_games -> Years_in_video_gaming -> Video_games_by_year -> 1983_video_games
+
++ Software_engineering -> Software_design
+
++ Software -> Software_development -> Software_engineering -> Software_design -> Software_architecture
+
++ Computer_science -> Areas_of_computer_science -> Software_engineering -> Software_design -> Software_architecture -> Persistence
+
++ Software -> Software_development -> Software_engineering -> Software_design -> Software_architecture -> Persistence -> Persistence_frameworks
+
++ Software -> History_of_software
+
++ History_of_computing -> History_of_software -> Discontinued_software
+
++ Computing_and_society -> Information_society -> Social_information_processing -> Collaborative_projects -> Engineering_projects -> Information_technology_projects -> Software_projects -> Custom_software_projects -> Aborted_custom_software_projects
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Book_publishing
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Book_publishing -> Book_arts
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_region
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Society_museums -> Ethnic_museums
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Ethnic_museums -> Museums_of_Czech_culture_abroad
+
++ Software -> Application_software -> Business_software -> Free_business_software
+
++ Software -> Application_software -> Business_software -> Financial_software -> Free_finance_software
+
++ Software -> Application_software -> Business_software -> Financial_software -> Accounting_software -> Free_accounting_software
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_transmission
+
++ Computer_data -> Data_transmission -> Computer_networking -> Networking_hardware
+
++ Computer_networking -> Networking_hardware -> Fiber_optics
+
++ Computer_engineering -> Computer_hardware -> Networking_hardware -> Fiber_optics -> Optical_fiber
+
++ Computer_networking -> Networking_hardware -> Fiber_optics -> Optical_fiber -> Optical_telecommunications_cables
+
++ Computer_science -> Areas_of_computer_science -> Software_engineering -> Computer_programming -> Algorithms -> Digital_signal_processing -> Image_processing
+
+- Information_technology -> Data -> Automatic_identification_and_data_capture -> Biometrics -> Anthropometry -> Medical_imaging
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Scientific_modeling -> Infographics -> Symbols -> Military_insignia
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Scientific_modeling -> Notation -> Encodings -> Symbols -> Military_insignia -> Royal_Albanian_Army_Head
+
++ Computing_and_society -> Digital_divide -> Information_technology_charities
+
++ Computing_and_society -> Digital_divide -> Information_technology_charities -> One_Laptop_per_Child
+
+- Information_technology -> Information_science -> Information_storage -> Recording -> Sound_recording
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_management -> Recording -> Sound_recording -> Microphones
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_media
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_media -> Konami_media
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Software_companies_by_country -> Software_companies_of_Japan -> Video_game_companies_of_Japan -> Wikipedia_categories_named_after_video_game_companies_of_Japan -> Konami -> Konami_media -> Suikoden_media
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_the_Netherlands -> Archaeological_museums_in_the_Netherlands
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> DC_Comics
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> DC_Comics -> Television_programs_based_on_DC_Comics
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Human–computer_interaction
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Virtual_reality
+
++ Computer_science -> Areas_of_computer_science -> Human–computer_interaction -> Virtual_reality -> Mixed_reality
+
++ Software -> System_software
+
++ Computer_science -> Areas_of_computer_science -> Computer_architecture -> Operating_systems -> Operating_system_technology
+
++ Software -> System_software -> Operating_systems -> Operating_system_technology -> Concurrency_(computer_science)
+
++ Concurrent_computing
+
++ Computer_science -> Areas_of_computer_science -> Concurrency_(computer_science) -> Concurrent_computing -> Distributed_computing
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_Greece
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_Greece -> Museums_in_Greece_by_region
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Hypertext
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Defunct_museums
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Defunct_museums -> Defunct_museums_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Defunct_museums_by_country -> Defunct_museums_in_the_United_States
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Sailor_Moon
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Sailor_Moon -> Sailor_Moon_media
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Dispute_resolution
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Dispute_resolution -> Lawsuits
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Dispute_resolution -> Lawsuits -> Fictional_lawsuits
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Video_game_franchises
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Digital_art -> Interactive_art -> Video_games -> Video_game_franchises -> Video_game_franchises_by_company
+
+Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Educational_materials
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Educational_materials -> Educational_media_awards
+
++ Information_technology -> Information_technology_management -> Software_engineering -> Computer_programming -> Software_design_patterns
+
++ Software -> Software_development -> Software_engineering -> Software_design -> Software_design_patterns -> Anti-patterns
+
++ Computers -> Computer_hardware
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> Robotics_by_country
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> Robotics_by_country -> Japanese_robotics
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Consumer_guides
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources -> Academic_literature -> Social_sciences_literature -> Geographic_literature -> Travel_books -> Travel_guide_books
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Consumer_guides -> Travel_guide_books -> Hotel_guide_books
+
+- Computer_industry
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Computer_companies
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Computer_companies -> Computer_hardware_companies
+
+- Computers -> Computer_hardware_companies -> NEC_Corporation
+
+- Computers -> Computer_hardware_companies -> NEC_Corporation -> NEC_hardware
+
+- Computers -> Computer_hardware -> Computer_hardware_companies -> NEC_Corporation -> NEC_hardware -> NEC_supercomputers
+
++ Information_technology -> Information_technology_by_country
+
++ Internet -> Internet_by_country
+
++ Information_technology -> Information_technology_by_country -> Information_technology_in_Syria -> Internet_in_Syria
+
++ Information_technology -> Information_technology_by_country -> Internet_by_country -> Internet_in_Syria -> Syrian_bloggers
+
++ Software -> Software_by_company
+
++ Software -> Software_by_company -> Video_games_by_company -> New_World_Computing_games
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Video_games_by_theme
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Standards -> International_standards
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Standards -> Standards_by_organization -> IEC_standards
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_South_America
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_engineering -> Knowledge_representation -> Classification_systems -> Geocodes -> Nomenclature_of_Territorial_Units_for_Statistics
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Case_law
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Case_law -> Case_law_by_court
+
++ Computers -> Computer_architecture -> Network_architecture -> Interfaces -> User_interfaces
+
++ Software -> System_software -> Graphical_user_interfaces
+
+History_of_computing -> History_of_software -> Mac_OS -> Mac_OS_user_interface
+
++ Software -> Software_by_license -> Proprietary_software -> Proprietary_operating_systems -> Apple_Inc._operating_systems -> Mac_OS -> Mac_OS_user_interface -> OS_X_user_interface
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Performing_arts_museums -> Puppet_museums
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Amusement_museums -> Puppet_museums -> Puppet_museums_in_the_United_States
+
++ Software -> Custom_software_projects
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Research_methods -> Social_sciences_methodology -> Survey_methodology -> Official_statistics -> Economic_data -> Economic_indicators -> Stock_market_indices -> Stock_market_indices_by_country
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Social_sciences_methodology -> Survey_methodology -> Official_statistics -> Economic_data -> Economic_indicators -> Stock_market_indices -> Stock_market_indices_by_country -> Russian_stock_market_indices
+
++ Software -> Software_development -> Software_engineering -> Software_design -> Software_architecture -> Component-based_software_engineering
+
+- Software -> Software_development -> Web_development -> E-commerce -> Payment_systems -> Currency -> Currencies_by_country
+
+- Software -> Software_development -> Web_development -> E-commerce -> Payment_systems -> Currency -> Currencies_by_country -> Currencies_of_Indonesia
+
++ Computer_engineering -> Computer_architecture -> Classes_of_computers -> Embedded_systems -> Robotics -> Robotics_organizations
+
+- Computer_engineering -> Computer_systems -> Embedded_systems -> Robotics -> Robotics_organizations -> Robotics_companies
+
+- Computer_systems -> Classes_of_computers -> Embedded_systems -> Robotics -> Robotics_by_company
+
+- Information_technology -> Information_science -> Information_storage -> Recording -> Imaging -> Video
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video -> Film
+
+- Information_technology -> Information_science -> Knowledge_engineering -> Knowledge_representation -> Classification_systems -> Geocodes -> Nomenclature_of_Territorial_Units_for_Statistics -> NUTS_3_statistical_regions_of_the_European_Union
+
++ Computer_data -> Data_transmission -> Computer_networking -> Networking_standards
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_Canada -> Telecommunications_companies_of_Canada -> Nortel -> Nortel_protocols
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Interactive_media
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Websites
+
++ Computing_and_society -> Computing_culture -> Computer-related_events
+
++ Computing_and_society -> Computing_culture -> Computer-related_events -> Computer_conferences
+
++ Computing_and_society -> Computing_culture -> Computer-related_events -> Computer_conferences -> Data_storage_conferences
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Philosophical_methodology -> Analysis -> Inductive_reasoning
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Mathematics -> Mathematical_problem_solving -> Probability_and_statistics
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Primary_sources -> Archives
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_people -> Curators -> Archivists
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Primary_sources -> Archives -> Archivists -> Spanish_archivists
+
++ Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Radio_organizations
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Radio_organizations -> European_Broadcasting_Union
+
++ Natural_language_and_computing
+
++ Natural_language_and_computing -> Computing_by_natural_language
+
++ Natural_language_and_computing -> Computing_by_natural_language -> Video_games_by_language
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> Robots -> Robots_by_country
+
++ Computers -> Computer_systems -> Embedded_systems -> Robotics -> Robotics_by_country -> Robots_by_country -> Robots_of_Pakistan
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Urban_studies_and_planning -> Urban_economics
+
++ Software -> System_software -> Operating_systems -> Free_software_operating_systems
+
++ Computer_engineering -> Computer_hardware -> Microprocessors -> Microprocessors_by_instruction_set_architecture -> ARM_architecture -> ARM_operating_systems -> Linux
+
++ Software -> System_software -> Operating_systems -> Wikipedia_categories_named_after_operating_systems -> Linux -> Linux_malware
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Cyberwarfare -> Computer_security_exploits -> Malware -> Computer_viruses -> Linux_viruses
+
+- Information_technology -> Information_science -> Information_systems -> Geographic_information_systems -> Geocodes -> Nomenclature_of_Territorial_Units_for_Statistics -> NUTS_2_statistical_regions_of_the_European_Union
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Scientific_method -> Science_experiments
+
++ Information_technology -> People_in_information_technology
+
++ Information_technology -> Information_technology_management -> Software_engineering -> Software_engineers
+
++ Software_engineering -> Software_engineers -> Canadian_software_engineers
+
++ Computers -> Computing_by_computer_model -> Early_computers
+
++ Computers -> Computing_by_computer_model -> Early_computers -> Vacuum_tube_computers
+
++ Computers -> Computer_hardware_companies -> Computer_hardware_by_company -> IBM_computers -> IBM_vacuum_tube_computers
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Reference_works
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Scholarly_communication -> Academic_publishing -> Bibliography -> Bibliographies
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Reference_works -> Bibliographies -> Bibliographies_by_writer -> Bibliographies_by_writer_nationality
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Reference_works -> Bibliographies -> Bibliographies_by_writer_nationality -> Bibliographies_of_Spanish_writers
+
++ Information_technology -> Data -> Computer_data -> Data_transmission -> Computer_networking -> Computer_networks -> Computer_networks_by_scale -> Wide_area_networks -> Internet -> Internet_culture -> Internet_ethics
+
+- Information_technology -> Information_science -> Infographics -> Technical_drawing
+
+- Information_technology -> Information_science -> Infographics -> Graphical_projections
+
+- Information_technology -> Information_science -> Infographics -> Technical_drawing -> Graphical_projections -> Perspective_projection
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> History_of_robotics
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robotics -> History_of_robotics -> Years_in_robotics
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Voting
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Voting -> Assembly_votes
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_genre
+
++ Software -> Application_software -> Video_games -> Video_games_by_genre -> Shooter_video_games
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_genre -> Shooter_video_games -> Third-person_shooters
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Digital_art -> Interactive_art -> Video_games -> Video_games_by_genre -> Action_video_games -> Action_game_stubs -> Shooter_game_stubs -> Third-person_shooter_stubs
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Primary_sources -> Documents
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Documents -> Manuscripts
+
++ Software -> Wikipedia_categories_named_after_software
+
+- Software -> Application_software -> Music_software -> Audio_software -> Digital_audio_workstation_software -> Ableton_Live
+
+- Information_systems -> Digital_systems -> Digital_signal_processing -> Audio_editors -> Digital_audio_workstation_software -> Ableton_Live -> Ableton_Live_users
+
++ Software -> System_software -> Utility_software
+
++ Software -> System_software -> Utility_software -> Utility_software_by_type
+
++ Computer_networking -> Network_service -> Servers_(computing)
+
++ Computers -> Data_centers
+
++ Information_technology -> Information_science -> Information_retrieval -> Data_management -> Data_centers -> Modular_datacenter
+
++ Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Secondary_sources -> Websites -> Government-owned_websites
+
++ Computing_and_society -> Computer_law
+
++ Computing_and_society -> Computer_law -> Computing-related_controversies_and_disputes
+
++ Computing_and_society -> Computer_law -> Computer_case_law
+
+- Computing_and_society -> Computer_law -> Computing-related_controversies_and_disputes -> Computer_case_law -> United_States_computer_case_law
+
+- Computing_and_society -> Computer_law -> Computing-related_controversies_and_disputes -> Computer_case_law -> United_States_computer_case_law -> United_States_Internet_case_law
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> File_sharing -> United_States_file_sharing_case_law
+
++ Data
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Espionage -> Advanced_persistent_threat -> Intelligence_agencies
+
+- Computer_data -> Data_management -> Data_collection -> Intelligence_(information_gathering) -> Military_intelligence -> Military_intelligence_collection
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Scientific_modeling -> Notation -> Encodings -> Geocodes -> Nomenclature_of_Territorial_Units_for_Statistics -> LAU_1_statistical_regions_of_the_European_Union
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Dennis_the_Menace_(U.S.)
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Dennis_the_Menace_(U.S.) -> Dennis_the_Menace_(U.S.)_television_series
+
++ Computer_programming -> Programming_constructs
+
++ Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_games_by_genre -> Educational_video_games
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> World_Wide_Web -> Internet-based_works -> Websites -> Web_2.0 -> Collective_intelligence -> Crowdsourcing -> Open_content -> Free_content -> Free_software -> Free_application_software -> Free_entertainment_software -> Open-source_games -> Open-source_video_games -> Open-source_educational_video_games
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Symbols -> National_symbols
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Scientific_method -> Scientific_modeling -> Notation -> Encodings -> Symbols -> National_symbols -> National_symbols_by_nation
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Fantasy_by_franchise
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Fantasy_by_franchise -> Masters_of_the_Universe
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Media_companies_by_country
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Media_companies_by_country -> Book_publishing_companies_by_country
+
++ Computing_and_society -> Information_society -> Social_information_processing
+
++ Computing_and_society -> Information_society -> Social_information_processing -> Collaborative_projects
+
++ Computing_and_society -> Information_society -> Social_information_processing -> Collaborative_projects -> Engineering_projects
+
++ Information_technology -> Information_technology_projects
+
++ Software -> Software_projects
+
++ Information_technology -> Non-profit_technology
+
+- Computing_and_society -> Information_society -> Online_politics
+
++ Software -> User_interfaces -> Graphical_user_interfaces -> Web_applications -> Internet_activism
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet_culture -> Internet_activism -> Digital_rights
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet_culture -> Internet_activism -> Digital_rights -> Digital_rights_organizations
+
++ Computing_and_society -> Information_society -> Online_politics -> Internet_privacy -> Electronic_Frontier_Foundation
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Radio_stations
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Radio_stations -> Radio_stations_by_format
+
++ World_Wide_Web -> Online_organizations
+
++ Software -> System_software -> Utility_software -> Utility_software_by_type -> Internet_Protocol_based_network_software -> Communication_software -> Electronic_mailing_lists -> Online_organizations -> Social_networks
+
++ Computing_and_society -> Information_society -> Social_information_processing -> Social_networks -> Professional_networks
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Chaos -> Chaos_theory -> Self-organization -> Social_networks -> Professional_networks -> Career_advice_services
+
++ Software -> Application_software -> Science_software -> Mathematical_software
+
++ Computer_science -> Areas_of_computer_science -> Theoretical_computer_science -> Logic_in_computer_science -> Automated_theorem_proving -> Theorem_proving_software_systems
+
++ Software -> Application_software -> Science_software -> Mathematical_software -> Free_mathematics_software -> Free_theorem_provers
+
++ History_of_computing -> History_of_software -> History_of_computer_science -> 21st_century_in_computer_science
+
++ Software -> History_of_software -> Software_by_year -> 21st-century_software
+
++ Software -> Software_by_year -> 21st-century_software -> 21st-century_video_games
+
++ History_of_computing -> History_of_computer_science -> 21st_century_in_computer_science -> 21st-century_software -> 21st-century_video_games -> 2000s_in_video_gaming
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Video_game_franchises -> Video_game_franchises_introduced_in_2002
+
+- Software -> Application_software -> Video_games -> Video_game_franchises -> Mega_Man
+
+- Information_technology -> Information_technology_by_country -> Information_technology_in_the_United_Kingdom
+
++ Information_technology -> Information_science -> Academic_literature -> Technology_literature -> Science_and_technology_magazines -> Computer_magazines -> Computer_magazines_by_country -> British_computer_magazines
+
+- Information_technology -> Information_technology_by_country -> Information_technology_in_the_United_Kingdom -> British_computer_magazines -> British_video_game_magazines
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Audio_engineering
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Audio_engineering -> Stereophonic_sound
+
++ Software -> Computer_programming_tools
+
++ Computer_engineering -> Computer_architecture -> Operating_systems -> Software_by_operating_system -> Unix_software -> Unix_programming_tools
+
++ Software_engineering -> Computer_programming -> Computer_programming_tools -> Linux_programming_tools
+
++ Information_technology -> Information_technology_management -> Software_engineering -> Computer_programming -> Computer_programming_tools -> Integrated_development_environments -> Linux_integrated_development_environments
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Cancelled_projects_and_events
+
+- Software -> Application_software -> Video_games -> Video_games_by_development_status -> Cancelled_video_games
+
+- Information_technology -> Information_science -> Infographics -> Cartography -> Hydrography
+
+- Information_technology -> Information_science -> Information_storage -> Recording -> Sound_recording -> Audio_engineering -> Audio_electronics
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_the_Philippines
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_the_Philippines -> History_museums_in_the_Philippines
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Numismatic_museums
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Game_theory -> Chess_theory
+
++ Computer_security -> Computer_security_software
+
++ Software -> System_software -> Utility_software -> Utility_software_by_type -> Computer_security_software -> Computer_access_control_frameworks
+
++ Software -> System_software -> Utility_software -> Utility_software_by_type -> Computer_security_software -> Computer_access_control_frameworks -> Federated_identity
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling -> Infographics -> Cartography -> Geographic_images -> Images_by_country -> Images_of_Argentina
+
++ Software -> Application_software -> Science_software -> Computational_science
+
++ Computer_languages
+
++ Computer_science -> Areas_of_computer_science -> Software_engineering -> Computer_programming -> Programming_languages
+
++ Information_technology -> Data -> Communications_protocols
+
++ Computers -> Computer_architecture -> Network_architecture -> Internet_architecture -> Internet_protocols -> Application_layer_protocols
+
+- Computer_networking -> Networking_standards -> Network_protocols -> OSI_protocols -> Application_layer_protocols -> Clients_(computing)
+
++ Computer_programming -> Concurrent_computing -> Distributed_computing -> Distributed_computing_architecture -> Clients_(computing) -> SFTP_clients
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Ed,_Edd_n_Eddy
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Ed,_Edd_n_Eddy -> Ed,_Edd_n_Eddy_seasons
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Language_classification
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_representation -> Classification_systems -> Language_classification -> Language_families
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Language_classification -> Language_families -> Matacoan_languages
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Ultra_Series
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Ultra_Series -> Ultra_Seven
+
+- Information_technology -> Information_technology_by_country -> Information_technology_in_Hungary
+
+- Information_technology -> People_in_information_technology -> Computer_specialists_by_nationality -> Hungarian_computer_specialists
+
+- Information_technology -> Information_technology_by_country -> Information_technology_in_Hungary -> Hungarian_computer_specialists -> Hungarian_computer_scientists
+
+- Information_technology -> Information_science -> Information_retrieval -> Data_management -> Data_collection -> Interrogations
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Radio -> Radio_by_country -> American_radio
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Electronic_documents
+
+- Computing_and_society -> Computing_culture -> Video_game_culture -> Video_gaming_by_country -> Video_gaming_in_Finland
+
+- Information_technology -> Information_technology_companies -> Computer_companies -> Software_companies -> Software_companies_by_country -> Software_companies_of_Finland -> Video_game_companies_of_Finland
+
++ Computing_and_society -> Computer-mediated_communication
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Email
+
++ Computing_and_society -> Computer_law -> Computer_crimes -> Cybercrime -> Spamming
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Hypertext -> World_Wide_Web -> Internet_marketing -> Internet_advertising -> Spamming -> Wikipedia_spam
+
++ Computing_and_society -> Computer_law -> Computer_crimes -> Cybercrime -> Spamming -> Wikipedia_spam -> Wikipedia_external_links_cleanup
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> World_Wide_Web -> Internet_culture -> Internet_ethics -> Spamming -> Wikipedia_spam -> Wikipedia_external_links_cleanup -> Wikipedia_external_links_cleanup_from_August_2012
+
+- Software -> Software_by_company -> Video_games_by_company -> Video_games_developed_by_country_sorted_by_company
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museum_collections_by_country -> Collections_of_museums_in_Germany
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_video_game_companies -> Wikipedia_categories_named_after_video_game_companies_of_Japan -> Square_Enix -> Square_Enix_media
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Electronic_games -> Video_games -> Video_game_culture -> Video_gaming_by_country -> Video_game_companies_by_country -> Video_game_companies_of_Japan -> Square_Enix -> Square_Enix_media -> Front_Mission_media
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_Spain
+
++ Information_technology -> Information_systems -> Digital_systems -> Digital_electronics -> Computer_hardware -> Classes_of_computers -> Mainframe_computers
+
+- Computers -> Computer_architecture -> Classes_of_computers -> Mainframe_computers -> Burroughs_mainframe_computers
+
+- Software -> Application_software -> Video_games -> Video_games_by_genre -> Music_video_games
+
+- Software -> Application_software -> Video_games -> Video_games_by_genre -> Music_video_games -> Music_generated_games
+
++ Information_technology -> People_in_information_technology -> Computer_specialists_by_nationality
+
++ Information_technology -> People_in_information_technology -> Computer_specialists_by_nationality -> Brazilian_computer_specialists
+
++ Information_technology -> People_in_information_technology -> Computer_scientists -> Computer_scientists_by_nationality -> Brazilian_computer_scientists
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Robots -> Fictional_robots -> Robot_superheroes
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Cognitive_biases
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Cognitive_biases -> Memory_biases
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Comics_industry
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Wikipedia_categories_named_after_telecommunications_companies
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Wikipedia_categories_named_after_telecommunications_companies -> Bell_Canada
+
+- Information_technology -> Data -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Wikipedia_categories_named_after_telecommunications_companies -> Bell_Canada -> Bell_Media
+
++ Software -> History_of_software -> History_of_computer_science -> 20th_century_in_computer_science -> 1960s_in_computer_science
+
++ Computer_science -> History_of_computer_science -> 20th_century_in_computer_science -> 1960s_in_computer_science -> 1966_in_computer_science
+
++ History_of_computing -> History_of_software -> History_of_computer_science -> 20th_century_in_computer_science -> 1960s_in_computer_science -> 1966_in_computer_science -> 1966_software
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Radio -> Radio-related_lists
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Africa -> Museums_in_Tunisia
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Archaeological_museums_by_country -> Archaeological_museums_in_Tunisia
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Art_museums_and_galleries_by_year
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Biographical_museums
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Radio -> Radio_programs
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Radio -> Radio_programs -> Old-time_radio_programs
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Performing_arts_museums
+
+- Information_technology -> Information_science -> Knowledge_representation -> Classification_systems -> Ecozones
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Ecoregions -> Ecoregions_of_Africa -> Afrotropic_ecozone
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_representation -> Classification_systems -> Ecoregions -> Ecoregions_of_Africa -> Ecoregions_of_the_Democratic_Republic_of_the_Congo
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Machine_learning
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Machine_learning -> Learning_in_computer_vision
+
+- Computer_engineering -> Computer_hardware -> Classes_of_computers -> Microcomputers -> Portable_computers -> Mobile_computers -> Mobile_phones -> Mobile_phone_industry_by_country
+
+- Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Mobile_phone_companies_by_country
+
++ Information_technology -> Information_science -> Infographics -> Notation -> Encodings
+
+- Information_technology -> Information_science -> Knowledge_representation -> Classification_systems -> Language_classification -> Language_families -> Niger–Congo_languages
+
++ Software -> Application_software -> Editing_software
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Editing -> Editing_software -> Text_editors
+
++ Computing_platforms -> Microsoft_Windows -> Windows_software -> Windows_text-related_software -> Windows_text_editors
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Editing -> Editing_software -> Windows_text-related_software -> Windows_text_editors -> Notepad_replacements
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Language_classification -> Language_families -> Zaparoan_languages
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Academic_publishing -> Bibliography
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Scholarly_communication -> Academic_publishing -> Bibliography -> Bibliographies -> Bibliographies_by_writer
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Wikipedia_categories_named_after_museums -> Pro_Football_Hall_of_Fame
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Wikipedia_categories_named_after_museums -> Pro_Football_Hall_of_Fame -> Pro_Football_Hall_of_Fame_inductees
+
+- Information_technology -> Information_science -> Infographics -> Symbols -> Cantabrian_symbols
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Comics -> Fictional_content_in_comics
+
+- Information_technology -> Information_technology_management -> Data_management -> Data_collection -> Scientific_observation -> Measurement -> Physical_quantities
+
++ Information_technology -> Information_science -> Knowledge_engineering
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_Poland
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_Poland -> Registered_museums_in_Poland
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Music_industries_by_country
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Music_industries_by_country -> Scottish_music_industry
+
++ Computer_industry -> Computer_companies -> Computing_by_company
+
++ Information_systems -> Digital_systems -> Digital_electronics -> Computer_hardware -> Computer_hardware_companies -> Computer_hardware_by_company
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Computer_vision -> Applications_of_computer_vision -> Remote_sensing
+
++ Information_systems -> Geographic_information_systems
+
+- Information_technology -> Information_technology_management -> Data_management -> Recording -> Imaging -> Photography
+
+- Information_technology -> Data -> Data_management -> Recording -> Imaging -> Photography -> Photography_organizations
+
++ Software -> Application_software -> Graphics_software
+
++ Computers -> Computer_architecture -> Operating_systems -> Wikipedia_categories_named_after_operating_systems -> Linux -> Linux_software -> Linux_graphics-related_software
+
++ Computer_science -> Areas_of_computer_science -> Computer_graphics -> Graphics_software -> Linux_graphics-related_software -> SVGAlib_programs
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> National_museums -> National_museums_by_country -> National_museums_of_Poland
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Wikipedia_categories_named_after_media_companies -> Dawn_Media_Group
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_engineering -> Knowledge_representation -> Classification_systems -> Taxonomy -> Geographic_taxonomies -> Geocodes -> Nomenclature_of_Territorial_Units_for_Statistics -> LAU_2_statistical_regions_of_the_European_Union
+
++ Software -> Wikipedia_categories_named_after_software -> Wikipedia_categories_named_after_operating_systems
+
+- Computer_science -> Areas_of_computer_science -> Computer_architecture -> Operating_systems -> Operating_systems_by_architecture -> X86_operating_systems -> Linux -> Linux_organizations
+
+- Computers -> Computer_architecture -> Operating_systems_by_architecture -> ARM_operating_systems -> Linux -> Linux_organizations -> NSLU2-Linux
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Comics -> Comics_industry -> Manga_industry
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Comics -> Comics_industry -> Manga_industry -> Anime_and_manga_awards
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Radio_by_country -> Nauruan_radio
+
++ Computer_engineering -> Computer_architecture -> Operating_systems -> Software_by_operating_system -> Windows_software
+
++ Data -> Communications_protocols -> Network_protocols -> OSI_protocols -> Application_layer_protocols -> Windows_Internet_software
+
++ Software -> File_archivers -> Windows_archivers_and_compression-related_utilities -> Backup_software_for_Windows -> File_hosting_for_Windows
+
+- Information_technology -> Information_technology_places -> Silicon_Valley -> Companies_based_in_Silicon_Valley
+
+- Information_technology -> Information_technology_places -> Silicon_Valley -> Companies_based_in_Silicon_Valley -> Companies_based_in_Sunnyvale,_California
+
+- Information_technology -> Information_technology_places -> Silicon_Valley -> Companies_based_in_Silicon_Valley -> Companies_based_in_Sunnyvale,_California -> Advanced_Micro_Devices
+
+- Information_technology -> Data -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_the_United_States -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Advanced_Micro_Devices -> Advanced_Micro_Devices_people
+
+- Software -> Application_software -> Video_games -> Fictional_content_in_video_games -> Violence_in_video_games
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_people
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_people -> Museum_directors
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_people -> Museum_directors -> Directors_of_museums_in_Germany
+
++ Software -> Software_by_company -> Video_games_by_company -> LucasArts_games -> Star_Wars_video_games
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_the_United_States
+
+- Information_technology -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States
+
++ Information_technology -> Information_technology_organisations -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Oracle_Corporation
+
+- Information_technology -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Oracle_Corporation -> Oracle_acquisitions
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Notation -> Computer_languages -> Programming_language_topics -> Programming_language_theory
+
++ Computer_science -> Areas_of_computer_science -> Programming_language_theory -> Programming_languages -> Programming_language_families
+
++ Software -> WikiProject_Software -> WikiProject_Software_articles -> Software_articles_by_quality
+
+- Software -> WikiProject_Software -> WikiProject_Software_articles -> Software_articles_by_quality -> FA-Class_software_articles
+
+- Software -> WikiProject_Software -> WikiProject_Software_articles -> Software_articles_by_quality -> FA-Class_software_articles -> FA-Class_software_articles_of_Mid-importance
+
++ Software -> System_software -> Operating_systems -> ROM-based_operating_systems
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_Ireland
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_Ireland -> Telecommunications_companies_of_Ireland
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_Ireland -> Telecommunications_companies_of_Ireland -> Telecommunications_companies_of_the_Republic_of_Ireland
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Telecommunications_companies_by_country -> Telecommunications_companies_of_Ireland -> Telecommunications_companies_of_the_Republic_of_Ireland -> Internet_companies_of_the_Republic_of_Ireland
+
++ Software -> Software_by_license
+
++ Software -> Software_by_license -> Free_software
+
+- Computing_infrastructure -> Centralized_computing -> Web_2.0 -> Collective_intelligence -> Crowdsourcing -> Open_content -> Free_content -> Free_software -> Public_commons
+
+- Computing_and_society -> Computer_law -> Software_licenses -> Software_by_license -> Free_software -> Public_commons -> Public_domain
+
+- Software -> Software_by_license -> Free_software -> Public_commons -> Public_domain -> Public_domain_in_the_United_States
+
+- Software -> Software_by_license -> Free_software -> Public_commons -> Public_domain -> Public_domain_in_the_United_States -> Images_in_the_public_domain_in_the_United_States
+
++ Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_the_United_States -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> IBM
+
+- Information_technology -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> IBM -> IBM_subsidiaries
+
++ Software -> Software_industry -> Software_companies
+
++ Computer_industry -> Software_industry -> Software_companies -> Software_companies_by_category
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_game_development -> Video_game_companies
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Video_game_publishers
+
++ History_of_computing -> History_of_software -> History_of_computer_science -> 21st_century_in_computer_science -> 21st-century_software -> 2000s_software
+
++ History_of_computing -> History_of_computer_science -> 21st_century_in_computer_science -> 2000s_in_computer_science -> 2008_in_computer_science -> 2008_software
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Video_game_franchises -> The_Legend_of_Heroes_series
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Radio -> Radio_technology
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_people -> Conservator-restorers
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_people -> Conservator-restorers -> Conservation_architects
+
+- Information_technology -> Information_technology_by_country -> Information_technology_in_China -> Information_technology_companies_of_China
+
+- Information_technology -> Information_technology_by_country -> Information_technology_in_China -> Information_technology_companies_of_China -> Telecommunications_companies_of_China
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Telecommunications_companies_of_Hong_Kong
+
+- Information_technology -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Telecommunications_companies_of_Hong_Kong -> Mobile_phone_companies_of_Hong_Kong
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources -> Encyclopedias -> Encyclopedists
+
++ Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Information_technology_companies_of_the_United_States -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Microsoft
+
+- Information_technology -> Data -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies_of_the_United_States -> Microsoft -> Games_on_Microsoft_platforms
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_platform -> Games_on_Microsoft_platforms -> Windows_games
+
+- Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Human–computer_interaction -> Virtual_reality -> Mixed_reality -> Interactive_art -> Video_games -> Video_games_by_genre -> Strategy_video_games -> Real-time_strategy_video_games -> Total_Annihilation
+
+- Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Software_companies_by_country -> Software_companies_of_Japan -> Video_game_companies_of_Japan
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> New_media -> Interactive_art -> Video_games -> Video_games_by_theme -> Video_games_by_setting
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Video_games_by_theme -> Video_games_by_setting -> Video_games_by_continent_of_setting
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Hanna-Barbera_series_and_characters
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Hanna-Barbera_series_and_characters -> Tom_and_Jerry
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_the_United_Kingdom
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_the_United_Kingdom -> Grade_I_listed_museum_buildings
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling -> Infographics -> Cartography -> Geographic_images -> Images_by_country -> Images_of_Puerto_Rico
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Standards -> Standards_by_type -> Electrical_standards
+
++ Computer_science -> Areas_of_computer_science -> Computational_science -> Computational_biology
+
++ Computer_science -> Areas_of_computer_science -> Computational_science -> Computational_biology -> Bioinformatics
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Mathematics -> Mathematical_problem_solving -> Applied_mathematics -> Computational_science -> Computational_biology -> Bioinformatics -> Theoretical_biologists
+
++ Software -> Software_development -> Video_game_development -> Video_game_engines -> Video_games_by_game_engine
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Virtual_reality -> Mixed_reality -> Interactive_art -> Video_games -> Video_games_by_staff
+
+- Information_technology -> Information_technology_management -> Data_management -> Data_collection -> Scientific_observation -> Measurement -> Units_of_measurement
+
+- Information_technology -> Information_technology_companies -> Information_technology_companies_by_country -> Information_technology_companies_of_Russia -> Telecommunications_companies_of_Russia -> Svyazinvest
+
++ Software -> System_software -> Operating_systems -> Operating_system_families
+
++ Software -> System_software -> Graphical_user_interfaces -> Windowing_systems -> Window-based_operating_systems -> Mac_OS
+
++ Software -> Software_by_operating_system -> Mac_OS_software
+
++ Computers -> Computer_architecture -> Operating_systems -> Operating_systems_by_architecture -> X86_operating_systems -> X86-64_operating_systems -> OS_X -> OS_X_software
+
++ Information_technology -> Information_technology_companies -> Computer_companies -> Computer_companies_by_country
+
++ Computer_industry -> Computer_companies -> Computer_companies_by_country -> Computer_companies_of_Malaysia
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Computer_companies -> Computer_companies_by_country -> Computer_companies_of_Malaysia -> Software_companies_of_Malaysia
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1805
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Art_museums_by_year_of_establishment -> Art_museums_established_in_1805
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_video_game_companies -> Electronic_Arts -> Electronic_Arts_games -> Bullfrog_Productions_games
+
++ Software -> Application_software -> Video_games -> Video_games_by_genre -> Strategy_video_games -> Real-time_strategy_video_games -> Populous
+
++ Computing_and_society -> Computing_culture -> Video_game_culture -> Works_based_on_video_games
+
++ Computing_and_society -> Computing_culture -> Video_game_culture -> Works_based_on_video_games -> Comics_based_on_video_games
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Science_fiction_by_franchise -> Tron_(franchise) -> Comics_based_on_Tron
+
++ Software -> Application_software -> Video_games -> Video_games_by_genre -> Role-playing_video_games
+
++ Concurrent_computing -> Distributed_computing -> Applications_of_distributed_computing -> Massively_multiplayer_online_games -> Massively_multiplayer_online_role-playing_games
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Video_game_franchises -> Star_Wars_video_games -> Star_Wars_Galaxies
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_North_America
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_the_United_States
+
++ Computer_industry -> Computer_companies -> Computing_by_company -> Software_by_company -> Video_games_by_company -> UNiCO_Electronics_games
+
++ Information_technology -> Information_science -> Library_and_information_science_stubs
+
++ Information_technology -> Information_science -> Library_science -> Library_and_information_science_stubs -> Library_and_information_science_biography_stubs
+
++ Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet -> Internet_by_country -> Internet_in_the_United_Kingdom
+
++ Computer_networking -> Network_architecture -> Internet_architecture -> Domain_name_system -> Domain_names -> Domain_names_of_the_United_Kingdom
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_genre -> Adventure_games
+
+- Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet -> World_Wide_Web -> Web_fiction -> Interactive_fiction
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Performing_arts_museums -> Victoria_and_Albert_Museum
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Glass_museums_and_galleries -> Victoria_and_Albert_Museum -> Collections_of_the_Victoria_and_Albert_Museum
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Human–computer_interaction -> World_Wide_Web -> Online_companies -> Online_publishing_companies
+
++ Information_technology -> Information_science -> Human–machine_interaction
+
++ Information_technology -> Information_science -> Human–computer_interaction -> World_Wide_Web -> Internet-based_works -> Web_series
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Models_of_radios
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> Models_of_radios -> Amateur_radio_transceivers
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Symbols -> Lists_of_symbols
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Scientific_modeling -> Notation -> Encodings -> Symbols -> Lists_of_symbols -> Lists_of_United_States_state_symbols_by_state
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Logic -> Reasoning -> Inductive_reasoning -> Causality -> Causal_fallacies -> Types_of_scientific_fallacy -> Cognitive_biases -> Cognitive_dissonance
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Hypertext -> World_Wide_Web -> Websites -> Websites_by_topic
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Educational_materials -> Educational_websites
+
++ Computer_science -> Areas_of_computer_science -> Theoretical_computer_science
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> New_media -> Interactive_art -> Video_games -> Video_games_by_genre -> Simulation_video_games
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_genre -> Simulation_video_games -> Vehicle_simulation_games
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_genre -> Simulation_video_games -> Transport_simulation_games -> Vehicle_simulation_games -> Flight_simulation_video_games
+
++ Software -> Application_software -> Simulation_software -> Simulation_video_games -> Construction_and_management_simulation_games -> City-building_games -> Transport_simulation_games -> Vehicle_simulation_games -> Flight_simulation_video_games -> Space_simulators
+
++ Computer_science -> History_of_computer_science -> 20th_century_in_computer_science -> 20th-century_software
+
++ Software -> Software_by_year -> Programming_languages_by_creation_date -> Programming_languages_created_in_the_20th_century
+
++ Computer_science -> History_of_computer_science -> 20th_century_in_computer_science -> 1970s_in_computer_science -> 1970s_software -> Programming_languages_created_in_the_1970s
+
++ History_of_computing -> History_of_computer_science -> 20th_century_in_computer_science -> 1970s_in_computer_science -> 1977_in_computer_science -> 1977_software -> Programming_languages_created_in_1977
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Telecommunications_companies -> Telecommunications_companies_by_country -> Telecommunications_companies_of_the_United_States -> Wikipedia_categories_named_after_telecommunications_companies_of_the_United_States
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Telecommunications_companies_by_country -> Telecommunications_companies_of_the_United_States -> Wikipedia_categories_named_after_telecommunications_companies_of_the_United_States -> Otelco
+
++ Computers -> Computer_hardware -> Classes_of_computers -> Microcomputers -> Home_computers -> ZX_Spectrum
+
++ Computers -> Classes_of_computers -> Microcomputers -> Home_computers -> ZX_Spectrum -> ZX_Spectrum_software
+
+- Information_technology -> Information_technology_organisations -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Sinclair_Research -> Sinclair_computers_and_derivatives -> ZX_Spectrum -> ZX_Spectrum_software -> ZX_Spectrum_games
+
+- Computing_platforms -> Multi-agent_systems -> Agent-based_software -> Financial_markets_software -> Electronic_trading_platforms -> Stock_exchanges -> Stock_exchanges_by_continent
+
+- Software -> Custom_software_projects -> Electronic_trading_platforms -> Stock_exchanges -> Stock_exchanges_by_continent -> Stock_exchanges_in_North_America
+
+- Software -> Application_software -> Simulation_software -> Financial_markets_software -> Electronic_trading_platforms -> Stock_exchanges -> Stock_market_indices -> Stock_market_indices_by_continent -> North_American_stock_market_indices
+
+- Information_technology -> Information_science -> Information_storage -> Archives -> Archives_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Archives_by_country -> Archives_in_Serbia
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Mathematics -> Applied_mathematics -> Theoretical_computer_science -> Graph_theory
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Analysis -> Mathematical_analysis -> Mathematical_relations -> Graph_theory -> Graphs -> Extensions_and_generalizations_of_graphs
+
++ Computer_science -> Areas_of_computer_science -> Theoretical_computer_science -> Graph_theory -> Graph_coloring
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Scientific_method -> Research_methods -> Analysis -> Mathematical_analysis -> Mathematical_relations -> Graph_theory -> Graph_coloring -> 4-chromatic_graphs
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Game_theory -> Go_openings
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Game_theory -> Go_openings -> Joseki
+
++ Software -> Software_industry -> Software_companies -> Software_by_company -> CDC_software
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_platform -> PLATO_games
+
++ Software -> System_software -> Operating_systems -> Operating_system_families -> Microsoft_Windows -> Windows_ME
+
++ Computer_programming
+
+- Information_technology -> Information_technology_management -> Software_engineering -> Programming_language_topics -> Programming_language_concepts -> Type_systems -> Data_types -> Statistical_data_types -> Epidemiology
+
+- Information_technology -> Information_technology_management -> Knowledge_management -> Evidence-based_practices -> Epidemiology -> Epidemics
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> World_Wide_Web -> Internet-based_works -> Websites -> Web_2.0 -> Collective_intelligence
+
++ Computing_and_society -> Information_society -> Social_information_processing -> Collective_intelligence -> Crowdsourcing
+
+- Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Cyberwarfare -> Espionage -> Intelligence_gathering_disciplines -> Collective_intelligence -> Crowdsourcing -> Open_content
+
+- Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Human–computer_interaction -> World_Wide_Web -> Web_2.0 -> Crowdsourcing -> Open_content -> Free_content
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Music_production
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Music_production -> Musical_instruments
+
+- Software -> Software_by_company -> Sony_software -> Sony_Computer_Entertainment_games -> Ratchet_&_Clank
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Mathematics -> Applied_mathematics -> Cryptography -> Applications_of_cryptography
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Archives_by_country -> Archives_in_the_Netherlands
+
+- Computing_and_society -> Computing_culture -> Video_game_culture -> Video_gaming_by_country -> Video_gaming_in_Japan -> Video_games_developed_in_Japan -> Video_games_developed_in_Japan_by_company -> Grasshopper_Manufacture_games
+
+- Computing_and_society -> Computing_culture -> Video_game_culture -> Video_gaming_by_country -> Video_gaming_in_Japan -> Video_games_developed_in_Japan -> No_More_Heroes
+
++ Computer_industry -> Vaporware
+
++ Computer_industry -> Software_industry -> Vaporware -> Vaporware_game_consoles
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Knowledge_engineering -> Knowledge_representation -> Mereology -> Causality -> Luck -> Lucky_symbols
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Scientific_method -> Scientific_modeling -> Infographics -> Symbols -> Lucky_symbols -> Amulets
+
+- Information_technology -> Information_science -> Knowledge_representation -> Mereology -> Causality -> Luck -> Lucky_symbols -> Amulets -> Talismans
+
++ Computing_and_society -> Computing_culture -> Internet_culture -> Virtual_communities
+
+- Computing_and_society -> Computing_culture -> Internet_culture -> Virtual_communities -> Whole_Earth
+
+- Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Email -> Electronic_mailing_lists -> Online_organizations -> Virtual_communities -> Whole_Earth -> Wired_(magazine)
+
+- Computing_and_society -> Computing_culture -> Internet_culture -> Virtual_communities -> Whole_Earth -> Wired_(magazine) -> Fair_use_Wired_magazine_covers
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Oceania
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_New_Zealand
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Video_game_gameplay -> Open_world_video_games
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_theme -> Fantasy_video_games -> Role-playing_games_based_on_Middle-earth -> The_Lord_of_the_Rings_Online
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1819
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_year_of_establishment -> Museums_established_in_1819 -> Art_museums_established_in_1819
+
+- Information_technology -> Information_science -> Infographics -> Symbols -> Flags
+
+- Information_technology -> Information_science -> Infographics -> Symbols -> Flags -> Lists_and_galleries_of_flags
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Rurouni_Kenshin
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Rurouni_Kenshin -> Rurouni_Kenshin_images
+
+- Information_technology -> Information_science -> Knowledge_engineering -> Knowledge_representation -> Strategy -> Abstract_strategy_games
+
++ Software -> Software_by_operating_system -> Single-platform_software
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_platform -> Single-platform_video_games
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Video_games_by_platform -> Arcade_games -> Arcade-only_games
+
++ Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Digital_art -> Interactive_art -> Video_games -> Video_game_hardware -> Arcade_hardware -> Arcade_system_boards -> Discrete_video_arcade_games
+
++ Data -> Computer_data -> Data_transmission -> Computer_networking -> Computer_networks
+
++ Computer_networking -> Computer_networks -> Computer_networks_by_scale
+
++ Computer_networking -> Computer_networks -> Computer_networks_by_scale -> Wide_area_networks
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Media_company_headquarters
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_companies -> Media_company_headquarters -> Media_company_headquarters_in_the_United_States
+
+- Software -> Application_software -> Simulation_software -> Financial_markets_software -> Electronic_trading_systems -> Electronic_trading_platforms -> Stock_exchanges -> Companies_by_stock_exchange
+
+- Software -> Application_software -> Simulation_software -> Financial_markets_software -> Electronic_trading_platforms -> Stock_exchanges -> Companies_by_stock_exchange -> Companies_listed_on_the_Karachi_Stock_Exchange
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Radio -> Radio_control
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Radio -> History_of_radio
+
+- Information_technology -> Information_science -> Library_science -> Catalogues
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Academic_publishing -> Academic_literature -> Science_writing -> Astronomy_data_and_publications -> Astronomical_catalogues
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Scholarly_communication -> Academic_publishing -> Bibliographic_databases -> Catalogues -> Astronomical_catalogues -> Astronomical_catalogues_of_stars
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources -> Academic_literature -> Science_writing -> Astronomy_data_and_publications -> Astronomical_catalogues -> Astronomical_catalogues_of_stars -> Durchmusterung_objects
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Science_fiction_by_franchise
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Science_fiction_by_franchise -> Firefly_(TV_series)
+
+- Computing_and_society -> Computer-mediated_communication -> Email -> Spamming -> Wikipedia_spam -> Wikipedia_external_links_cleanup -> Wikipedia_external_links_cleanup_from_May_2011
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources -> Dictionaries
+
+- Software -> Application_software -> Video_games -> Video_games_by_genre -> Platform_games
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_theme -> Parkour_video_games
+
+- Information_technology -> Information_technology_companies -> Wikipedia_categories_named_after_information_technology_companies -> Wikipedia_categories_named_after_video_game_companies -> Ubisoft -> Ubisoft_Entertainment_games -> Assassin's_Creed
+
++ Computers -> Computing_by_computer_model
+
++ Computers -> Classes_of_computers -> Microcomputers -> Home_computers -> Amstrad_CPC
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_game_hardware -> Video_game_platforms -> Home_computers -> Home_computer_software -> Amstrad_CPC_games
+
+- Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Video_games -> Video_games_by_platform -> Amstrad_CPC_games -> Screenshots_of_Amstrad_CPC_games
+
++ Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_hardware
+
++ Computers -> Computer_hardware -> Video_game_hardware -> Arcade_hardware
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_hardware -> Arcade_hardware -> Arcade_system_boards
+
+- Computers -> Computer_systems -> Computer_hardware -> Video_game_hardware -> Arcade_hardware -> Arcade_system_boards -> Taito_arcade_system_boards
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Video_game_industry
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_industry -> Pay_what_you_want_game_vendors
+
+- Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_industry -> Pay_what_you_want_game_vendors -> Humble_Bundle
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Academic_publishing -> Bibliography -> Bibliographies -> Bibliographies_by_subject
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Scholarly_communication -> Academic_publishing -> Bibliography -> Bibliographies -> Bibliographies_by_subject -> Bibliographies_of_cinema
+
++ Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Secondary_sources -> Websites -> Internet_forums
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet -> World_Wide_Web -> Internet_culture -> Virtual_communities -> Internet_forums -> Internet_forum_hosting
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Notation -> Computer_languages -> Programming_languages -> Software_by_programming_language -> Free_software_by_programming_language
+
++ Software -> Software_by_programming_language -> Free_software_by_programming_language -> Free_software_programmed_in_C++
+
++ Software -> Application_software -> Business_software -> Business_software_for_Linux -> Office_suites_for_Linux -> LibreOffice
+
++ Information_technology -> Information_technology_management -> Computer_data -> Data_transmission -> Computer_networking -> Network_service
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video -> Film -> Film_and_video_technology -> Video_on_demand
+
++ Information_technology -> Information_science -> Information_storage -> Storage_media -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_platform -> Console_games_by_platform_generation -> Games_on_eighth-generation_consoles -> Xbox_One_games -> Xbox_One-only_games
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Art_museums_and_galleries -> Museum_collections
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Art_museums_and_galleries -> Museum_collections -> Zoological_collectors
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museum_collections -> Zoological_collectors -> Conchologists
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_processing -> Information_technology_organisations -> Information_technology_companies -> Information_technology_companies_by_country -> Software_companies_by_country -> Software_companies_of_South_Africa
+
+- Information_technology -> Information_science -> Knowledge_engineering -> Knowledge_representation -> Strategy -> Military_strategy -> Reconnaissance
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Game_theory -> Strategy -> Military_strategy -> Reconnaissance -> Reconnaissance_aircraft
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_Italy
+
+- Software -> Application_software -> Video_games -> Video_games_by_platform -> Arcade_games -> Pinball -> Pinball_machines
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_platform -> Arcade_games -> Pinball -> Pinball_machines -> Pinball_machines_by_year
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_platform -> Arcade_games -> Pinball -> Pinball_machines -> Pinball_machines_by_year -> 1979_pinball_machines
+
+- Computer_engineering -> Computer_hardware -> Computer_hardware_companies -> NEC_Corporation -> NEC_hardware -> NEC_consoles
+
+- Computer_systems -> Computer_hardware -> Video_game_hardware -> Video_game_platforms -> Video_game_consoles -> Video_game_consoles_by_company -> NEC_consoles -> TurboGrafx-16
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Philosophical_methodology
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Philosophical_methodology -> Skepticism
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Museums_in_South_Korea
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Science_museums -> Science_museums_by_country -> Science_museums_in_South_Korea
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Secondary_sources -> Reference_works -> Bibliographies -> Bibliographies_by_subject -> Bibliographies_of_explorations
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Mathematical_problem_solving -> Algorithms
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Mathematics -> Mathematical_problem_solving -> Algorithms -> Search_algorithms
+
+- Computing_and_society -> Computing_culture -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Internet_culture -> Internet_activism -> Digital_rights -> Digital_rights_organizations -> Electronic_Frontier_Foundation -> Litigation_involving_the_Electronic_Frontier_Foundation
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Methodology -> Philosophical_methodology -> Analysis -> Mathematical_analysis -> Mathematical_relations -> Graph_theory -> Mathematical_chemistry
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Systems_of_taxonomy_by_organism
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Systems_of_taxonomy_by_organism -> Systems_of_animal_taxonomy
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Imagination
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Imagination -> Fiction
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Imagination -> Fiction -> Schools_in_fiction
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_Austria
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_continent -> Museums_in_Europe -> Museums_in_Austria -> Historic_house_museums_in_Austria
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Sam_&_Max
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Media_franchises -> Sam_&_Max -> Sam_&_Max_media
+
++ Computing_platforms
+
++ Computing_and_society -> Computer_law -> Software_licenses -> Software_by_license -> Free_software -> Free_system_software -> Free_software_operating_systems -> Inferno_(operating_system)
+
++ Computers -> Computer_architecture -> Operating_systems -> Operating_System_people -> Inferno_(operating_system)_people
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> Art_museums_and_galleries -> Art_museums_and_galleries_by_country
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_country -> Art_museums_and_galleries_by_country -> Art_museums_and_galleries_in_Colombia
+
+- Information_technology -> Information_technology_by_region -> Information_technology_companies_by_country -> Telecommunications_companies_by_country -> Telecommunications_companies_of_Spain
+
++ Information_technology -> Information_technology_companies -> Telecommunications_companies -> Wikipedia_categories_named_after_telecommunications_companies -> KPN
+
++ Software -> Application_software -> Video_games -> Video_games_by_company -> Video_games_developed_by_country_sorted_by_company -> Video_games_developed_in_the_United_States_by_company -> Hi_Tech_Expressions_games
+
++ Software -> Application_software -> Simulation_software -> Simulation_video_games -> Construction_and_management_simulation_games -> Business_simulation_games
+
++ Software -> Application_software -> Video_games -> Video_games_by_genre -> Sports_video_games -> Sports_management_video_games
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Video_games -> Video_games_by_genre -> Role-playing_video_games -> Massively_multiplayer_online_role-playing_games -> MMORPGs_by_topic -> Sports_management_MMORPGs
+
++ Computing_and_society -> Computing_culture -> Computing_in_fiction -> Cyberpunk -> Cyberpunk_themes -> Cyberspace -> Cyberwarfare -> Cryptography -> Cryptographic_algorithms
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Electronic_publishing -> Digital_media -> Electronic_games -> Video_games -> Video_games_by_company -> Disney_video_games
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Publishing -> Educational_materials -> Reference_works -> Encyclopedias -> Jewish_encyclopedias
+
+- Information_technology -> Information_science -> Library_science -> Reference -> Sources -> Tertiary_sources -> Encyclopedias -> Encyclopedists -> Jewish_encyclopedists
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Hertzsprung–Russell_classifications -> Subgiant_stars
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Hertzsprung–Russell_classifications -> Subgiant_stars -> B-type_subgiants
+
+- Information_technology -> Information_technology_management -> Data_management -> Recording -> Recording_devices
+
++ Information_technology -> Information_science -> Information_storage -> Computer_storage -> Computer_storage_devices
+
+- Information_technology -> Information_technology_management -> Data_management -> Recording -> Recording_devices -> Computer_storage_devices -> Heat-assisted_magnetic_recording
+
++ Software -> Software_distribution
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Planning -> Strategy -> Strategic_management -> Business_models -> Software_distribution -> Software_distribution_platforms
+
+- Software -> User_interfaces -> Hypertext -> World_Wide_Web -> Online_companies -> Online_retailers -> Online_content_distribution -> Online-only_retailers_of_video_games
+
++ Computing_and_society -> Personal_computing -> Electronic_games -> Video_games -> Video_game_gameplay -> Online_gaming_services -> Online-only_retailers_of_video_games -> Mobile_software_distribution_platforms
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Types_of_museum -> Museums_by_type -> History_museums -> History_museums_by_country -> History_museums_in_the_Republic_of_Ireland
+
++ Information_technology -> Information_science -> Knowledge_representation -> Classification_systems -> Taxonomy -> Morphology
+
++ Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Abstraction -> Conceptual_systems -> Classification_systems -> Taxonomy -> Morphology -> Linguistic_morphology
+
+- Information_technology -> Information_science -> Knowledge_representation -> Classification_systems -> Morphology -> Linguistic_morphology -> Grammatical_moods
+
++ Computing_infrastructure
+
++ World_Wide_Web -> Internet-based_works -> Websites -> Web_2.0
+
+- Information_technology -> Information_science -> Information_storage -> Museums -> Museums_by_type -> Museums_in_Scotland_by_type -> Military_and_war_museums_in_Scotland
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Audio_hobbies
+
+- Information_technology -> Information_science -> Information_retrieval -> Sound_production_technology -> Audio_hobbies -> Boombox_culture
+
+- Computing_and_society -> Information_society -> Information_economy -> Media_industry -> Music_industry -> Recorded_music
+
+- Information_technology -> Information_technology_management -> Computer_data -> Data_management -> Recording -> Sound_recording -> Recorded_music -> Albums
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Game_theory -> Strategy -> Strategic_management
+
+- Computer_science -> Areas_of_computer_science -> Artificial_intelligence -> Problem_solving -> Decision_theory -> Game_theory -> Strategy -> Strategic_management -> Organizational_structure
